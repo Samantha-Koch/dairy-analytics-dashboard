@@ -1,4 +1,4 @@
-Production metric KPIs
+Production metric KPIs  
 
 Milk Yield Per Cow : 
 The pounds of milk produced per cow annually.
@@ -16,7 +16,7 @@ Protein Percentage :
 A measure of milk composition observing the proportion of the total milk that is protein. 
 In the U.S. milk components are the primary factor in price paid for milk, with price being determined per pound of components.Increased amounts of protein produced lead to increased price paid for milk. The price of protein per pound is slightly higher than that of butterfat. 
 
-Feed and cost metrics
+Feed and cost metrics  
 
 Feed efficiency :
 The measure of how effective a cow is in converting feed to milk. 
@@ -38,13 +38,13 @@ Dry period :
 The number of days during which a dairy cow is not milked before calving, and resumption of milk production. 
 Dry period duration can have various impacts on production factors. The primary production factor impacted by dry period duration is milk yield. The current benchmark is a 60 day dry period. 
 
-Inventory and operations
+Inventory and operations  
 
 Spoilage rate :
 A measure of the percentage of total milk production that is lost due to spoilage.
 Spoilage leads to dairy becoming inedible due to degradation by microorganisms and enzymes. Spoilage can lead to significant economic loss. Spoilage can occur due to environmental contaminants that increase the level of microbes in the milk.  
 
-Market and Revenue
+Market and Revenue  
 
 Milk Class Trends :
 Observes trends in price among the four classes of milk. 
