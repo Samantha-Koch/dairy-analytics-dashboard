@@ -1,4 +1,5 @@
 Production metric KPIs
+
 Milk Yield Per Cow : 
 The pounds of milk produced per cow annually.
 Knowledge of the milk yield of individual cows is important in understanding the individual cows profitability. This metric allows for identification of cows that are underperforming compared to the herd average and cows that are not producing enough milk to cover their individual cost.  
@@ -16,6 +17,7 @@ A measure of milk composition observing the proportion of the total milk that is
 In the U.S. milk components are the primary factor in price paid for milk, with price being determined per pound of components.Increased amounts of protein produced lead to increased price paid for milk. The price of protein per pound is slightly higher than that of butterfat. 
 
 Feed and cost metrics
+
 Feed efficiency :
 The measure of how effective a cow is in converting feed to milk. 
 Feed efficiency = Energy corrected milk (ECM) / dry matter intake (DMI)
@@ -37,11 +39,13 @@ The number of days during which a dairy cow is not milked before calving, and re
 Dry period duration can have various impacts on production factors. The primary production factor impacted by dry period duration is milk yield. The current benchmark is a 60 day dry period. 
 
 Inventory and operations
+
 Spoilage rate :
 A measure of the percentage of total milk production that is lost due to spoilage.
 Spoilage leads to dairy becoming inedible due to degradation by microorganisms and enzymes. Spoilage can lead to significant economic loss. Spoilage can occur due to environmental contaminants that increase the level of microbes in the milk.  
 
 Market and Revenue
+
 Milk Class Trends :
 Observes trends in price among the four classes of milk. 
 A minimum is set federally but prices may vary among state markets. FMMO class 1 prices are set monthly. The price of class 1 is impacted by the prices of class 3 and 4. Trends in class prices are important for operators to be able to understand changing milk prices.   
