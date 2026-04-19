@@ -1,56 +1,56 @@
 Production metric KPIs  
 
-Milk Yield Per Cow : 
-The pounds of milk produced per cow annually.
+Milk Yield Per Cow :   
+The pounds of milk produced per cow annually.  
 Knowledge of the milk yield of individual cows is important in understanding the individual cows profitability. This metric allows for identification of cows that are underperforming compared to the herd average and cows that are not producing enough milk to cover their individual cost.  
 
-Bulk Tank Somatic Cell Count (SCC):
-Bulk tank SCC measures the concentration of somatic cells in milk, with desired levels of less than 200,000 cells per mL.
+Bulk Tank Somatic Cell Count (SCC):  
+Bulk tank SCC measures the concentration of somatic cells in milk, with desired levels of less than 200,000 cells per mL.  
 SCC is an important measure for operators as it is an indicator of subclinical mastitis, with high SCC values indicating subclinical mastitis. Subclinical mastitis can have various negative impacts on production including decreased production volume and composition changes. Composition changes create issues such as lower nutritional value, reduced heat stability, and lower grading.
 
-Butterfat Percentage :
-A measure of milk composition observing the proportion of the total milk that is butterfat. 
+Butterfat Percentage :  
+A measure of milk composition observing the proportion of the total milk that is butterfat.   
 In the U.S. milk components are the primary factor in price paid for milk, with price being determined per pound of components. Increased amounts of butterfat produced lead to increased price paid for milk. 
 
-Protein Percentage :
-A measure of milk composition observing the proportion of the total milk that is protein. 
+Protein Percentage :  
+A measure of milk composition observing the proportion of the total milk that is protein.   
 In the U.S. milk components are the primary factor in price paid for milk, with price being determined per pound of components.Increased amounts of protein produced lead to increased price paid for milk. The price of protein per pound is slightly higher than that of butterfat. 
 
 Feed and cost metrics  
 
-Feed efficiency :
-The measure of how effective a cow is in converting feed to milk. 
+Feed efficiency :  
+The measure of how effective a cow is in converting feed to milk.   
 Feed efficiency = Energy corrected milk (ECM) / dry matter intake (DMI)
 Feed is a primary cost in the dairy industry. Analysis of feed efficiency is important in determining ways to improve profitability through reduction of feed costs. Observation of feed efficiency on a cow by cow basis can help in identification of underproducing cows. 
 
-Income over feed cost :
-Measures the expected gross income generated per cow per day. 
-IOFC ($/cow/day) = milk price ($/cwt) * (daily avg milk prod (lb/cow/day)/100) - daily food cost
+Income over feed cost :  
+Measures the expected gross income generated per cow per day.   
+IOFC ($/cow/day) = milk price ($/cwt) * (daily avg milk prod (lb/cow/day)/100) - daily food cost  
 This measurement allows operators to gain a better understanding of how much income is being generated per head each day by deducting the main cost of production, feed costs, from the predicted revenue from milk production. Knowing IOFC can help operators in determining if changes need to be made in regards to feed purchases. IOFC also provides the estimated income that can be put towards other production expenses, such as overhead and dry cow costs.
 
-Herd Health :
+Herd Health :  
 Subclinical Mastitis prevalence
-Measurement of the number of cows in a herd that have subclinical mastitis, as determined by somatic cell counts greater than 200000 cells/mL.
-Prevalence = cows having over 200000 SCC / total cows in herd
+Measurement of the number of cows in a herd that have subclinical mastitis, as determined by somatic cell counts greater than 200000 cells/mL.  
+Prevalence = cows having over 200000 SCC / total cows in herd  
 In the dairy industry mastitis, both clinical and subclinical, is a common health concern that is faced. Mastitis negatively impacts production leading to financial loss. Monitoring of subclinical mastitis prevalence is important in determining whether mastitis is becoming a problem in the herd. 
 
-Dry period :
-The number of days during which a dairy cow is not milked before calving, and resumption of milk production. 
+Dry period :  
+The number of days during which a dairy cow is not milked before calving, and resumption of milk production.   
 Dry period duration can have various impacts on production factors. The primary production factor impacted by dry period duration is milk yield. The current benchmark is a 60 day dry period. 
 
 Inventory and operations  
 
-Spoilage rate :
-A measure of the percentage of total milk production that is lost due to spoilage.
+Spoilage rate :  
+A measure of the percentage of total milk production that is lost due to spoilage.  
 Spoilage leads to dairy becoming inedible due to degradation by microorganisms and enzymes. Spoilage can lead to significant economic loss. Spoilage can occur due to environmental contaminants that increase the level of microbes in the milk.  
 
 Market and Revenue  
 
-Milk Class Trends :
-Observes trends in price among the four classes of milk. 
+Milk Class Trends :  
+Observes trends in price among the four classes of milk.   
 A minimum is set federally but prices may vary among state markets. FMMO class 1 prices are set monthly. The price of class 1 is impacted by the prices of class 3 and 4. Trends in class prices are important for operators to be able to understand changing milk prices.   
 
-Margin per cow :
-The profit generated by an individual cow, given their milk production. 
-Margin per cow = ((gross value of production per cwt) - (operating costs + overhead costs)) * cwt milk per cow
+Margin per cow :  
+The profit generated by an individual cow, given their milk production.   
+Margin per cow = ((gross value of production per cwt) - (operating costs + overhead costs)) * cwt milk per cow  
 Allows operators to determine profitability on a cow by cow basis. This allows for identification of cows that are underperforming, and allows for identification of trends in performance. 
