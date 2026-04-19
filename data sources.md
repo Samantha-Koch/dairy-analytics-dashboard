@@ -8,7 +8,7 @@ Public data, CSV, refresh frequency: monthly
 https://www.ers.usda.gov/data-products/dairy-data  
 
 
-Milk Production and FActors AFfecting Supply:  
+Milk Production and Factors Affecting Supply:  
 Public data, CSV, refresh frequency: annual  
 https://www.ers.usda.gov/data-products/dairy-data  
 
