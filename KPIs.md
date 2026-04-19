@@ -20,7 +20,7 @@ Feed and cost metrics
 
 Feed efficiency :  
 The measure of how effective a cow is in converting feed to milk.   
-Feed efficiency = Energy corrected milk (ECM) / dry matter intake (DMI)
+Feed efficiency = Energy corrected milk (ECM) / dry matter intake (DMI)  
 Feed is a primary cost in the dairy industry. Analysis of feed efficiency is important in determining ways to improve profitability through reduction of feed costs. Observation of feed efficiency on a cow by cow basis can help in identification of underproducing cows. 
 
 Income over feed cost :  
