@@ -1,0 +1,7 @@
+metric_id,name,description,domain,base_unit,value_type,aggregation
+producer_milk_receipts,Producer milk receipts,"Receipts of Producer Milk by Regulated Handlers (AMS FMMO report). Monthly values; YTD not stored.",milk,million_lb,quantity,sum
+producer_butterfat,Producer butterfat,"Butterfat percentage of producer milk pooled (AMS FMMO report).",milk,percent,percent,none
+producer_nonfat_solids,Producer nonfat solids,"Nonfat solids percentage of producer milk pooled (AMS FMMO report).",milk,percent,percent,none
+producer_true_protein,Producer true protein,"True protein percentage of producer milk pooled (AMS FMMO report).",milk,percent,percent,none
+producer_other_solids,Producer other solids,"Other solids percentage of producer milk pooled (AMS FMMO report).",milk,percent,percent,none
+producer_scc,Producer somatic cell count,"Somatic cell count of producer milk (AMS FMMO report).",milk,thousand_cells_per_ml,count,none
