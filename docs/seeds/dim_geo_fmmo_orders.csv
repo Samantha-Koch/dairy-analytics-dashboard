@@ -1,0 +1,13 @@
+geo_id,geo_level,scheme,code,name,parent_geo_id,fips,state_abbr
+US,national,NATIONAL,,United States,,,
+US-FMMO-ORDER-001,fmmo_order,USDA_FMMO_ORDER,1,Northeast,US,,
+US-FMMO-ORDER-005,fmmo_order,USDA_FMMO_ORDER,5,Appalachian,US,,
+US-FMMO-ORDER-006,fmmo_order,USDA_FMMO_ORDER,6,Florida,US,,
+US-FMMO-ORDER-007,fmmo_order,USDA_FMMO_ORDER,7,Southeast,US,,
+US-FMMO-ORDER-030,fmmo_order,USDA_FMMO_ORDER,30,Upper Midwest,US,,
+US-FMMO-ORDER-032,fmmo_order,USDA_FMMO_ORDER,32,Central,US,,
+US-FMMO-ORDER-033,fmmo_order,USDA_FMMO_ORDER,33,Mideast,US,,
+US-FMMO-ORDER-051,fmmo_order,USDA_FMMO_ORDER,51,California,US,,
+US-FMMO-ORDER-124,fmmo_order,USDA_FMMO_ORDER,124,Pacific Northwest,US,,
+US-FMMO-ORDER-126,fmmo_order,USDA_FMMO_ORDER,126,Southwest,US,,
+US-FMMO-ORDER-131,fmmo_order,USDA_FMMO_ORDER,131,Arizona,US,,
