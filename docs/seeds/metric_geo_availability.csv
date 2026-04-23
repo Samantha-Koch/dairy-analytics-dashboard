@@ -1,0 +1,13 @@
+metric_id,geo_level,scheme,is_default
+producer_milk_receipts,fmmo_order,USDA_FMMO_ORDER,true
+producer_milk_receipts,national,,false
+producer_butterfat,fmmo_order,USDA_FMMO_ORDER,true
+producer_butterfat,national,,false
+producer_nonfat_solids,fmmo_order,USDA_FMMO_ORDER,true
+producer_nonfat_solids,national,,false
+producer_true_protein,fmmo_order,USDA_FMMO_ORDER,true
+producer_true_protein,national,,false
+producer_other_solids,fmmo_order,USDA_FMMO_ORDER,true
+producer_other_solids,national,,false
+producer_scc,fmmo_order,USDA_FMMO_ORDER,true
+producer_scc,national,,false
