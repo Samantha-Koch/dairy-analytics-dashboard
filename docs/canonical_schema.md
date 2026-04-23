@@ -2,23 +2,33 @@ Tables
 
 
 Table: dim_time
-Purpose: canonical monthly time dimension.
+Purpose: canonical time dimension supporting annual, quarterly, and monthly grains.
 
+time_id (PK, string): canonical period key
+  - year:    "YYYY"  
+  - quarter: "YYYY-QN"   
+  - month:   "YYYY-MM"  
 
-time_id (PK, date): first day of month (e.g. 2026-03-01)
+period_type (enum): year | quarter | month
 year (int, 4-digit)
-month (int, 1–12)
-period_start (date): same as time_id
-period_end (date): last day of month
+quarter (int, 1–4, nullable; required when period_type=quarter)
+month (int, 1–12, nullable; required when period_type=month)
+period_start (date)
+period_end (date)
 
-
-Constraints  
-Unique time_id
-time_id must always be the first of the month.
-
+Constraints
+- Unique time_id
+- (period_type, year, quarter, month) must be unique
+- quarter must be null unless period_type=quarter
+- month must be null unless period_type=month
+- period_start and period_end must match the grain:
+  - year:    start = YYYY-01-01, end = YYYY-12-31
+  - quarter: start/end align to calendar quarters
+  - month:   start = first day of month, end = last day of month
 
 Table: dim_geo
 Purpose: canonical geography dimension supporting national, state, and FMMO order geographies.
+
 geo_id (PK, string)
 National: US
 State: US-STATE-CA, US-STATE-WI, …
@@ -37,6 +47,7 @@ parent_geo_id (string, FK → dim_geo.geo_id, nullable)
 Recommended: all states and FMMO orders have parent US
 fips (string, nullable; states only)
 state_abbr (string, nullable; states only)
+
 Constraints
 
 Unique geo_id
@@ -65,13 +76,32 @@ metadata_json (json, nullable)
 Table: dim_metric
 Purpose: defines the meaning and expected unit/behavior of an observation.
 
-metric_id (PK, string, snake_case)
+metric_id (PK, string, snake_case) : globally-unique canonical metric identifier
+Naming convention (required)
+- For raw ingested metrics, metric_id MUST be namespaced to avoid collisions:
+  - <dataset_slug>__<source_data_item>
+  - Or when needed: <dataset_slug>__<source_category>__<source_data_item>
+
 name (string)
+allowed_period_types (text[], required), allowed values in {year, quarter, month}
 description (string, nullable)
 domain (enum): milk | feed | herd | finance | other
 base_unit (string) from unit vocabulary
 value_type (enum): quantity | price | count | percent | ratio | index
 aggregation (enum): avg | sum | end_of_month | none
+
+
+Table: metric_source_map
+Purpose: map raw dataset fields → canonical metric_id.
+
+dataset_id (FK → dataset.dataset_id)
+source_category (string, nullable)
+source_data_item (string)      
+metric_id (FK → dim_metric.metric_id)
+
+Constraints
+- Unique (dataset_id, source_category, source_data_item)
+- Unique metric_id (enforced by dim_metric PK)
 
 
 FMMO metric set  
@@ -108,6 +138,7 @@ dataset
 Purpose: registry of ingestible datasets (USDA sources and user uploads).
 
 dataset_id (PK, string or uuid)
+dataset_slug (string, required, unique, snake_case)
 dataset_type (enum): usda | user_upload
 name (string)
 provider (string, nullable)
@@ -143,7 +174,10 @@ unit (string) from unit vocabulary (must be compatible with dim_metric.base_unit
 source (enum): usda | user_upload | derived (use derived later if you add stored KPIs)
 dataset_id (FK → dataset.dataset_id, nullable)
 run_id (FK → dataset_run.run_id, nullable)
-source_series_id (string, nullable) (e.g. USDA series code if applicable)
+source_series_id (string, nullable) 
+source_category (string, nullable)
+source_data_item (string, nullable)
+source_period (string, nullable)
 quality_flag (enum, nullable): ok | estimated | suppressed | outlier
 ingested_at (timestamp)
 
@@ -151,7 +185,7 @@ ingested_at (timestamp)
 Constraints  
 Unique (metric_id, time_id, geo_id, entity_id)
 unit must be in unit vocabulary
-time_id must be monthly (first of month)
+
 
 Units vocabulary  
 million_lb
