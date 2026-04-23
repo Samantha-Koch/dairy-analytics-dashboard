@@ -1,0 +1,14 @@
+[project]
+name = "dairy-analytics-ingestion"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "pandas",
+  "sqlalchemy",
+  "psycopg[binary]",
+  "python-dotenv",
+]
+
+[tool.uv]
+dev-dependencies = []
+
