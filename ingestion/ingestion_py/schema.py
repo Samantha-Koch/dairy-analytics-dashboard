@@ -5,12 +5,7 @@ from sqlalchemy.engine import Engine
 
 
 def ensure_schema(engine: Engine) -> None:
-    """
-    Create the minimal canonical tables used by ingestion.
-
-    This is intentionally small and uses CREATE TABLE IF NOT EXISTS so you can iterate quickly
-    before adding proper migrations in `backend/` (e.g., Alembic).
-    """
+   
     ddl = [
         # dim_time
         """

@@ -90,7 +90,9 @@ def main() -> None:
     metric_map_rows = []
 
     # stable set: use the dataset_slug, plus optional category to avoid collisions
-    for (cat, item), _ in df[["_category_raw", "_data_item_raw"]].drop_duplicates().iterrows():
+    for _, r in df[["_category_raw", "_data_item_raw"]].drop_duplicates().iterrows():
+        cat = r["_category_raw"]
+        item = r["_data_item_raw"]
         source_category = None if pd.isna(cat) else str(cat)
         source_item = str(item)
         cat_part = _slugify_metric_part(source_category) if source_category else None
