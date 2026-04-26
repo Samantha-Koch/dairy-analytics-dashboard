@@ -75,39 +75,39 @@ export default function Sidebar() {
       </NavLink>
 
       <NavLink
-        to="/herd"
+        to="/production"
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
         }
       >
-        {!collapsed && "Herd"}
+        {!collapsed && "Production"}
       </NavLink>
 
       <NavLink
-        to="/feed"
+        to="/Costs"
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
         }
       >
-        {!collapsed && "Feed"}
+        {!collapsed && "Costs"}
       </NavLink>
 
       <NavLink
-        to="/forecast"
+        to="/MarketData"
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
         }
       >
-        {!collapsed && "Forecast"}
+        {!collapsed && "Market Data"}
       </NavLink>
 
       <NavLink
-        to="/data"
+        to="/DataUpload"
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
         }
       >
-        {!collapsed && "Data Explorer"}
+        {!collapsed && "Data Upload"}
       </NavLink>
     </div>
   );

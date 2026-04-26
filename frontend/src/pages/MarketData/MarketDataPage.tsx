@@ -1,8 +1,8 @@
 import React from 'react';
-export default function ForecastPage() {
+export default function MarketDataPage() {
     return (
       <div>
-        <h1>Forecasting</h1>
+        <h1>Market Data</h1>
         <p>Market and revenue will go here.</p>
       </div>
     );

@@ -1,9 +1,9 @@
 import { Routes, Route } from "react-router-dom";
 import Dashboard from "./pages/Dashboard/Dashboard";
-import HerdPage from "./pages/Herd/HerdPage";
-import FeedPage from "./pages/Feed/FeedPage";
-import ForecastPage from "./pages/Forecast/ForecastPage";
-import DataExplorer from "./pages/DataExplorer/DataExplorer";
+import ProductionPage from "./pages/Production/ProductionPage";
+import MarketDataPage from "./pages/MarketData/MarketDataPage";
+import DataUpload from "./pages/DataUpload/DataUpload";
+import Costs from "./pages/Costs/Costs";
 import Sidebar from "./components/layout/Sidebar";
 import Topbar from "./components/layout/Topbar";
 import React from "react";
@@ -19,10 +19,10 @@ function App() {
         <div style={{ padding: "20px", overflowY: "auto" }}>
           <Routes>
             <Route path="/" element={<Dashboard />} />
-            <Route path="/herd" element={<HerdPage />} />
-            <Route path="/feed" element={<FeedPage />} />
-            <Route path="/forecast" element={<ForecastPage />} />
-            <Route path="/data" element={<DataExplorer />} />
+            <Route path="/production" element={<ProductionPage />} />
+            <Route path="/costs" element={<Costs />} />
+            <Route path="/market-data" element={<MarketDataPage />} />
+            <Route path="/data-upload" element={<DataUpload />} />
           </Routes>
         </div>
       </div>
