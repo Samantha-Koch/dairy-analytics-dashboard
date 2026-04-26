@@ -1,10 +1,32 @@
-import React from 'react';
+import { useEffect, useState } from "react";
+import { getCostsSummary } from "../../services/api/costsService";
+
+
 export default function Costs() {
-    return (
-      <div>
-        <h1>Costs Analytics</h1>
-        <p>Feed cost trends and feed efficiency analysis will go here.</p>
-      </div>
-    );
-  }
-  
+  const [summary, setSummary] = useState<any>(null);
+
+  useEffect(() => {
+    async function loadData() {
+      try {
+        const data = await getCostsSummary();
+        setSummary(data);
+      } catch (err) {
+        console.error("Failed to load costs summary", err);
+      }
+    }
+
+    loadData();
+  }, []);
+
+  return (
+    <div>
+      <h1>Costs</h1>
+
+      {!summary && <p>Loading...</p>}
+
+      {summary && (
+        <pre>{JSON.stringify(summary, null, 2)}</pre>
+      )}
+    </div>
+  );
+}

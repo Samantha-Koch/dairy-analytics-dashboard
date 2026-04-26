@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { getDashboardSummary } from "../../services/api/dashboardService";
-import React from "react";
 
 export default function Dashboard() {
   const [summary, setSummary] = useState<any>(null);
