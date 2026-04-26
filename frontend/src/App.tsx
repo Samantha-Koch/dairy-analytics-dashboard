@@ -6,6 +6,7 @@ import ForecastPage from "./pages/Forecast/ForecastPage";
 import DataExplorer from "./pages/DataExplorer/DataExplorer";
 import Sidebar from "./components/layout/Sidebar";
 import Topbar from "./components/layout/Topbar";
+import React from "react";
 
 function App() {
   return (
