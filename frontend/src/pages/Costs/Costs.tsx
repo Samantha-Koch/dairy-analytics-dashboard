@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getCostsSummary } from "../../services/api/costsService";
+import { getCostsSummary } from "../../services/api/costsService.ts";  
 
 
 export default function Costs() {
