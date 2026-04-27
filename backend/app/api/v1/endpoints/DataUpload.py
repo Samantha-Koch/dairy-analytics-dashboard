@@ -1,14 +1,20 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, UploadFile, File
+import os
 
 router = APIRouter()
 
-@router.get("/summary")
-def get_data_upload_summary():
+UPLOAD_DIR = "uploads"
+os.makedirs(UPLOAD_DIR, exist_ok=True)
+
+@router.post("/upload")
+async def upload_file(file: UploadFile = File(...)):
+    file_path = os.path.join(UPLOAD_DIR, file.filename)
+
+    with open(file_path, "wb") as f:
+        f.write(await file.read())
+
     return {
         "status": "ok",
-        "message": "Data upload summary endpoint is working",
-        "data": {
-            "example_metric": 123,
-            "another_metric": 456
-        }
+        "filename": file.filename,
+        "message": "File uploaded successfully"
     }
