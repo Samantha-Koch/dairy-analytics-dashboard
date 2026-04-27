@@ -26,83 +26,46 @@ export default function Dashboard() {
   if (!summary) {
     return <p>Failed to load dashboard data</p>
   }
+  /* link in kpi data where value="add in" is*/
   return (
     <div style={{padding: "20px"}}>
-      <h1>Dairy Analytics Dashboard</h1>
-      
+      <h1>Dairy Analytics Dashboard</h1>    
       {/* Section 1 */}
       <Section title="Production KPIs">
         <KpiGrid>
-          <div className="kpi-card">
-            <h3>Milk Per Cow</h3>
-            /* link kpi data here */
-          </div>
-          <div className="kpi-card">
-            <h3>Butterfat Percentage</h3>
-            /* link kpi data here */
-          </div>
-          <div className="kpi-card">
-            <h3>Protein Percentage</h3>
-            /* link kpi data here */
-          </div>
-          <div className="kpi-card">
-            <h3>Bulk Tank SCC</h3>
-            /* link kpi data here */
-          </div>
+          <KpiCard label="Milk Yield" value="add in"/>
+          <KpiCard label="Butterfat Percentage" value="add in"/>
+          <KpiCard label="Protein Percentage" value="add in"/>
+          <KpiCard label="Bulk Tank SCC" value="add in"/>
         </KpiGrid>
       </Section>
       {/* Section 2 */}
       <Section title="Feed Metric KPIs">
         <KpiGrid>
-          <div className="kpi-card">
-            <h3>Feed Efficiency</h3>
-            /* link kpi data here */
-          </div>
-          <div className="kpi-card">
-            <h3>Income Over Feed Cost</h3>
-            /* link kpi data here */
-          </div>
+          <KpiCard label="Feed Efficiency" value="add in"/>
+          <KpiCard label="Income Over Feed Cost" value="add in"/>
         </KpiGrid>
       </Section>
       {/* Section 3 */}
       <Section title="Herd Health KPIs">
         <KpiGrid>
-          <div className="kpi-card">
-            <h3>Subclinical Mastitis Prevalence</h3>
-            /* link kpi data here */
-          </div>
-          <div className="kpi-card">
-            <h3>Dry Period</h3>
-            /* link kpi data here */
-          </div>
+          <KpiCard label="Subclinical Mastitis Prevalence" value="add in"/>
+          <KpiCard label="Dry Period" value="add in"/>
         </KpiGrid>
       </Section> 
       {/* Section 4 */}
       <Section title="Inventory KPI">
         <KpiGrid>
-          <div className="kpi-card">
-            <h3>Spoilage Rate</h3>
-            /* link kpi data here */
-          </div>
+          <KpiCard label="Spoilage Rate" value="add in"/>
         </KpiGrid>
       </Section>                 
       {/* Section 5 */}
       <Section title="Market and Revenue KPIs">
         <KpiGrid>
-          <div className="kpi-card">
-            <h3>Milk Class Prices</h3>
-            /* link kpi data here */
-          </div>
-          <div className="kpi-card">
-            <h3>Margin Per Cow</h3>
-            /* link kpi data here */
-          </div>
+         <KpiCard label="Milk Class Prices" value="add in"/>
+         <KpiCard label="Margin Per Cow" value="add in"/>
         </KpiGrid>
       </Section>
-      {/* RAW JSON */}
-      <pre style={{marginTop: "40px"}}>
-        {JSON.stringify(summary, null, 2)}
-      </pre>
     </div>
   );
 }

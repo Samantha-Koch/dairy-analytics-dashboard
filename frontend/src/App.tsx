@@ -19,8 +19,8 @@ function App() {
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/production" element={<Production />} />
             <Route path="/costs" element={<Costs />} />
-            <Route path="/market-data" element={<MarketData />} />
-            <Route path="/data-upload" element={<DataUpload />} />
+            <Route path="/marketdata" element={<MarketData />} />
+            <Route path="/dataupload" element={<DataUpload />} />
           </Routes>
         </div>
       </div>

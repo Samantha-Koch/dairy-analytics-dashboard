@@ -66,7 +66,7 @@ export default function Sidebar() {
 
       {/* Navigation Links */}
       <NavLink
-        to="/"
+        to="/dashboard"
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
         }
@@ -93,7 +93,7 @@ export default function Sidebar() {
       </NavLink>
 
       <NavLink
-        to="/MarketData"
+        to="/marketdata"
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
         }
@@ -102,7 +102,7 @@ export default function Sidebar() {
       </NavLink>
 
       <NavLink
-        to="/DataUpload"
+        to="/dataupload"
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
         }
