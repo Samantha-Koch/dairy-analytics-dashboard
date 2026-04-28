@@ -98,7 +98,7 @@ export default function Sidebar() {
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
         }
       >
-        {!collapsed && "Market Data"}
+        {!collapsed && "Market Trends & Revenue"}
       </NavLink>
 
       <NavLink

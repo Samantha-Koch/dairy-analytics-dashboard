@@ -20,12 +20,11 @@ export default function Production() {
   return (
     <div>
       <h1>Production</h1>
-
       {!summary && <p>Loading...</p>}
-
-      {summary && (
-        <pre>{JSON.stringify(summary, null, 2)}</pre>
-      )}
+      <h2>Milk Yield Per Cow</h2>
+      <h2>Bulk Tank SCC</h2>
+      <h2>Butterfat Percentage</h2>
+      <h2>Protein Percentage</h2>
     </div>
   );
 }

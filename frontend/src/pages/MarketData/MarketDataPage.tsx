@@ -19,7 +19,7 @@ export default function MarketData() {
 
   return (
     <div>
-      <h1>Market Data</h1>
+      <h1>Market Trends & Revenue</h1>
 
       {!summary && <p>Loading...</p>}
 
