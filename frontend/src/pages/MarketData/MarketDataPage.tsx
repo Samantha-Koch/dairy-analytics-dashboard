@@ -19,13 +19,15 @@ export default function MarketData() {
 
   return (
     <div>
-      <h1>Market Trends & Revenue</h1>
+      <h1>Market Trends</h1>
 
       {!summary && <p>Loading...</p>}
 
-      {summary && (
-        <pre>{JSON.stringify(summary, null, 2)}</pre>
-      )}
+      <h2>Milk Class Prices</h2>
+      <h2>Milk Component Prices</h2>
+      <h2>Butter Price</h2>
+      <h2>Cheese Price</h2>
+      
     </div>
   );
 }

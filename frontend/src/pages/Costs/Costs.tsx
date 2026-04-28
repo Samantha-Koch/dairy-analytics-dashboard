@@ -20,13 +20,20 @@ export default function Costs() {
 
   return (
     <div>
-      <h1>Costs</h1>
+      <h1>Costs & Revenue</h1>
 
       {!summary && <p>Loading...</p>}
 
-      {summary && (
-        <pre>{JSON.stringify(summary, null, 2)}</pre>
-      )}
+      <h2>Costs</h2>
+        <h3>Total Cost</h3>
+        <h3>Feed Costs</h3>
+          <h4>Total Feed Costs</h4>
+          <h4>Milk to Feed Ratio</h4>
+      <h2>Revenue</h2>
+        <h3>Net Revenue</h3>
+        <h3>Margin per Cow</h3>
+        <h3>Margin per Cwt Milk</h3>
+
     </div>
   );
 }
