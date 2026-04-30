@@ -1,9 +1,29 @@
 import { useEffect, useState } from "react";
 import { getDashboardSummary } from "../../services/api/dashboardService";
+import PageTopbar from "../../components/layout/PageTopbar"
 
 export default function Dashboard() {
   const [summary, setSummary] = useState<any>(null);
   const [loading, setLoading] = useState(true);
+
+  const sections = [
+    { id: "production-KPI", label: "Production KPIs" },
+    { id: "feed-KPI", label: "Feed Metric KPIs" },
+    { id: "health-KPI", label: "Herd Health KPIs" },
+    { id: "inventory-KPI", label: "Inventory KPIs" },
+    { id: "market-KPI", label: "Market and Revnue KPIs" },
+  ];
+
+  const handleSelect = (id: string) => {
+    const el = document.getElementById(id);
+    if (!el) return;
+  
+    el.scrollIntoView({
+      behavior: "smooth",
+      block: "start",
+    });
+  };
+  
 
   useEffect(() => {
     async function loadData() {
@@ -20,6 +40,7 @@ export default function Dashboard() {
     loadData();
   }, []);
 
+
   if (loading) {
     return <p>Loading...</p>
   }
@@ -28,51 +49,58 @@ export default function Dashboard() {
   }
   /* link in kpi data where value="add in" is*/
   return (
-    <div style={{padding: "20px"}}>
-      <h1>Dairy Analytics Dashboard</h1>    
-      {/* Section 1 */}
-      <Section title="Production KPIs">
-        <KpiGrid>
-          <KpiCard label="Milk Yield" value="add in"/>
-          <KpiCard label="Butterfat Percentage" value="add in"/>
-          <KpiCard label="Protein Percentage" value="add in"/>
-          <KpiCard label="Bulk Tank SCC" value="add in"/>
-        </KpiGrid>
-      </Section>
-      {/* Section 2 */}
-      <Section title="Feed Metric KPIs">
-        <KpiGrid>
-          <KpiCard label="Feed Efficiency" value="add in"/>
-          <KpiCard label="Income Over Feed Cost" value="add in"/>
-        </KpiGrid>
-      </Section>
-      {/* Section 3 */}
-      <Section title="Herd Health KPIs">
-        <KpiGrid>
-          <KpiCard label="Subclinical Mastitis Prevalence" value="add in"/>
-          <KpiCard label="Dry Period" value="add in"/>
-        </KpiGrid>
-      </Section> 
-      {/* Section 4 */}
-      <Section title="Inventory KPI">
-        <KpiGrid>
-          <KpiCard label="Spoilage Rate" value="add in"/>
-        </KpiGrid>
-      </Section>                 
-      {/* Section 5 */}
-      <Section title="Market and Revenue KPIs">
-        <KpiGrid>
-         <KpiCard label="Milk Class Prices" value="add in"/>
-         <KpiCard label="Margin Per Cow" value="add in"/>
-        </KpiGrid>
-      </Section>
-    </div>
+    <>
+      <PageTopbar 
+        title="Dairy Analytics Dashboard"
+        sections={sections}
+        onSelect={handleSelect}
+      />
+      <div style={{padding: "0px 20px 20px 40px", overflowY:"auto", height:"100%"}}>
+          <h1>Dairy Analytics Dashboard</h1>    
+          {/* Section 1 */}
+          <Section id="production-KPI" title="Production KPIs">
+            <KpiGrid>
+              <KpiCard label="Milk Yield" value="add in"/>
+              <KpiCard label="Butterfat Percentage" value="add in"/>
+              <KpiCard label="Protein Percentage" value="add in"/>
+              <KpiCard label="Bulk Tank SCC" value="add in"/>
+            </KpiGrid>
+          </Section>
+          {/* Section 2 */}
+          <Section id="feed-KPI" title="Feed Metric KPIs">
+            <KpiGrid>
+              <KpiCard label="Feed Efficiency" value="add in"/>
+              <KpiCard label="Income Over Feed Cost" value="add in"/>
+            </KpiGrid>
+          </Section>
+          {/* Section 3 */}
+          <Section id="health-KPI" title="Herd Health KPIs">
+            <KpiGrid>
+              <KpiCard label="Subclinical Mastitis Prevalence" value="add in"/>
+              <KpiCard label="Dry Period" value="add in"/>
+            </KpiGrid>
+          </Section> 
+          {/* Section 4 */}
+          <Section id="inventory-KPI" title="Inventory KPI">
+            <KpiGrid>
+              <KpiCard label="Spoilage Rate" value="add in"/>
+            </KpiGrid>
+          </Section>                 
+          {/* Section 5 */}
+          <Section id="market-KPI" title="Market and Revenue KPIs">
+            <KpiGrid>
+            <KpiCard label="Milk Class Prices" value="add in"/>
+            <KpiCard label="Margin Per Cow" value="add in"/>
+            </KpiGrid>
+          </Section>
+      </div>
+    </>    
   );
 }
 
-function Section({title, children}: any){
+function Section({id, title, children}: any){
   return(
-    <div style={{marginTop: "40px"}}>
+    <div id={id} style={{marginTop: "40px"}}>
       <h2>{title}</h2>
       {children}
     </div>
