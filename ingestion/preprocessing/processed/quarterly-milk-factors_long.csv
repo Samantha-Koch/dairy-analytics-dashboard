@@ -1,0 +1,701 @@
+year,period,timeperiod_id,timeperiod_name,aggregation,data_item,value,units,category,unit
+1998,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,5.31,Dollars per hundredweight,,Dollars per hundredweight
+1998,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9174.0,"1,000 head",,"1,000 head"
+1998,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,4268.0,Pounds,,Pounds
+1998,JAN-MAR,13,Quarter 1,Not applicable,Milk production,39155.0,Million pounds,,Million pounds
+1998,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1070.0,Dollars per head,,Dollars per head
+1998,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,5.03,Dollars per hundredweight,,Dollars per hundredweight
+1998,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9165.0,"1,000 head",,"1,000 head"
+1998,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,4447.0,Pounds,,Pounds
+1998,APR-JUN,14,Quarter 2,Not applicable,Milk production,40753.0,Million pounds,,Million pounds
+1998,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1110.0,Dollars per head,,Dollars per head
+1998,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,4.38,Dollars per hundredweight,,Dollars per hundredweight
+1998,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9142.0,"1,000 head",,"1,000 head"
+1998,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,4210.0,Pounds,,Pounds
+1998,JUL-SEP,15,Quarter 3,Not applicable,Milk production,38486.0,Million pounds,,Million pounds
+1998,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1120.0,Dollars per head,,Dollars per head
+1998,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,4.2,Dollars per hundredweight,,Dollars per hundredweight
+1998,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9121.0,"1,000 head",,"1,000 head"
+1998,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,4261.0,Pounds,,Pounds
+1998,OCT-DEC,16,Quarter 4,Not applicable,Milk production,38868.0,Million pounds,,Million pounds
+1998,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1180.0,Dollars per head,,Dollars per head
+1998,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,4.73,Dollars per hundredweight,,Dollars per hundredweight
+1998,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9150.0,"1,000 head",,"1,000 head"
+1998,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,17185.0,Pounds,,Pounds
+1998,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,157262.0,Million pounds,,Million pounds
+1998,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1120.0,Dollars per head,,Dollars per head
+1999,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,4.22,Dollars per hundredweight,,Dollars per hundredweight
+1999,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9122.0,"1,000 head",,"1,000 head"
+1999,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,4436.0,Pounds,,Pounds
+1999,JAN-MAR,13,Quarter 1,Not applicable,Milk production,40461.0,Million pounds,,Million pounds
+1999,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1250.0,Dollars per head,,Dollars per head
+1999,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,4.2,Dollars per hundredweight,,Dollars per hundredweight
+1999,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9151.0,"1,000 head",,"1,000 head"
+1999,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,4589.0,Pounds,,Pounds
+1999,APR-JUN,14,Quarter 2,Not applicable,Milk production,41997.0,Million pounds,,Million pounds
+1999,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1240.0,Dollars per head,,Dollars per head
+1999,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,3.87,Dollars per hundredweight,,Dollars per hundredweight
+1999,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9168.0,"1,000 head",,"1,000 head"
+1999,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,4334.0,Pounds,,Pounds
+1999,JUL-SEP,15,Quarter 3,Not applicable,Milk production,39732.0,Million pounds,,Million pounds
+1999,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1280.0,Dollars per head,,Dollars per head
+1999,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,3.75,Dollars per hundredweight,,Dollars per hundredweight
+1999,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9169.0,"1,000 head",,"1,000 head"
+1999,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,4406.0,Pounds,,Pounds
+1999,OCT-DEC,16,Quarter 4,Not applicable,Milk production,40399.0,Million pounds,,Million pounds
+1999,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1380.0,Dollars per head,,Dollars per head
+1999,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,4.01,Dollars per hundredweight,,Dollars per hundredweight
+1999,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9152.0,"1,000 head",,"1,000 head"
+1999,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,17763.0,Pounds,,Pounds
+1999,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,162589.0,Million pounds,,Million pounds
+1999,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1280.0,Dollars per head,,Dollars per head
+2000,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,4.01,Dollars per hundredweight,,Dollars per hundredweight
+2000,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9182.0,"1,000 head",,"1,000 head"
+2000,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,4637.0,Pounds,,Pounds
+2000,JAN-MAR,13,Quarter 1,Not applicable,Milk production,42576.0,Million pounds,,Million pounds
+2000,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1330.0,Dollars per head,,Dollars per head
+2000,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,4.25,Dollars per hundredweight,,Dollars per hundredweight
+2000,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9205.0,"1,000 head",,"1,000 head"
+2000,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,4687.0,Pounds,,Pounds
+2000,APR-JUN,14,Quarter 2,Not applicable,Milk production,43143.0,Million pounds,,Million pounds
+2000,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1340.0,Dollars per head,,Dollars per head
+2000,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,3.79,Dollars per hundredweight,,Dollars per hundredweight
+2000,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9214.0,"1,000 head",,"1,000 head"
+2000,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,4456.0,Pounds,,Pounds
+2000,JUL-SEP,15,Quarter 3,Not applicable,Milk production,41062.0,Million pounds,,Million pounds
+2000,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1350.0,Dollars per head,,Dollars per head
+2000,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,4.13,Dollars per hundredweight,,Dollars per hundredweight
+2000,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9196.0,"1,000 head",,"1,000 head"
+2000,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,4416.0,Pounds,,Pounds
+2000,OCT-DEC,16,Quarter 4,Not applicable,Milk production,40612.0,Million pounds,,Million pounds
+2000,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1350.0,Dollars per head,,Dollars per head
+2000,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,4.04,Dollars per hundredweight,,Dollars per hundredweight
+2000,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9199.0,"1,000 head",,"1,000 head"
+2000,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,18197.0,Pounds,,Pounds
+2000,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,167393.0,Million pounds,,Million pounds
+2000,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1340.0,Dollars per head,,Dollars per head
+2001,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,4.3,Dollars per hundredweight,,Dollars per hundredweight
+2001,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9133.0,"1,000 head",,"1,000 head"
+2001,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,4517.0,Pounds,,Pounds
+2001,JAN-MAR,13,Quarter 1,Not applicable,Milk production,41250.0,Million pounds,,Million pounds
+2001,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1320.0,Dollars per head,,Dollars per head
+2001,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,4.41,Dollars per hundredweight,,Dollars per hundredweight
+2001,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9100.0,"1,000 head",,"1,000 head"
+2001,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,4691.0,Pounds,,Pounds
+2001,APR-JUN,14,Quarter 2,Not applicable,Milk production,42685.0,Million pounds,,Million pounds
+2001,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1400.0,Dollars per head,,Dollars per head
+2001,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,4.52,Dollars per hundredweight,,Dollars per hundredweight
+2001,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9082.0,"1,000 head",,"1,000 head"
+2001,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,4460.0,Pounds,,Pounds
+2001,JUL-SEP,15,Quarter 3,Not applicable,Milk production,40508.0,Million pounds,,Million pounds
+2001,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1590.0,Dollars per head,,Dollars per head
+2001,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,4.43,Dollars per hundredweight,,Dollars per hundredweight
+2001,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9095.0,"1,000 head",,"1,000 head"
+2001,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,4496.0,Pounds,,Pounds
+2001,OCT-DEC,16,Quarter 4,Not applicable,Milk production,40889.0,Million pounds,,Million pounds
+2001,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1700.0,Dollars per head,,Dollars per head
+2001,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,4.41,Dollars per hundredweight,,Dollars per hundredweight
+2001,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9102.0,"1,000 head",,"1,000 head"
+2001,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,18162.0,Pounds,,Pounds
+2001,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,165332.0,Million pounds,,Million pounds
+2001,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1500.0,Dollars per head,,Dollars per head
+2002,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,4.4,Dollars per hundredweight,,Dollars per hundredweight
+2002,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9113.0,"1,000 head",,"1,000 head"
+2002,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,4662.0,Pounds,,Pounds
+2002,JAN-MAR,13,Quarter 1,Not applicable,Milk production,42485.0,Million pounds,,Million pounds
+2002,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1610.0,Dollars per head,,Dollars per head
+2002,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,4.52,Dollars per hundredweight,,Dollars per hundredweight
+2002,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9148.0,"1,000 head",,"1,000 head"
+2002,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,4820.0,Pounds,,Pounds
+2002,APR-JUN,14,Quarter 2,Not applicable,Milk production,44089.0,Million pounds,,Million pounds
+2002,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1710.0,Dollars per head,,Dollars per head
+2002,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,4.9,Dollars per hundredweight,,Dollars per hundredweight
+2002,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9154.0,"1,000 head",,"1,000 head"
+2002,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,4571.0,Pounds,,Pounds
+2002,JUL-SEP,15,Quarter 3,Not applicable,Milk production,41846.0,Million pounds,,Million pounds
+2002,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1670.0,Dollars per head,,Dollars per head
+2002,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,4.88,Dollars per hundredweight,,Dollars per hundredweight
+2002,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9142.0,"1,000 head",,"1,000 head"
+2002,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,4555.0,Pounds,,Pounds
+2002,OCT-DEC,16,Quarter 4,Not applicable,Milk production,41643.0,Million pounds,,Million pounds
+2002,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1430.0,Dollars per head,,Dollars per head
+2002,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,4.67,Dollars per hundredweight,,Dollars per hundredweight
+2002,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9139.0,"1,000 head",,"1,000 head"
+2002,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,18608.0,Pounds,,Pounds
+2002,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,170063.0,Million pounds,,Million pounds
+2002,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1600.0,Dollars per head,,Dollars per head
+2003,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,4.86,Dollars per hundredweight,,Dollars per hundredweight
+2003,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9141.0,"1,000 head",,"1,000 head"
+2003,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,4714.0,Pounds,,Pounds
+2003,JAN-MAR,13,Quarter 1,Not applicable,Milk production,43091.0,Million pounds,,Million pounds
+2003,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1380.0,Dollars per head,,Dollars per head
+2003,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,4.98,Dollars per hundredweight,,Dollars per hundredweight
+2003,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9107.0,"1,000 head",,"1,000 head"
+2003,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,4830.0,Pounds,,Pounds
+2003,APR-JUN,14,Quarter 2,Not applicable,Milk production,43989.0,Million pounds,,Million pounds
+2003,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1300.0,Dollars per head,,Dollars per head
+2003,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,4.64,Dollars per hundredweight,,Dollars per hundredweight
+2003,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9068.0,"1,000 head",,"1,000 head"
+2003,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,4603.0,Pounds,,Pounds
+2003,JUL-SEP,15,Quarter 3,Not applicable,Milk production,41740.0,Million pounds,,Million pounds
+2003,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1310.0,Dollars per head,,Dollars per head
+2003,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,4.73,Dollars per hundredweight,,Dollars per hundredweight
+2003,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9009.0,"1,000 head",,"1,000 head"
+2003,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,4610.0,Pounds,,Pounds
+2003,OCT-DEC,16,Quarter 4,Not applicable,Milk production,41528.0,Million pounds,,Million pounds
+2003,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1380.0,Dollars per head,,Dollars per head
+2003,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,4.8,Dollars per hundredweight,,Dollars per hundredweight
+2003,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9081.0,"1,000 head",,"1,000 head"
+2003,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,18759.0,Pounds,,Pounds
+2003,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,170348.0,Million pounds,,Million pounds
+2003,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1340.0,Dollars per head,,Dollars per head
+2004,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,5.21,Dollars per hundredweight,,Dollars per hundredweight
+2004,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,8993.0,"1,000 head",,"1,000 head"
+2004,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,4755.0,Pounds,,Pounds
+2004,JAN-MAR,13,Quarter 1,Not applicable,Milk production,42762.0,Million pounds,,Million pounds
+2004,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1390.0,Dollars per head,,Dollars per head
+2004,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,5.92,Dollars per hundredweight,,Dollars per hundredweight
+2004,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9002.0,"1,000 head",,"1,000 head"
+2004,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,4870.0,Pounds,,Pounds
+2004,APR-JUN,14,Quarter 2,Not applicable,Milk production,43839.0,Million pounds,,Million pounds
+2004,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1580.0,Dollars per head,,Dollars per head
+2004,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,5.1,Dollars per hundredweight,,Dollars per hundredweight
+2004,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9027.0,"1,000 head",,"1,000 head"
+2004,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,4676.0,Pounds,,Pounds
+2004,JUL-SEP,15,Quarter 3,Not applicable,Milk production,42212.0,Million pounds,,Million pounds
+2004,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1720.0,Dollars per head,,Dollars per head
+2004,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,4.58,Dollars per hundredweight,,Dollars per hundredweight
+2004,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9019.0,"1,000 head",,"1,000 head"
+2004,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,4659.0,Pounds,,Pounds
+2004,OCT-DEC,16,Quarter 4,Not applicable,Milk production,42019.0,Million pounds,,Million pounds
+2004,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1640.0,Dollars per head,,Dollars per head
+2004,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,5.2,Dollars per hundredweight,,Dollars per hundredweight
+2004,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9010.0,"1,000 head",,"1,000 head"
+2004,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,18960.0,Pounds,,Pounds
+2004,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,170832.0,Million pounds,,Million pounds
+2004,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1580.0,Dollars per head,,Dollars per head
+2005,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,4.56,Dollars per hundredweight,,Dollars per hundredweight
+2005,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9001.0,"1,000 head",,"1,000 head"
+2005,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,4813.0,Pounds,,Pounds
+2005,JAN-MAR,13,Quarter 1,Not applicable,Milk production,43326.0,Million pounds,,Million pounds
+2005,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1620.0,Dollars per head,,Dollars per head
+2005,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,4.88,Dollars per hundredweight,,Dollars per hundredweight
+2005,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9042.0,"1,000 head",,"1,000 head"
+2005,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5068.0,Pounds,,Pounds
+2005,APR-JUN,14,Quarter 2,Not applicable,Milk production,45825.0,Million pounds,,Million pounds
+2005,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1770.0,Dollars per head,,Dollars per head
+2005,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,4.81,Dollars per hundredweight,,Dollars per hundredweight
+2005,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9073.0,"1,000 head",,"1,000 head"
+2005,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,4863.0,Pounds,,Pounds
+2005,JUL-SEP,15,Quarter 3,Not applicable,Milk production,44121.0,Million pounds,,Million pounds
+2005,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1830.0,Dollars per head,,Dollars per head
+2005,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,4.47,Dollars per hundredweight,,Dollars per hundredweight
+2005,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9085.0,"1,000 head",,"1,000 head"
+2005,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,4806.0,Pounds,,Pounds
+2005,OCT-DEC,16,Quarter 4,Not applicable,Milk production,43659.0,Million pounds,,Million pounds
+2005,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1870.0,Dollars per head,,Dollars per head
+2005,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,4.68,Dollars per hundredweight,,Dollars per hundredweight
+2005,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9050.0,"1,000 head",,"1,000 head"
+2005,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,19550.0,Pounds,,Pounds
+2005,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,176931.0,Million pounds,,Million pounds
+2005,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1770.0,Dollars per head,,Dollars per head
+2006,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,4.61,Dollars per hundredweight,,Dollars per hundredweight
+2006,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9121.0,"1,000 head",,"1,000 head"
+2006,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,4995.0,Pounds,,Pounds
+2006,JAN-MAR,13,Quarter 1,Not applicable,Milk production,45563.0,Million pounds,,Million pounds
+2006,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1840.0,Dollars per head,,Dollars per head
+2006,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,4.98,Dollars per hundredweight,,Dollars per hundredweight
+2006,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9156.0,"1,000 head",,"1,000 head"
+2006,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5125.0,Pounds,,Pounds
+2006,APR-JUN,14,Quarter 2,Not applicable,Milk production,46925.0,Million pounds,,Million pounds
+2006,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1770.0,Dollars per head,,Dollars per head
+2006,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,4.93,Dollars per hundredweight,,Dollars per hundredweight
+2006,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9137.0,"1,000 head",,"1,000 head"
+2006,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,4889.0,Pounds,,Pounds
+2006,JUL-SEP,15,Quarter 3,Not applicable,Milk production,44675.0,Million pounds,,Million pounds
+2006,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1680.0,Dollars per head,,Dollars per head
+2006,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,5.63,Dollars per hundredweight,,Dollars per hundredweight
+2006,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9133.0,"1,000 head",,"1,000 head"
+2006,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,4885.0,Pounds,,Pounds
+2006,OCT-DEC,16,Quarter 4,Not applicable,Milk production,44619.0,Million pounds,,Million pounds
+2006,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1650.0,Dollars per head,,Dollars per head
+2006,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,5.04,Dollars per hundredweight,,Dollars per hundredweight
+2006,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9137.0,"1,000 head",,"1,000 head"
+2006,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,19895.0,Pounds,,Pounds
+2006,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,181782.0,Million pounds,,Million pounds
+2006,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1730.0,Dollars per head,,Dollars per head
+2007,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,6.29,Dollars per hundredweight,,Dollars per hundredweight
+2007,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9152.0,"1,000 head",,"1,000 head"
+2007,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5033.0,Pounds,,Pounds
+2007,JAN-MAR,13,Quarter 1,Not applicable,Milk production,46063.0,Million pounds,,Million pounds
+2007,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1660.0,Dollars per head,,Dollars per head
+2007,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,6.89,Dollars per hundredweight,,Dollars per hundredweight
+2007,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9170.0,"1,000 head",,"1,000 head"
+2007,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5173.0,Pounds,,Pounds
+2007,APR-JUN,14,Quarter 2,Not applicable,Milk production,47438.0,Million pounds,,Million pounds
+2007,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1730.0,Dollars per head,,Dollars per head
+2007,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,6.81,Dollars per hundredweight,,Dollars per hundredweight
+2007,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9198.0,"1,000 head",,"1,000 head"
+2007,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5013.0,Pounds,,Pounds
+2007,JUL-SEP,15,Quarter 3,Not applicable,Milk production,46111.0,Million pounds,,Million pounds
+2007,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1950.0,Dollars per head,,Dollars per head
+2007,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,7.2,Dollars per hundredweight,,Dollars per hundredweight
+2007,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9236.0,"1,000 head",,"1,000 head"
+2007,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,4985.0,Pounds,,Pounds
+2007,OCT-DEC,16,Quarter 4,Not applicable,Milk production,46042.0,Million pounds,,Million pounds
+2007,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,2020.0,Dollars per head,,Dollars per head
+2007,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,6.8,Dollars per hundredweight,,Dollars per hundredweight
+2007,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9189.0,"1,000 head",,"1,000 head"
+2007,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,20204.0,Pounds,,Pounds
+2007,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,185654.0,Million pounds,,Million pounds
+2007,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1830.0,Dollars per head,,Dollars per head
+2008,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,8.34,Dollars per hundredweight,,Dollars per hundredweight
+2008,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9285.0,"1,000 head",,"1,000 head"
+2008,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5129.0,Pounds,,Pounds
+2008,JAN-MAR,13,Quarter 1,Not applicable,Milk production,47622.0,Million pounds,,Million pounds
+2008,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1960.0,Dollars per head,,Dollars per head
+2008,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,9.87,Dollars per hundredweight,,Dollars per hundredweight
+2008,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9311.0,"1,000 head",,"1,000 head"
+2008,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5237.0,Pounds,,Pounds
+2008,APR-JUN,14,Quarter 2,Not applicable,Milk production,48761.0,Million pounds,,Million pounds
+2008,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1940.0,Dollars per head,,Dollars per head
+2008,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,9.99,Dollars per hundredweight,,Dollars per hundredweight
+2008,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9327.0,"1,000 head",,"1,000 head"
+2008,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5024.0,Pounds,,Pounds
+2008,JUL-SEP,15,Quarter 3,Not applicable,Milk production,46859.0,Million pounds,,Million pounds
+2008,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1980.0,Dollars per head,,Dollars per head
+2008,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,8.47,Dollars per hundredweight,,Dollars per hundredweight
+2008,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9331.0,"1,000 head",,"1,000 head"
+2008,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5009.0,Pounds,,Pounds
+2008,OCT-DEC,16,Quarter 4,Not applicable,Milk production,46736.0,Million pounds,,Million pounds
+2008,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1920.0,Dollars per head,,Dollars per head
+2008,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,9.17,Dollars per hundredweight,,Dollars per hundredweight
+2008,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9314.0,"1,000 head",,"1,000 head"
+2008,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,20397.0,Pounds,,Pounds
+2008,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,189978.0,Million pounds,,Million pounds
+2008,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1950.0,Dollars per head,,Dollars per head
+2009,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,7.86,Dollars per hundredweight,,Dollars per hundredweight
+2009,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9295.0,"1,000 head",,"1,000 head"
+2009,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5092.0,Pounds,,Pounds
+2009,JAN-MAR,13,Quarter 1,Not applicable,Milk production,47332.0,Million pounds,,Million pounds
+2009,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1630.0,Dollars per head,,Dollars per head
+2009,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,7.65,Dollars per hundredweight,,Dollars per hundredweight
+2009,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9262.0,"1,000 head",,"1,000 head"
+2009,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5274.0,Pounds,,Pounds
+2009,APR-JUN,14,Quarter 2,Not applicable,Milk production,48850.0,Million pounds,,Million pounds
+2009,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1390.0,Dollars per head,,Dollars per head
+2009,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,6.76,Dollars per hundredweight,,Dollars per hundredweight
+2009,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9158.0,"1,000 head",,"1,000 head"
+2009,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5108.0,Pounds,,Pounds
+2009,JUL-SEP,15,Quarter 3,Not applicable,Milk production,46782.0,Million pounds,,Million pounds
+2009,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1280.0,Dollars per head,,Dollars per head
+2009,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,6.81,Dollars per hundredweight,,Dollars per hundredweight
+2009,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9092.0,"1,000 head",,"1,000 head"
+2009,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5086.0,Pounds,,Pounds
+2009,OCT-DEC,16,Quarter 4,Not applicable,Milk production,46238.0,Million pounds,,Million pounds
+2009,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1240.0,Dollars per head,,Dollars per head
+2009,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,7.27,Dollars per hundredweight,,Dollars per hundredweight
+2009,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9202.0,"1,000 head",,"1,000 head"
+2009,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,20561.0,Pounds,,Pounds
+2009,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,189202.0,Million pounds,,Million pounds
+2009,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1390.0,Dollars per head,,Dollars per head
+2010,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,6.82,Dollars per hundredweight,,Dollars per hundredweight
+2010,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9095.0,"1,000 head",,"1,000 head"
+2010,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5208.0,Pounds,,Pounds
+2010,JAN-MAR,13,Quarter 1,Not applicable,Milk production,47370.0,Million pounds,,Million pounds
+2010,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1340.0,Dollars per head,,Dollars per head
+2010,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,6.79,Dollars per hundredweight,,Dollars per hundredweight
+2010,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9121.0,"1,000 head",,"1,000 head"
+2010,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5462.0,Pounds,,Pounds
+2010,APR-JUN,14,Quarter 2,Not applicable,Milk production,49817.0,Million pounds,,Million pounds
+2010,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1330.0,Dollars per head,,Dollars per head
+2010,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,7.16,Dollars per hundredweight,,Dollars per hundredweight
+2010,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9135.0,"1,000 head",,"1,000 head"
+2010,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5266.0,Pounds,,Pounds
+2010,JUL-SEP,15,Quarter 3,Not applicable,Milk production,48102.0,Million pounds,,Million pounds
+2010,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1320.0,Dollars per head,,Dollars per head
+2010,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,8.05,Dollars per hundredweight,,Dollars per hundredweight
+2010,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9139.0,"1,000 head",,"1,000 head"
+2010,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5207.0,Pounds,,Pounds
+2010,OCT-DEC,16,Quarter 4,Not applicable,Milk production,47588.0,Million pounds,,Million pounds
+2010,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1330.0,Dollars per head,,Dollars per head
+2010,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,7.2,Dollars per hundredweight,,Dollars per hundredweight
+2010,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9122.0,"1,000 head",,"1,000 head"
+2010,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,21142.0,Pounds,,Pounds
+2010,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,192877.0,Million pounds,,Million pounds
+2010,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1330.0,Dollars per head,,Dollars per head
+2011,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,9.21,Dollars per hundredweight,,Dollars per hundredweight
+2011,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9173.0,"1,000 head",,"1,000 head"
+2011,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5283.0,Pounds,,Pounds
+2011,JAN-MAR,13,Quarter 1,Not applicable,Milk production,48461.0,Million pounds,,Million pounds
+2011,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1300.0,Dollars per head,,Dollars per head
+2011,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,11.21,Dollars per hundredweight,,Dollars per hundredweight
+2011,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9194.0,"1,000 head",,"1,000 head"
+2011,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5487.0,Pounds,,Pounds
+2011,APR-JUN,14,Quarter 2,Not applicable,Milk production,50450.0,Million pounds,,Million pounds
+2011,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1420.0,Dollars per head,,Dollars per head
+2011,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,11.71,Dollars per hundredweight,,Dollars per hundredweight
+2011,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9207.0,"1,000 head",,"1,000 head"
+2011,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5288.0,Pounds,,Pounds
+2011,JUL-SEP,15,Quarter 3,Not applicable,Milk production,48683.0,Million pounds,,Million pounds
+2011,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1480.0,Dollars per head,,Dollars per head
+2011,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,10.89,Dollars per hundredweight,,Dollars per hundredweight
+2011,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9223.0,"1,000 head",,"1,000 head"
+2011,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5276.0,Pounds,,Pounds
+2011,OCT-DEC,16,Quarter 4,Not applicable,Milk production,48661.0,Million pounds,,Million pounds
+2011,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1480.0,Dollars per head,,Dollars per head
+2011,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,10.76,Dollars per hundredweight,,Dollars per hundredweight
+2011,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9199.0,"1,000 head",,"1,000 head"
+2011,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,21334.0,Pounds,,Pounds
+2011,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,196255.0,Million pounds,,Million pounds
+2011,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1420.0,Dollars per head,,Dollars per head
+2012,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,11.33,Dollars per hundredweight,,Dollars per hundredweight
+2012,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9262.0,"1,000 head",,"1,000 head"
+2012,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5521.0,Pounds,,Pounds
+2012,JAN-MAR,13,Quarter 1,Not applicable,Milk production,51136.0,Million pounds,,Million pounds
+2012,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1460.0,Dollars per head,,Dollars per head
+2012,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,11.94,Dollars per hundredweight,,Dollars per hundredweight
+2012,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9262.0,"1,000 head",,"1,000 head"
+2012,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5571.0,Pounds,,Pounds
+2012,APR-JUN,14,Quarter 2,Not applicable,Milk production,51600.0,Million pounds,,Million pounds
+2012,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1440.0,Dollars per head,,Dollars per head
+2012,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,12.79,Dollars per hundredweight,,Dollars per hundredweight
+2012,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9217.0,"1,000 head",,"1,000 head"
+2012,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5290.0,Pounds,,Pounds
+2012,JUL-SEP,15,Quarter 3,Not applicable,Milk production,48754.0,Million pounds,,Million pounds
+2012,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1420.0,Dollars per head,,Dollars per head
+2012,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,12.57,Dollars per hundredweight,,Dollars per hundredweight
+2012,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9205.0,"1,000 head",,"1,000 head"
+2012,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5340.0,Pounds,,Pounds
+2012,OCT-DEC,16,Quarter 4,Not applicable,Milk production,49152.0,Million pounds,,Million pounds
+2012,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1390.0,Dollars per head,,Dollars per head
+2012,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,12.16,Dollars per hundredweight,,Dollars per hundredweight
+2012,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9236.0,"1,000 head",,"1,000 head"
+2012,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,21722.0,Pounds,,Pounds
+2012,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,200642.0,Million pounds,,Million pounds
+2012,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1430.0,Dollars per head,,Dollars per head
+2013,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,12.81,Dollars per hundredweight,,Dollars per hundredweight
+2013,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,,"1,000 head",,"1,000 head"
+2013,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,,Pounds,,Pounds
+2013,JAN-MAR,13,Quarter 1,Not applicable,Milk production,50562.0,Million pounds,,Million pounds
+2013,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1370.0,Dollars per head,,Dollars per head
+2013,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,12.76,Dollars per hundredweight,,Dollars per hundredweight
+2013,APR-JUN,14,Quarter 2,Not applicable,Milk cow,,"1,000 head",,"1,000 head"
+2013,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,,Pounds,,Pounds
+2013,APR-JUN,14,Quarter 2,Not applicable,Milk production,52037.0,Million pounds,,Million pounds
+2013,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,,Dollars per head,,Dollars per head
+2013,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,11.58,Dollars per hundredweight,,Dollars per hundredweight
+2013,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9226.0,"1,000 head",,"1,000 head"
+2013,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5358.0,Pounds,,Pounds
+2013,JUL-SEP,15,Quarter 3,Not applicable,Milk production,49429.0,Million pounds,,Million pounds
+2013,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,,Dollars per head,,Dollars per head
+2013,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,9.64,Dollars per hundredweight,,Dollars per hundredweight
+2013,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9204.0,"1,000 head",,"1,000 head"
+2013,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5349.0,Pounds,,Pounds
+2013,OCT-DEC,16,Quarter 4,Not applicable,Milk production,49232.0,Million pounds,,Million pounds
+2013,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1410.0,Dollars per head,,Dollars per head
+2013,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,11.7,Dollars per hundredweight,,Dollars per hundredweight
+2013,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9224.0,"1,000 head",,"1,000 head"
+2013,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,21819.0,Pounds,,Pounds
+2013,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,201260.0,Million pounds,,Million pounds
+2013,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1380.0,Dollars per head,,Dollars per head
+2014,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,9.69,Dollars per hundredweight,,Dollars per hundredweight
+2014,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9218.0,"1,000 head",,"1,000 head"
+2014,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5533.0,Pounds,,Pounds
+2014,JAN-MAR,13,Quarter 1,Not applicable,Milk production,51005.0,Million pounds,,Million pounds
+2014,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1440.0,Dollars per head,,Dollars per head
+2014,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,10.63,Dollars per hundredweight,,Dollars per hundredweight
+2014,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9255.0,"1,000 head",,"1,000 head"
+2014,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5718.0,Pounds,,Pounds
+2014,APR-JUN,14,Quarter 2,Not applicable,Milk production,52917.0,Million pounds,,Million pounds
+2014,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1810.0,Dollars per head,,Dollars per head
+2014,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,9.26,Dollars per hundredweight,,Dollars per hundredweight
+2014,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9275.0,"1,000 head",,"1,000 head"
+2014,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5517.0,Pounds,,Pounds
+2014,JUL-SEP,15,Quarter 3,Not applicable,Milk production,51168.0,Million pounds,,Million pounds
+2014,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1970.0,Dollars per head,,Dollars per head
+2014,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,8.47,Dollars per hundredweight,,Dollars per hundredweight
+2014,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9294.0,"1,000 head",,"1,000 head"
+2014,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5483.0,Pounds,,Pounds
+2014,OCT-DEC,16,Quarter 4,Not applicable,Milk production,50958.0,Million pounds,,Million pounds
+2014,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,2120.0,Dollars per head,,Dollars per head
+2014,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,9.51,Dollars per hundredweight,,Dollars per hundredweight
+2014,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9261.0,"1,000 head",,"1,000 head"
+2014,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,22249.0,Pounds,,Pounds
+2014,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,206048.0,Million pounds,,Million pounds
+2014,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1830.0,Dollars per head,,Dollars per head
+2015,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,8.26,Dollars per hundredweight,,Dollars per hundredweight
+2015,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9316.0,"1,000 head",,"1,000 head"
+2015,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5574.0,Pounds,,Pounds
+2015,JAN-MAR,13,Quarter 1,Not applicable,Milk production,51928.0,Million pounds,,Million pounds
+2015,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1990.0,Dollars per head,,Dollars per head
+2015,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,8.31,Dollars per hundredweight,,Dollars per hundredweight
+2015,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9329.0,"1,000 head",,"1,000 head"
+2015,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5760.0,Pounds,,Pounds
+2015,APR-JUN,14,Quarter 2,Not applicable,Milk production,53739.0,Million pounds,,Million pounds
+2015,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1970.0,Dollars per head,,Dollars per head
+2015,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,8.03,Dollars per hundredweight,,Dollars per hundredweight
+2015,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9318.0,"1,000 head",,"1,000 head"
+2015,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5542.0,Pounds,,Pounds
+2015,JUL-SEP,15,Quarter 3,Not applicable,Milk production,51645.0,Million pounds,,Million pounds
+2015,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,2030.0,Dollars per head,,Dollars per head
+2015,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,7.56,Dollars per hundredweight,,Dollars per hundredweight
+2015,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9316.0,"1,000 head",,"1,000 head"
+2015,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5495.0,Pounds,,Pounds
+2015,OCT-DEC,16,Quarter 4,Not applicable,Milk production,51196.0,Million pounds,,Million pounds
+2015,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1980.0,Dollars per head,,Dollars per head
+2015,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,8.04,Dollars per hundredweight,,Dollars per hundredweight
+2015,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9320.0,"1,000 head",,"1,000 head"
+2015,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,22372.0,Pounds,,Pounds
+2015,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,208508.0,Million pounds,,Million pounds
+2015,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1990.0,Dollars per head,,Dollars per head
+2016,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,7.27,Dollars per hundredweight,,Dollars per hundredweight
+2016,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9313.0,"1,000 head",,"1,000 head"
+2016,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5688.0,Pounds,,Pounds
+2016,JAN-MAR,13,Quarter 1,Not applicable,Milk production,52975.0,Million pounds,,Million pounds
+2016,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1830.0,Dollars per head,,Dollars per head
+2016,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,7.65,Dollars per hundredweight,,Dollars per hundredweight
+2016,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9326.0,"1,000 head",,"1,000 head"
+2016,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5827.0,Pounds,,Pounds
+2016,APR-JUN,14,Quarter 2,Not applicable,Milk production,54344.0,Million pounds,,Million pounds
+2016,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1830.0,Dollars per head,,Dollars per head
+2016,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,7.17,Dollars per hundredweight,,Dollars per hundredweight
+2016,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9336.0,"1,000 head",,"1,000 head"
+2016,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5632.0,Pounds,,Pounds
+2016,JUL-SEP,15,Quarter 3,Not applicable,Milk production,52581.0,Million pounds,,Million pounds
+2016,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1730.0,Dollars per head,,Dollars per head
+2016,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,6.93,Dollars per hundredweight,,Dollars per hundredweight
+2016,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9360.0,"1,000 head",,"1,000 head"
+2016,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5614.0,Pounds,,Pounds
+2016,OCT-DEC,16,Quarter 4,Not applicable,Milk production,52551.0,Million pounds,,Million pounds
+2016,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1690.0,Dollars per head,,Dollars per head
+2016,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,7.26,Dollars per hundredweight,,Dollars per hundredweight
+2016,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9334.0,"1,000 head",,"1,000 head"
+2016,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,22761.0,Pounds,,Pounds
+2016,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,212451.0,Million pounds,,Million pounds
+2016,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1760.0,Dollars per head,,Dollars per head
+2017,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,7.08,Dollars per hundredweight,,Dollars per hundredweight
+2017,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9381.0,"1,000 head",,"1,000 head"
+2017,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5713.0,Pounds,,Pounds
+2017,JAN-MAR,13,Quarter 1,Not applicable,Milk production,53596.0,Million pounds,,Million pounds
+2017,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1620.0,Dollars per head,,Dollars per head
+2017,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,7.51,Dollars per hundredweight,,Dollars per hundredweight
+2017,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9408.0,"1,000 head",,"1,000 head"
+2017,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5887.0,Pounds,,Pounds
+2017,APR-JUN,14,Quarter 2,Not applicable,Milk production,55388.0,Million pounds,,Million pounds
+2017,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1640.0,Dollars per head,,Dollars per head
+2017,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,7.36,Dollars per hundredweight,,Dollars per hundredweight
+2017,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9416.0,"1,000 head",,"1,000 head"
+2017,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5675.0,Pounds,,Pounds
+2017,JUL-SEP,15,Quarter 3,Not applicable,Milk production,53438.0,Million pounds,,Million pounds
+2017,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1620.0,Dollars per head,,Dollars per head
+2017,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,7.24,Dollars per hundredweight,,Dollars per hundredweight
+2017,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9419.0,"1,000 head",,"1,000 head"
+2017,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5638.0,Pounds,,Pounds
+2017,OCT-DEC,16,Quarter 4,Not applicable,Milk production,53105.0,Million pounds,,Million pounds
+2017,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1610.0,Dollars per head,,Dollars per head
+2017,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,7.3,Dollars per hundredweight,,Dollars per hundredweight
+2017,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9406.0,"1,000 head",,"1,000 head"
+2017,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,22914.0,Pounds,,Pounds
+2017,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,215527.0,Million pounds,,Million pounds
+2017,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1620.0,Dollars per head,,Dollars per head
+2018,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,7.59,Dollars per hundredweight,,Dollars per hundredweight
+2018,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9434.0,"1,000 head",,"1,000 head"
+2018,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5767.0,Pounds,,Pounds
+2018,JAN-MAR,13,Quarter 1,Not applicable,Milk production,54408.0,Million pounds,,Million pounds
+2018,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1520.0,Dollars per head,,Dollars per head
+2018,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,8.38,Dollars per hundredweight,,Dollars per hundredweight
+2018,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9416.0,"1,000 head",,"1,000 head"
+2018,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5928.0,Pounds,,Pounds
+2018,APR-JUN,14,Quarter 2,Not applicable,Milk production,55822.0,Million pounds,,Million pounds
+2018,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1360.0,Dollars per head,,Dollars per head
+2018,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,7.94,Dollars per hundredweight,,Dollars per hundredweight
+2018,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9384.0,"1,000 head",,"1,000 head"
+2018,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5752.0,Pounds,,Pounds
+2018,JUL-SEP,15,Quarter 3,Not applicable,Milk production,53975.0,Million pounds,,Million pounds
+2018,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1320.0,Dollars per head,,Dollars per head
+2018,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,7.89,Dollars per hundredweight,,Dollars per hundredweight
+2018,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9359.0,"1,000 head",,"1,000 head"
+2018,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5703.0,Pounds,,Pounds
+2018,OCT-DEC,16,Quarter 4,Not applicable,Milk production,53379.0,Million pounds,,Million pounds
+2018,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1230.0,Dollars per head,,Dollars per head
+2018,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,7.95,Dollars per hundredweight,,Dollars per hundredweight
+2018,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9398.0,"1,000 head",,"1,000 head"
+2018,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,23152.0,Pounds,,Pounds
+2018,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,217584.0,Million pounds,,Million pounds
+2018,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1360.0,Dollars per head,,Dollars per head
+2019,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,8.13,Dollars per hundredweight,,Dollars per hundredweight
+2019,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9341.0,"1,000 head",,"1,000 head"
+2019,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5826.0,Pounds,,Pounds
+2019,JAN-MAR,13,Quarter 1,Not applicable,Milk production,54423.0,Million pounds,,Million pounds
+2019,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1140.0,Dollars per head,,Dollars per head
+2019,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,8.51,Dollars per hundredweight,,Dollars per hundredweight
+2019,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9328.0,"1,000 head",,"1,000 head"
+2019,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5974.0,Pounds,,Pounds
+2019,APR-JUN,14,Quarter 2,Not applicable,Milk production,55722.0,Million pounds,,Million pounds
+2019,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1140.0,Dollars per head,,Dollars per head
+2019,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,8.42,Dollars per hundredweight,,Dollars per hundredweight
+2019,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9325.0,"1,000 head",,"1,000 head"
+2019,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5819.0,Pounds,,Pounds
+2019,JUL-SEP,15,Quarter 3,Not applicable,Milk production,54261.0,Million pounds,,Million pounds
+2019,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1230.0,Dollars per head,,Dollars per head
+2019,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,8.1,Dollars per hundredweight,,Dollars per hundredweight
+2019,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9347.0,"1,000 head",,"1,000 head"
+2019,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5781.0,Pounds,,Pounds
+2019,OCT-DEC,16,Quarter 4,Not applicable,Milk production,54038.0,Million pounds,,Million pounds
+2019,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1310.0,Dollars per head,,Dollars per head
+2019,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,8.29,Dollars per hundredweight,,Dollars per hundredweight
+2019,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9335.0,"1,000 head",,"1,000 head"
+2019,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,23401.0,Pounds,,Pounds
+2019,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,218444.0,Million pounds,,Million pounds
+2019,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1200.0,Dollars per head,,Dollars per head
+2020,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,8.04,Dollars per hundredweight,,Dollars per hundredweight
+2020,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9383.0,"1,000 head",,"1,000 head"
+2020,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,5986.0,Pounds,,Pounds
+2020,JAN-MAR,13,Quarter 1,Not applicable,Milk production,56170.0,Million pounds,,Million pounds
+2020,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1300.0,Dollars per head,,Dollars per head
+2020,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,7.71,Dollars per hundredweight,,Dollars per hundredweight
+2020,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9369.0,"1,000 head",,"1,000 head"
+2020,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,5982.0,Pounds,,Pounds
+2020,APR-JUN,14,Quarter 2,Not applicable,Milk production,56042.0,Million pounds,,Million pounds
+2020,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1250.0,Dollars per head,,Dollars per head
+2020,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,7.62,Dollars per hundredweight,,Dollars per hundredweight
+2020,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9390.0,"1,000 head",,"1,000 head"
+2020,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5900.0,Pounds,,Pounds
+2020,JUL-SEP,15,Quarter 3,Not applicable,Milk production,55399.0,Million pounds,,Million pounds
+2020,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1310.0,Dollars per head,,Dollars per head
+2020,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,8.22,Dollars per hundredweight,,Dollars per hundredweight
+2020,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9442.0,"1,000 head",,"1,000 head"
+2020,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5896.0,Pounds,,Pounds
+2020,OCT-DEC,16,Quarter 4,Not applicable,Milk production,55671.0,Million pounds,,Million pounds
+2020,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1340.0,Dollars per head,,Dollars per head
+2020,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,7.9,Dollars per hundredweight,,Dollars per hundredweight
+2020,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9396.0,"1,000 head",,"1,000 head"
+2020,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,23764.0,Pounds,,Pounds
+2020,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,223282.0,Million pounds,,Million pounds
+2020,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1300.0,Dollars per head,,Dollars per head
+2021,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,9.38,Dollars per hundredweight,,Dollars per hundredweight
+2021,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9468.0,"1,000 head",,"1,000 head"
+2021,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,6005.0,Pounds,,Pounds
+2021,JAN-MAR,13,Quarter 1,Not applicable,Milk production,56854.0,Million pounds,,Million pounds
+2021,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1360.0,Dollars per head,,Dollars per head
+2021,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,11.24,Dollars per hundredweight,,Dollars per hundredweight
+2021,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9504.0,"1,000 head",,"1,000 head"
+2021,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,6117.0,Pounds,,Pounds
+2021,APR-JUN,14,Quarter 2,Not applicable,Milk production,58136.0,Million pounds,,Million pounds
+2021,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1370.0,Dollars per head,,Dollars per head
+2021,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,11.52,Dollars per hundredweight,,Dollars per hundredweight
+2021,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9439.0,"1,000 head",,"1,000 head"
+2021,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5915.0,Pounds,,Pounds
+2021,JUL-SEP,15,Quarter 3,Not applicable,Milk production,55833.0,Million pounds,,Million pounds
+2021,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1380.0,Dollars per head,,Dollars per head
+2021,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,10.84,Dollars per hundredweight,,Dollars per hundredweight
+2021,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9386.0,"1,000 head",,"1,000 head"
+2021,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5904.0,Pounds,,Pounds
+2021,OCT-DEC,16,Quarter 4,Not applicable,Milk production,55415.0,Million pounds,,Million pounds
+2021,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1340.0,Dollars per head,,Dollars per head
+2021,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,10.74,Dollars per hundredweight,,Dollars per hundredweight
+2021,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9449.0,"1,000 head",,"1,000 head"
+2021,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,23943.0,Pounds,,Pounds
+2021,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,226238.0,Million pounds,,Million pounds
+2021,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1360.0,Dollars per head,,Dollars per head
+2022,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,11.98,Dollars per hundredweight,,Dollars per hundredweight
+2022,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9380.0,"1,000 head",,"1,000 head"
+2022,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,6001.0,Pounds,,Pounds
+2022,JAN-MAR,13,Quarter 1,Not applicable,Milk production,56289.0,Million pounds,,Million pounds
+2022,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1380.0,Dollars per head,,Dollars per head
+2022,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,14.12,Dollars per hundredweight,,Dollars per hundredweight
+2022,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9407.0,"1,000 head",,"1,000 head"
+2022,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,6146.0,Pounds,,Pounds
+2022,APR-JUN,14,Quarter 2,Not applicable,Milk production,57811.0,Million pounds,,Million pounds
+2022,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1570.0,Dollars per head,,Dollars per head
+2022,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,14.25,Dollars per hundredweight,,Dollars per hundredweight
+2022,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9407.0,"1,000 head",,"1,000 head"
+2022,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5997.0,Pounds,,Pounds
+2022,JUL-SEP,15,Quarter 3,Not applicable,Milk production,56418.0,Million pounds,,Million pounds
+2022,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1710.0,Dollars per head,,Dollars per head
+2022,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,13.38,Dollars per hundredweight,,Dollars per hundredweight
+2022,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9405.0,"1,000 head",,"1,000 head"
+2022,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5943.0,Pounds,,Pounds
+2022,OCT-DEC,16,Quarter 4,Not applicable,Milk production,55898.0,Million pounds,,Million pounds
+2022,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1730.0,Dollars per head,,Dollars per head
+2022,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,13.43,Dollars per hundredweight,,Dollars per hundredweight
+2022,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9400.0,"1,000 head",,"1,000 head"
+2022,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,24087.0,Pounds,,Pounds
+2022,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,226416.0,Million pounds,,Million pounds
+2022,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1590.0,Dollars per head,,Dollars per head
+2023,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,13.5,Dollars per hundredweight,,Dollars per hundredweight
+2023,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9419.0,"1,000 head",,"1,000 head"
+2023,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,6036.0,Pounds,,Pounds
+2023,JAN-MAR,13,Quarter 1,Not applicable,Milk production,56856.0,Million pounds,,Million pounds
+2023,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1720.0,Dollars per head,,Dollars per head
+2023,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,13.59,Dollars per hundredweight,,Dollars per hundredweight
+2023,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9406.0,"1,000 head",,"1,000 head"
+2023,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,6168.0,Pounds,,Pounds
+2023,APR-JUN,14,Quarter 2,Not applicable,Milk production,58012.0,Million pounds,,Million pounds
+2023,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,1720.0,Dollars per head,,Dollars per head
+2023,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,11.87,Dollars per hundredweight,,Dollars per hundredweight
+2023,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9365.0,"1,000 head",,"1,000 head"
+2023,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,5976.0,Pounds,,Pounds
+2023,JUL-SEP,15,Quarter 3,Not applicable,Milk production,55965.0,Million pounds,,Million pounds
+2023,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,1760.0,Dollars per head,,Dollars per head
+2023,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,10.43,Dollars per hundredweight,,Dollars per hundredweight
+2023,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9344.0,"1,000 head",,"1,000 head"
+2023,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5937.0,Pounds,,Pounds
+2023,OCT-DEC,16,Quarter 4,Not applicable,Milk production,55478.0,Million pounds,,Million pounds
+2023,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,1850.0,Dollars per head,,Dollars per head
+2023,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,12.35,Dollars per hundredweight,,Dollars per hundredweight
+2023,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9384.0,"1,000 head",,"1,000 head"
+2023,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,24117.0,Pounds,,Pounds
+2023,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,226311.0,Million pounds,,Million pounds
+2023,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,1760.0,Dollars per head,,Dollars per head
+2024,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,9.8,Dollars per hundredweight,,Dollars per hundredweight
+2024,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9338.0,"1,000 head",,"1,000 head"
+2024,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,6098.0,Pounds,,Pounds
+2024,JAN-MAR,13,Quarter 1,Not applicable,Milk production,56943.0,Million pounds,,Million pounds
+2024,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,1890.0,Dollars per head,,Dollars per head
+2024,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,9.68,Dollars per hundredweight,,Dollars per hundredweight
+2024,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9330.0,"1,000 head",,"1,000 head"
+2024,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,6145.0,Pounds,,Pounds
+2024,APR-JUN,14,Quarter 2,Not applicable,Milk production,57333.0,Million pounds,,Million pounds
+2024,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,2120.0,Dollars per head,,Dollars per head
+2024,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,8.68,Dollars per hundredweight,,Dollars per hundredweight
+2024,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9341.0,"1,000 head",,"1,000 head"
+2024,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,6004.0,Pounds,,Pounds
+2024,JUL-SEP,15,Quarter 3,Not applicable,Milk production,56085.0,Million pounds,,Million pounds
+2024,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,2360.0,Dollars per head,,Dollars per head
+2024,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,8.45,Dollars per hundredweight,,Dollars per hundredweight
+2024,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9360.0,"1,000 head",,"1,000 head"
+2024,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,5930.0,Pounds,,Pounds
+2024,OCT-DEC,16,Quarter 4,Not applicable,Milk production,55507.0,Million pounds,,Million pounds
+2024,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,2600.0,Dollars per head,,Dollars per head
+2024,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,9.15,Dollars per hundredweight,,Dollars per hundredweight
+2024,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9342.0,"1,000 head",,"1,000 head"
+2024,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,24178.0,Pounds,,Pounds
+2024,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,225868.0,Million pounds,,Million pounds
+2024,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,2240.0,Dollars per head,,Dollars per head
+2025,JAN-MAR,13,Quarter 1,Not applicable,16-percent protein feed value,8.77,Dollars per hundredweight,,Dollars per hundredweight
+2025,JAN-MAR,13,Quarter 1,Not applicable,Milk cow,9401.0,"1,000 head",,"1,000 head"
+2025,JAN-MAR,13,Quarter 1,Not applicable,Milk per cow,6039.0,Pounds,,Pounds
+2025,JAN-MAR,13,Quarter 1,Not applicable,Milk production,56773.0,Million pounds,,Million pounds
+2025,JAN-MAR,13,Quarter 1,Not applicable,Replacement cow price,2660.0,Dollars per head,,Dollars per head
+2025,APR-JUN,14,Quarter 2,Not applicable,16-percent protein feed value,9.29,Dollars per hundredweight,,Dollars per hundredweight
+2025,APR-JUN,14,Quarter 2,Not applicable,Milk cow,9458.0,"1,000 head",,"1,000 head"
+2025,APR-JUN,14,Quarter 2,Not applicable,Milk per cow,6206.0,Pounds,,Pounds
+2025,APR-JUN,14,Quarter 2,Not applicable,Milk production,58697.0,Million pounds,,Million pounds
+2025,APR-JUN,14,Quarter 2,Not applicable,Replacement cow price,2870.0,Dollars per head,,Dollars per head
+2025,JUL-SEP,15,Quarter 3,Not applicable,16-percent protein feed value,8.54,Dollars per hundredweight,,Dollars per hundredweight
+2025,JUL-SEP,15,Quarter 3,Not applicable,Milk cow,9539.0,"1,000 head",,"1,000 head"
+2025,JUL-SEP,15,Quarter 3,Not applicable,Milk per cow,6100.0,Pounds,,Pounds
+2025,JUL-SEP,15,Quarter 3,Not applicable,Milk production,58192.0,Million pounds,,Million pounds
+2025,JUL-SEP,15,Quarter 3,Not applicable,Replacement cow price,3010.0,Dollars per head,,Dollars per head
+2025,OCT-DEC,16,Quarter 4,Not applicable,16-percent protein feed value,8.34,Dollars per hundredweight,,Dollars per hundredweight
+2025,OCT-DEC,16,Quarter 4,Not applicable,Milk cow,9562.0,"1,000 head",,"1,000 head"
+2025,OCT-DEC,16,Quarter 4,Not applicable,Milk per cow,6047.0,Pounds,,Pounds
+2025,OCT-DEC,16,Quarter 4,Not applicable,Milk production,57820.0,Million pounds,,Million pounds
+2025,OCT-DEC,16,Quarter 4,Not applicable,Replacement cow price,3110.0,Dollars per head,,Dollars per head
+2025,ANNUAL,17,Annual aggregation,Quarterly average,16-percent protein feed value,8.73,Dollars per hundredweight,,Dollars per hundredweight
+2025,ANNUAL,17,Annual aggregation,Quarterly average,Milk cow,9490.0,"1,000 head",,"1,000 head"
+2025,ANNUAL,17,Annual aggregation,Quarterly sum,Milk per cow,24392.0,Pounds,,Pounds
+2025,ANNUAL,17,Annual aggregation,Quarterly sum,Milk production,231482.0,Million pounds,,Million pounds
+2025,ANNUAL,17,Annual aggregation,Quarterly average,Replacement cow price,2910.0,Dollars per head,,Dollars per head
