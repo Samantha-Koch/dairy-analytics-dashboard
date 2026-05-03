@@ -36,7 +36,7 @@ def reshape_wide_to_long(df: pd.DataFrame) -> pd.DataFrame:
     )
     df_long["period"] = "annual"
     df_long["category"] = "cop_state"
-    df_long["unit"] = none
+    df_long["unit"] = None
     return df_long
 
 def reshape_long_format(df: pd.DataFrame) -> pd.DataFrame:
