@@ -1,0 +1,575 @@
+﻿Year,Period,Timeperiod_id,Frequency,Category,Data_item,Value,Unit
+2024,Annual,17,Annual,Consumer Price Indexes,All food,2.26,Year-over-year percent change
+2024,Annual,17,Annual,Consumer Price Indexes,All products,2.952,Year-over-year percent change
+2024,Annual,17,Annual,Consumer Price Indexes,Butter,3.621,Year-over-year percent change
+2024,Annual,17,Annual,Consumer Price Indexes,Cheese,-1.652,Year-over-year percent change
+2024,Annual,17,Annual,Consumer Price Indexes,Dairy products,-0.236,Year-over-year percent change
+2024,Annual,17,Annual,Consumer Price Indexes,Fluid milk,-0.12,Year-over-year percent change
+2024,Annual,17,Annual,Dairy product output,American cheese,5576.543,Million pounds
+2024,Annual,17,Annual,Dairy product output,Butter,2235.592,Million pounds
+2024,Annual,17,Annual,Dairy product output,Other-than-American cheese,8672.805,Million pounds
+2024,Annual,17,Annual,Dairy product output,Dry skim milk products,2275.476,Million pounds
+2024,Annual,17,Annual,Dairy product output,Frozen products,1206.605,Million gallons
+2024,Annual,17,Annual,Domestic disappearance,American cheese,5464.856,Million pounds
+2024,Annual,17,Annual,Domestic disappearance,Butter,2323.17,Million pounds
+2024,Annual,17,Annual,Domestic disappearance,Other-than-American cheese,8085.685,Million pounds
+2024,Annual,17,Annual,Domestic disappearance,Dry skim milk products,627.875,Million pounds
+2024,Annual,17,Annual,Domestic disappearance,All products (milk equivalent milk-fat basis),222869.729,Million pounds
+2024,Annual,17,Annual,Domestic disappearance,All products (milk equivalent skim-solids basis),183258.515,Million pounds
+2024,Annual,17,Annual,Ending stocks,All products (milk equivalent milk-fat basis),13081.62,Million pounds
+2024,Annual,17,Annual,Ending stocks,All products (milk equivalent skim-solids basis),9408.15,Million pounds
+2024,Annual,17,Annual,Exports,All products (milk equivalent milk-fat basis),11843.986,Million pounds
+2024,Annual,17,Annual,Exports,All products (milk equivalent skim-solids basis),48870.05,Million pounds
+2024,Annual,17,Annual,Imports,All products (milk equivalent milk-fat basis),9125.042,Million pounds
+2024,Annual,17,Annual,Imports,All products (milk equivalent skim-solids basis),6797.953,Million pounds
+2024,Annual,17,Annual,Milk prices,All milk (at average milk-fat test),22.55,Dollars per hundredweight
+2024,Annual,17,Annual,Milk prices,Class III (cheese milk) 3.5% milk fat,18.893,Dollars per hundredweight
+2024,Annual,17,Annual,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,20.747,Dollars per hundredweight
+2024,Annual,17,Annual,Milk production,Production,225889,Million pounds
+2024,Annual,17,Annual,Milk production,Milk cows,9345,Thousands
+2024,Annual,17,Annual,Milk production,Milk per cow,24173,Pounds
+2024,Annual,17,Annual,Oceania export prices,Skim milk powder,2701,Dollars per metric ton
+2024,Annual,17,Annual,Oceania export prices,Butter,6746,Dollars per metric ton
+2024,Annual,17,Annual,Wholesale dairy product prices,Butter,2.887,Dollars per pound
+2024,Annual,17,Annual,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.8247,Dollars per pound
+2024,Annual,17,Annual,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",1.8658,Dollars per pound
+2024,Annual,17,Annual,Wholesale dairy product prices,Dry whey,0.4913,Dollars per pound
+2024,Annual,17,Annual,Wholesale dairy product prices,Nonfat dry milk,1.242,Dollars per pound
+2025,Annual,17,Annual,Consumer Price Indexes,All food,2.869,Year-over-year percent change
+2025,Annual,17,Annual,Consumer Price Indexes,All products,2.69,Year-over-year percent change
+2025,Annual,17,Annual,Consumer Price Indexes,Butter,0.093,Year-over-year percent change
+2025,Annual,17,Annual,Consumer Price Indexes,Cheese,1.124,Year-over-year percent change
+2025,Annual,17,Annual,Consumer Price Indexes,Dairy products,0.854,Year-over-year percent change
+2025,Annual,17,Annual,Consumer Price Indexes,Fluid milk,1.825,Year-over-year percent change
+2025,Annual,17,Annual,Dairy product output,American cheese,5797.254,Million pounds
+2025,Annual,17,Annual,Dairy product output,Butter,2366.309,Million pounds
+2025,Annual,17,Annual,Dairy product output,Other-than-American cheese,8861.025,Million pounds
+2025,Annual,17,Annual,Dairy product output,Dry skim milk products,2158.561,Million pounds
+2025,Annual,17,Annual,Dairy product output,Frozen products,1174.77,Million gallons
+2025,Annual,17,Annual,Domestic disappearance,American cheese,5491.809,Million pounds
+2025,Annual,17,Annual,Domestic disappearance,Butter,2306.751,Million pounds
+2025,Annual,17,Annual,Domestic disappearance,Other-than-American cheese,8099.31,Million pounds
+2025,Annual,17,Annual,Domestic disappearance,Dry skim milk products,667.692,Million pounds
+2025,Annual,17,Annual,Domestic disappearance,All products (milk equivalent milk-fat basis),221723.044,Million pounds
+2025,Annual,17,Annual,Domestic disappearance,All products (milk equivalent skim-solids basis),189569.335,Million pounds
+2025,Annual,17,Annual,Ending stocks,All products (milk equivalent milk-fat basis),12642.898,Million pounds
+2025,Annual,17,Annual,Ending stocks,All products (milk equivalent skim-solids basis),9210.87,Million pounds
+2025,Annual,17,Annual,Exports,All products (milk equivalent milk-fat basis),16744.088,Million pounds
+2025,Annual,17,Annual,Exports,All products (milk equivalent skim-solids basis),48174.742,Million pounds
+2025,Annual,17,Annual,Imports,All products (milk equivalent milk-fat basis),7360.409,Million pounds
+2025,Annual,17,Annual,Imports,All products (milk equivalent skim-solids basis),6878.796,Million pounds
+2025,Annual,17,Annual,Milk prices,All milk (at average milk-fat test),21.175,Dollars per hundredweight
+2025,Annual,17,Annual,Milk prices,Class III (cheese milk) 3.5% milk fat,18.009,Dollars per hundredweight
+2025,Annual,17,Annual,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,17.382,Dollars per hundredweight
+2025,Annual,17,Annual,Milk production,Production,231658,Million pounds
+2025,Annual,17,Annual,Milk production,Milk cows,9497.417,Thousands
+2025,Annual,17,Annual,Milk production,Milk per cow,24392,Pounds
+2025,Annual,17,Annual,Oceania export prices,Skim milk powder,2784,Dollars per metric ton
+2025,Annual,17,Annual,Oceania export prices,Butter,7081,Dollars per metric ton
+2025,Annual,17,Annual,Wholesale dairy product prices,Butter,2.2202,Dollars per pound
+2025,Annual,17,Annual,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.7871,Dollars per pound
+2025,Annual,17,Annual,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",1.8089,Dollars per pound
+2025,Annual,17,Annual,Wholesale dairy product prices,Dry whey,0.5956,Dollars per pound
+2025,Annual,17,Annual,Wholesale dairy product prices,Nonfat dry milk,1.2348,Dollars per pound
+2025,April,4,Monthly,Consumer Price Indexes,All products,2.311,Year-over-year percent change
+2025,April,4,Monthly,Consumer Price Indexes,Dairy products,1.599,Year-over-year percent change
+2025,April,4,Monthly,Consumer Price Indexes,Butter,1.485,Year-over-year percent change
+2025,April,4,Monthly,Consumer Price Indexes,Cheese,2.138,Year-over-year percent change
+2025,April,4,Monthly,Consumer Price Indexes,All food,2.759,Year-over-year percent change
+2025,April,4,Monthly,Consumer Price Indexes,Fluid milk,3.914,Year-over-year percent change
+2025,April,4,Monthly,Dairy product output,American cheese,495.47,Million pounds
+2025,April,4,Monthly,Dairy product output,Butter,214.433,Million pounds
+2025,April,4,Monthly,Dairy product output,Other-than-American cheese,739.462,Million pounds
+2025,April,4,Monthly,Dairy product output,Dry skim milk products,199.11,Million pounds
+2025,April,4,Monthly,Dairy product output,Frozen products,105.175,Million gallons
+2025,April,4,Monthly,Domestic disappearance,American cheese,463.223,Million pounds
+2025,April,4,Monthly,Domestic disappearance,Butter,198.37,Million pounds
+2025,April,4,Monthly,Domestic disappearance,Other-than-American cheese,682.798,Million pounds
+2025,April,4,Monthly,Domestic disappearance,Dry skim milk products,78.308,Million pounds
+2025,April,4,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),18222.582,Million pounds
+2025,April,4,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),15994.145,Million pounds
+2025,April,4,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),16457.46,Million pounds
+2025,April,4,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),10626.72,Million pounds
+2025,April,4,Monthly,Exports,All products (milk equivalent milk-fat basis),1311.684,Million pounds
+2025,April,4,Monthly,Exports,All products (milk equivalent skim-solids basis),3774.151,Million pounds
+2025,April,4,Monthly,Imports,All products (milk equivalent milk-fat basis),644.078,Million pounds
+2025,April,4,Monthly,Imports,All products (milk equivalent skim-solids basis),617.798,Million pounds
+2025,April,4,Monthly,Milk prices,All milk (at average milk-fat test),21,Dollars per hundredweight
+2025,April,4,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,17.48,Dollars per hundredweight
+2025,April,4,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,17.92,Dollars per hundredweight
+2025,April,4,Monthly,Milk production,Production,19432,Million pounds
+2025,April,4,Monthly,Milk production,Milk cows,9455,Thousands
+2025,April,4,Monthly,Milk production,Milk per cow,2055,Pounds
+2025,April,4,Monthly,Oceania export prices,Skim milk powder,2959,Dollars per metric ton
+2025,April,4,Monthly,Oceania export prices,Butter,7569,Dollars per metric ton
+2025,April,4,Monthly,Wholesale dairy product prices,Butter,2.352,Dollars per pound
+2025,April,4,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.1773,Dollars per pound
+2025,April,4,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.7117,Dollars per pound
+2025,April,4,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",1.7244,Dollars per pound
+2025,April,4,Monthly,Wholesale dairy product prices,Dry whey,0.4988,Dollars per pound
+2025,August,8,Monthly,Consumer Price Indexes,All products,2.916,Year-over-year percent change
+2025,August,8,Monthly,Consumer Price Indexes,Dairy products,1.251,Year-over-year percent change
+2025,August,8,Monthly,Consumer Price Indexes,Butter,0.068,Year-over-year percent change
+2025,August,8,Monthly,Consumer Price Indexes,Cheese,2.708,Year-over-year percent change
+2025,August,8,Monthly,Consumer Price Indexes,All food,3.188,Year-over-year percent change
+2025,August,8,Monthly,Consumer Price Indexes,Fluid milk,1.672,Year-over-year percent change
+2025,August,8,Monthly,Dairy product output,American cheese,473.888,Million pounds
+2025,August,8,Monthly,Dairy product output,Butter,173.2,Million pounds
+2025,August,8,Monthly,Dairy product output,Other-than-American cheese,728.191,Million pounds
+2025,August,8,Monthly,Dairy product output,Dry skim milk products,165.645,Million pounds
+2025,August,8,Monthly,Dairy product output,Frozen products,106.548,Million gallons
+2025,August,8,Monthly,Domestic disappearance,American cheese,447.693,Million pounds
+2025,August,8,Monthly,Domestic disappearance,Butter,205.356,Million pounds
+2025,August,8,Monthly,Domestic disappearance,Other-than-American cheese,675.077,Million pounds
+2025,August,8,Monthly,Domestic disappearance,Dry skim milk products,45.951,Million pounds
+2025,August,8,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),19588.458,Million pounds
+2025,August,8,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),16115.421,Million pounds
+2025,August,8,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),15912.012,Million pounds
+2025,August,8,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),9909.576,Million pounds
+2025,August,8,Monthly,Exports,All products (milk equivalent milk-fat basis),1514.87,Million pounds
+2025,August,8,Monthly,Exports,All products (milk equivalent skim-solids basis),4094.889,Million pounds
+2025,August,8,Monthly,Imports,All products (milk equivalent milk-fat basis),509.996,Million pounds
+2025,August,8,Monthly,Imports,All products (milk equivalent skim-solids basis),511.644,Million pounds
+2025,August,8,Monthly,Milk prices,All milk (at average milk-fat test),20.9,Dollars per hundredweight
+2025,August,8,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,17.24,Dollars per hundredweight
+2025,August,8,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,18.5,Dollars per hundredweight
+2025,August,8,Monthly,Milk production,Production,19560,Million pounds
+2025,August,8,Monthly,Milk production,Milk cows,9543,Thousands
+2025,August,8,Monthly,Milk production,Milk per cow,2050,Pounds
+2025,August,8,Monthly,Oceania export prices,Skim milk powder,2955,Dollars per metric ton
+2025,August,8,Monthly,Oceania export prices,Butter,7277,Dollars per metric ton
+2025,August,8,Monthly,Wholesale dairy product prices,Butter,2.4778,Dollars per pound
+2025,August,8,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.282,Dollars per pound
+2025,August,8,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.7529,Dollars per pound
+2025,August,8,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",NA,Dollars per pound
+2025,August,8,Monthly,Wholesale dairy product prices,Dry whey,0.5779,Dollars per pound
+2025,December,12,Monthly,Consumer Price Indexes,All products,2.677,Year-over-year percent change
+2025,December,12,Monthly,Consumer Price Indexes,Dairy products,-0.887,Year-over-year percent change
+2025,December,12,Monthly,Consumer Price Indexes,Butter,-3.423,Year-over-year percent change
+2025,December,12,Monthly,Consumer Price Indexes,Cheese,-1.566,Year-over-year percent change
+2025,December,12,Monthly,Consumer Price Indexes,All food,3.067,Year-over-year percent change
+2025,December,12,Monthly,Consumer Price Indexes,Fluid milk,-0.968,Year-over-year percent change
+2025,December,12,Monthly,Dairy product output,American cheese,500.028,Million pounds
+2025,December,12,Monthly,Dairy product output,Butter,207.522,Million pounds
+2025,December,12,Monthly,Dairy product output,Other-than-American cheese,776.34,Million pounds
+2025,December,12,Monthly,Dairy product output,Dry skim milk products,178.5,Million pounds
+2025,December,12,Monthly,Dairy product output,Frozen products,76.567,Million gallons
+2025,December,12,Monthly,Domestic disappearance,American cheese,470.819,Million pounds
+2025,December,12,Monthly,Domestic disappearance,Butter,216.23,Million pounds
+2025,December,12,Monthly,Domestic disappearance,Other-than-American cheese,694.254,Million pounds
+2025,December,12,Monthly,Domestic disappearance,Dry skim milk products,34.786,Million pounds
+2025,December,12,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),18860.722,Million pounds
+2025,December,12,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),15986.571,Million pounds
+2025,December,12,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),12642.898,Million pounds
+2025,December,12,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),9210.87,Million pounds
+2025,December,12,Monthly,Exports,All products (milk equivalent milk-fat basis),1616.352,Million pounds
+2025,December,12,Monthly,Exports,All products (milk equivalent skim-solids basis),3967.481,Million pounds
+2025,December,12,Monthly,Imports,All products (milk equivalent milk-fat basis),608.17,Million pounds
+2025,December,12,Monthly,Imports,All products (milk equivalent skim-solids basis),648.944,Million pounds
+2025,December,12,Monthly,Milk prices,All milk (at average milk-fat test),19,Dollars per hundredweight
+2025,December,12,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,15.86,Dollars per hundredweight
+2025,December,12,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,13.64,Dollars per hundredweight
+2025,December,12,Monthly,Milk production,Production,19529,Million pounds
+2025,December,12,Monthly,Milk production,Milk cows,9566,Thousands
+2025,December,12,Monthly,Milk production,Milk per cow,2042,Pounds
+2025,December,12,Monthly,Oceania export prices,Butter,5288,Dollars per metric ton
+2025,December,12,Monthly,Oceania export prices,Skim milk powder,2508,Dollars per metric ton
+2025,December,12,Monthly,Wholesale dairy product prices,Butter,1.5287,Dollars per pound
+2025,December,12,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.1541,Dollars per pound
+2025,December,12,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.5271,Dollars per pound
+2025,December,12,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",NA,Dollars per pound
+2025,December,12,Monthly,Wholesale dairy product prices,Dry whey,0.6893,Dollars per pound
+2025,February,2,Monthly,Consumer Price Indexes,All products,2.822,Year-over-year percent change
+2025,February,2,Monthly,Consumer Price Indexes,Dairy products,0.785,Year-over-year percent change
+2025,February,2,Monthly,Consumer Price Indexes,Butter,1.867,Year-over-year percent change
+2025,February,2,Monthly,Consumer Price Indexes,Cheese,-0.018,Year-over-year percent change
+2025,February,2,Monthly,Consumer Price Indexes,All food,2.607,Year-over-year percent change
+2025,February,2,Monthly,Consumer Price Indexes,Fluid milk,1.463,Year-over-year percent change
+2025,February,2,Monthly,Dairy product output,American cheese,442.498,Million pounds
+2025,February,2,Monthly,Dairy product output,Butter,202.719,Million pounds
+2025,February,2,Monthly,Dairy product output,Other-than-American cheese,674,Million pounds
+2025,February,2,Monthly,Dairy product output,Dry skim milk products,177.899,Million pounds
+2025,February,2,Monthly,Dairy product output,Frozen products,90.343,Million gallons
+2025,February,2,Monthly,Domestic disappearance,American cheese,413.52,Million pounds
+2025,February,2,Monthly,Domestic disappearance,Butter,157.668,Million pounds
+2025,February,2,Monthly,Domestic disappearance,Other-than-American cheese,607.556,Million pounds
+2025,February,2,Monthly,Domestic disappearance,Dry skim milk products,124.861,Million pounds
+2025,February,2,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),16026.018,Million pounds
+2025,February,2,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),15178.09,Million pounds
+2025,February,2,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),15211.459,Million pounds
+2025,February,2,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),10059.423,Million pounds
+2025,February,2,Monthly,Exports,All products (milk equivalent milk-fat basis),1178.189,Million pounds
+2025,February,2,Monthly,Exports,All products (milk equivalent skim-solids basis),3612.661,Million pounds
+2025,February,2,Monthly,Imports,All products (milk equivalent milk-fat basis),607.8,Million pounds
+2025,February,2,Monthly,Imports,All products (milk equivalent skim-solids basis),586.403,Million pounds
+2025,February,2,Monthly,Milk prices,All milk (at average milk-fat test),23.6,Dollars per hundredweight
+2025,February,2,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,20.18,Dollars per hundredweight
+2025,February,2,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,19.9,Dollars per hundredweight
+2025,February,2,Monthly,Milk production,Production,17746,Million pounds
+2025,February,2,Monthly,Milk production,Milk cows,9404,Thousands
+2025,February,2,Monthly,Milk production,Milk per cow,1887,Pounds
+2025,February,2,Monthly,Oceania export prices,Skim milk powder,2938,Dollars per metric ton
+2025,February,2,Monthly,Oceania export prices,Butter,7294,Dollars per metric ton
+2025,February,2,Monthly,Wholesale dairy product prices,Butter,2.499,Dollars per pound
+2025,February,2,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.3347,Dollars per pound
+2025,February,2,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.9158,Dollars per pound
+2025,February,2,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",1.8707,Dollars per pound
+2025,February,2,Monthly,Wholesale dairy product prices,Dry whey,0.665,Dollars per pound
+2025,July,7,Monthly,Consumer Price Indexes,All products,2.705,Year-over-year percent change
+2025,July,7,Monthly,Consumer Price Indexes,Dairy products,1.464,Year-over-year percent change
+2025,July,7,Monthly,Consumer Price Indexes,Butter,-1.613,Year-over-year percent change
+2025,July,7,Monthly,Consumer Price Indexes,Cheese,2.306,Year-over-year percent change
+2025,July,7,Monthly,Consumer Price Indexes,All food,2.866,Year-over-year percent change
+2025,July,7,Monthly,Consumer Price Indexes,Fluid milk,2.612,Year-over-year percent change
+2025,July,7,Monthly,Dairy product output,American cheese,481.556,Million pounds
+2025,July,7,Monthly,Dairy product output,Butter,178.326,Million pounds
+2025,July,7,Monthly,Dairy product output,Other-than-American cheese,735.088,Million pounds
+2025,July,7,Monthly,Dairy product output,Dry skim milk products,173.698,Million pounds
+2025,July,7,Monthly,Dairy product output,Frozen products,114.015,Million gallons
+2025,July,7,Monthly,Domestic disappearance,American cheese,478.736,Million pounds
+2025,July,7,Monthly,Domestic disappearance,Butter,192.465,Million pounds
+2025,July,7,Monthly,Domestic disappearance,Other-than-American cheese,662.871,Million pounds
+2025,July,7,Monthly,Domestic disappearance,Dry skim milk products,46.411,Million pounds
+2025,July,7,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),19000.14,Million pounds
+2025,July,7,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),16078.705,Million pounds
+2025,July,7,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),17029.426,Million pounds
+2025,July,7,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),10132.324,Million pounds
+2025,July,7,Monthly,Exports,All products (milk equivalent milk-fat basis),1602.096,Million pounds
+2025,July,7,Monthly,Exports,All products (milk equivalent skim-solids basis),4352.57,Million pounds
+2025,July,7,Monthly,Imports,All products (milk equivalent milk-fat basis),605.617,Million pounds
+2025,July,7,Monthly,Imports,All products (milk equivalent skim-solids basis),575.056,Million pounds
+2025,July,7,Monthly,Milk prices,All milk (at average milk-fat test),20.8,Dollars per hundredweight
+2025,July,7,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,17.32,Dollars per hundredweight
+2025,July,7,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,18.89,Dollars per hundredweight
+2025,July,7,Monthly,Milk production,Production,19706,Million pounds
+2025,July,7,Monthly,Milk production,Milk cows,9511,Thousands
+2025,July,7,Monthly,Milk production,Milk per cow,2072,Pounds
+2025,July,7,Monthly,Oceania export prices,Skim milk powder,2788,Dollars per metric ton
+2025,July,7,Monthly,Oceania export prices,Butter,7569,Dollars per metric ton
+2025,July,7,Monthly,Wholesale dairy product prices,Butter,2.5753,Dollars per pound
+2025,July,7,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.2783,Dollars per pound
+2025,July,7,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.7634,Dollars per pound
+2025,July,7,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",NA,Dollars per pound
+2025,July,7,Monthly,Wholesale dairy product prices,Dry whey,0.567,Dollars per pound
+2025,June,6,Monthly,Consumer Price Indexes,All products,2.669,Year-over-year percent change
+2025,June,6,Monthly,Consumer Price Indexes,Dairy products,0.943,Year-over-year percent change
+2025,June,6,Monthly,Consumer Price Indexes,Butter,-0.435,Year-over-year percent change
+2025,June,6,Monthly,Consumer Price Indexes,Cheese,2.944,Year-over-year percent change
+2025,June,6,Monthly,Consumer Price Indexes,All food,2.969,Year-over-year percent change
+2025,June,6,Monthly,Consumer Price Indexes,Fluid milk,2.084,Year-over-year percent change
+2025,June,6,Monthly,Dairy product output,American cheese,473.977,Million pounds
+2025,June,6,Monthly,Dairy product output,Butter,188.33,Million pounds
+2025,June,6,Monthly,Dairy product output,Other-than-American cheese,729.626,Million pounds
+2025,June,6,Monthly,Dairy product output,Dry skim milk products,197.911,Million pounds
+2025,June,6,Monthly,Dairy product output,Frozen products,109.095,Million gallons
+2025,June,6,Monthly,Domestic disappearance,American cheese,449.811,Million pounds
+2025,June,6,Monthly,Domestic disappearance,Butter,189.433,Million pounds
+2025,June,6,Monthly,Domestic disappearance,Other-than-American cheese,654.312,Million pounds
+2025,June,6,Monthly,Domestic disappearance,Dry skim milk products,70.883,Million pounds
+2025,June,6,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),18248.384,Million pounds
+2025,June,6,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),15266.422,Million pounds
+2025,June,6,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),17404.126,Million pounds
+2025,June,6,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),10366.625,Million pounds
+2025,June,6,Monthly,Exports,All products (milk equivalent milk-fat basis),1450.236,Million pounds
+2025,June,6,Monthly,Exports,All products (milk equivalent skim-solids basis),4595.365,Million pounds
+2025,June,6,Monthly,Imports,All products (milk equivalent milk-fat basis),571.955,Million pounds
+2025,June,6,Monthly,Imports,All products (milk equivalent skim-solids basis),588.918,Million pounds
+2025,June,6,Monthly,Milk prices,All milk (at average milk-fat test),21.3,Dollars per hundredweight
+2025,June,6,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,18.82,Dollars per hundredweight
+2025,June,6,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,18.3,Dollars per hundredweight
+2025,June,6,Monthly,Milk production,Production,19254,Million pounds
+2025,June,6,Monthly,Milk production,Milk cows,9485,Thousands
+2025,June,6,Monthly,Milk production,Milk per cow,2030,Pounds
+2025,June,6,Monthly,Oceania export prices,Skim milk powder,2813,Dollars per metric ton
+2025,June,6,Monthly,Oceania export prices,Butter,7913,Dollars per metric ton
+2025,June,6,Monthly,Wholesale dairy product prices,Butter,2.488,Dollars per pound
+2025,June,6,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.2531,Dollars per pound
+2025,June,6,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.9322,Dollars per pound
+2025,June,6,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",NA,Dollars per pound
+2025,June,6,Monthly,Wholesale dairy product prices,Dry whey,0.5497,Dollars per pound
+2025,March,3,Monthly,Consumer Price Indexes,All products,2.391,Year-over-year percent change
+2025,March,3,Monthly,Consumer Price Indexes,Dairy products,2.242,Year-over-year percent change
+2025,March,3,Monthly,Consumer Price Indexes,Butter,5.488,Year-over-year percent change
+2025,March,3,Monthly,Consumer Price Indexes,Cheese,2.21,Year-over-year percent change
+2025,March,3,Monthly,Consumer Price Indexes,All food,2.959,Year-over-year percent change
+2025,March,3,Monthly,Consumer Price Indexes,Fluid milk,2.939,Year-over-year percent change
+2025,March,3,Monthly,Dairy product output,American cheese,499.929,Million pounds
+2025,March,3,Monthly,Dairy product output,Butter,229.024,Million pounds
+2025,March,3,Monthly,Dairy product output,Other-than-American cheese,734.268,Million pounds
+2025,March,3,Monthly,Dairy product output,Dry skim milk products,202.761,Million pounds
+2025,March,3,Monthly,Dairy product output,Frozen products,100.988,Million gallons
+2025,March,3,Monthly,Domestic disappearance,American cheese,460.935,Million pounds
+2025,March,3,Monthly,Domestic disappearance,Butter,210.762,Million pounds
+2025,March,3,Monthly,Domestic disappearance,Other-than-American cheese,674.744,Million pounds
+2025,March,3,Monthly,Domestic disappearance,Dry skim milk products,49.349,Million pounds
+2025,March,3,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),18517.859,Million pounds
+2025,March,3,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),15739.211,Million pounds
+2025,March,3,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),15997.018,Million pounds
+2025,March,3,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),10426.588,Million pounds
+2025,March,3,Monthly,Exports,All products (milk equivalent milk-fat basis),1259.981,Million pounds
+2025,March,3,Monthly,Exports,All products (milk equivalent skim-solids basis),4318.705,Million pounds
+2025,March,3,Monthly,Imports,All products (milk equivalent milk-fat basis),722.48,Million pounds
+2025,March,3,Monthly,Imports,All products (milk equivalent skim-solids basis),584.163,Million pounds
+2025,March,3,Monthly,Milk prices,All milk (at average milk-fat test),22,Dollars per hundredweight
+2025,March,3,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,18.62,Dollars per hundredweight
+2025,March,3,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,18.21,Dollars per hundredweight
+2025,March,3,Monthly,Milk production,Production,19925,Million pounds
+2025,March,3,Monthly,Milk production,Milk cows,9434,Thousands
+2025,March,3,Monthly,Milk production,Milk per cow,2112,Pounds
+2025,March,3,Monthly,Oceania export prices,Skim milk powder,2915,Dollars per metric ton
+2025,March,3,Monthly,Oceania export prices,Butter,7548,Dollars per metric ton
+2025,March,3,Monthly,Wholesale dairy product prices,Butter,2.3385,Dollars per pound
+2025,March,3,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.2176,Dollars per pound
+2025,March,3,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.842,Dollars per pound
+2025,March,3,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",1.7732,Dollars per pound
+2025,March,3,Monthly,Wholesale dairy product prices,Dry whey,0.5532,Dollars per pound
+2025,May,5,Monthly,Consumer Price Indexes,All products,2.355,Year-over-year percent change
+2025,May,5,Monthly,Consumer Price Indexes,Dairy products,1.724,Year-over-year percent change
+2025,May,5,Monthly,Consumer Price Indexes,Butter,1.949,Year-over-year percent change
+2025,May,5,Monthly,Consumer Price Indexes,Cheese,2.815,Year-over-year percent change
+2025,May,5,Monthly,Consumer Price Indexes,All food,2.88,Year-over-year percent change
+2025,May,5,Monthly,Consumer Price Indexes,Fluid milk,3.26,Year-over-year percent change
+2025,May,5,Monthly,Dairy product output,American cheese,509.117,Million pounds
+2025,May,5,Monthly,Dairy product output,Butter,211.949,Million pounds
+2025,May,5,Monthly,Dairy product output,Other-than-American cheese,742.791,Million pounds
+2025,May,5,Monthly,Dairy product output,Dry skim milk products,204.401,Million pounds
+2025,May,5,Monthly,Dairy product output,Frozen products,108.511,Million gallons
+2025,May,5,Monthly,Domestic disappearance,American cheese,477.346,Million pounds
+2025,May,5,Monthly,Domestic disappearance,Butter,178.556,Million pounds
+2025,May,5,Monthly,Domestic disappearance,Other-than-American cheese,675.697,Million pounds
+2025,May,5,Monthly,Domestic disappearance,Dry skim milk products,90.917,Million pounds
+2025,May,5,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),18479.167,Million pounds
+2025,May,5,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),16843.695,Million pounds
+2025,May,5,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),17358.161,Million pounds
+2025,May,5,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),10466.864,Million pounds
+2025,May,5,Monthly,Exports,All products (milk equivalent milk-fat basis),1338.745,Million pounds
+2025,May,5,Monthly,Exports,All products (milk equivalent skim-solids basis),3903.495,Million pounds
+2025,May,5,Monthly,Imports,All products (milk equivalent milk-fat basis),705.695,Million pounds
+2025,May,5,Monthly,Imports,All products (milk equivalent skim-solids basis),574.415,Million pounds
+2025,May,5,Monthly,Milk prices,All milk (at average milk-fat test),21.3,Dollars per hundredweight
+2025,May,5,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,18.57,Dollars per hundredweight
+2025,May,5,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,18.13,Dollars per hundredweight
+2025,May,5,Monthly,Milk production,Production,20097,Million pounds
+2025,May,5,Monthly,Milk production,Milk cows,9481,Thousands
+2025,May,5,Monthly,Milk production,Milk per cow,2120,Pounds
+2025,May,5,Monthly,Oceania export prices,Skim milk powder,2935,Dollars per metric ton
+2025,May,5,Monthly,Oceania export prices,Butter,7826,Dollars per metric ton
+2025,May,5,Monthly,Wholesale dairy product prices,Butter,2.3703,Dollars per pound
+2025,May,5,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.1925,Dollars per pound
+2025,May,5,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.8177,Dollars per pound
+2025,May,5,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",1.8284,Dollars per pound
+2025,May,5,Monthly,Wholesale dairy product prices,Dry whey,0.5119,Dollars per pound
+2025,November,11,Monthly,Consumer Price Indexes,All products,2.735,Year-over-year percent change
+2025,November,11,Monthly,Consumer Price Indexes,Dairy products,-1.598,Year-over-year percent change
+2025,November,11,Monthly,Consumer Price Indexes,Butter,-4.449,Year-over-year percent change
+2025,November,11,Monthly,Consumer Price Indexes,Cheese,-2.367,Year-over-year percent change
+2025,November,11,Monthly,Consumer Price Indexes,All food,2.649,Year-over-year percent change
+2025,November,11,Monthly,Consumer Price Indexes,Fluid milk,-0.801,Year-over-year percent change
+2025,November,11,Monthly,Dairy product output,American cheese,473.117,Million pounds
+2025,November,11,Monthly,Dairy product output,Butter,177.238,Million pounds
+2025,November,11,Monthly,Dairy product output,Other-than-American cheese,751.319,Million pounds
+2025,November,11,Monthly,Dairy product output,Dry skim milk products,149.123,Million pounds
+2025,November,11,Monthly,Dairy product output,Frozen products,77.852,Million gallons
+2025,November,11,Monthly,Domestic disappearance,American cheese,464.692,Million pounds
+2025,November,11,Monthly,Domestic disappearance,Butter,178.203,Million pounds
+2025,November,11,Monthly,Domestic disappearance,Other-than-American cheese,697.363,Million pounds
+2025,November,11,Monthly,Domestic disappearance,Dry skim milk products,37.978,Million pounds
+2025,November,11,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),18599.544,Million pounds
+2025,November,11,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),15483.425,Million pounds
+2025,November,11,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),13066.884,Million pounds
+2025,November,11,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),9071.059,Million pounds
+2025,November,11,Monthly,Exports,All products (milk equivalent milk-fat basis),1552.912,Million pounds
+2025,November,11,Monthly,Exports,All products (milk equivalent skim-solids basis),3907.876,Million pounds
+2025,November,11,Monthly,Imports,All products (milk equivalent milk-fat basis),576.726,Million pounds
+2025,November,11,Monthly,Imports,All products (milk equivalent skim-solids basis),558.464,Million pounds
+2025,November,11,Monthly,Milk prices,All milk (at average milk-fat test),19.7,Dollars per hundredweight
+2025,November,11,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,17.18,Dollars per hundredweight
+2025,November,11,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,13.89,Dollars per hundredweight
+2025,November,11,Monthly,Milk production,Production,18804,Million pounds
+2025,November,11,Monthly,Milk production,Milk cows,9559,Thousands
+2025,November,11,Monthly,Milk production,Milk per cow,1967,Pounds
+2025,November,11,Monthly,Oceania export prices,Butter,6150,Dollars per metric ton
+2025,November,11,Monthly,Oceania export prices,Skim milk powder,2566,Dollars per metric ton
+2025,November,11,Monthly,Wholesale dairy product prices,Butter,1.636,Dollars per pound
+2025,November,11,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.1609,Dollars per pound
+2025,November,11,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.7419,Dollars per pound
+2025,November,11,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",NA,Dollars per pound
+2025,November,11,Monthly,Wholesale dairy product prices,Dry whey,0.6415,Dollars per pound
+2025,October,10,Monthly,Consumer Price Indexes,All products,NA,Year-over-year percent change
+2025,October,10,Monthly,Consumer Price Indexes,Dairy products,NA,Year-over-year percent change
+2025,October,10,Monthly,Consumer Price Indexes,Butter,NA,Year-over-year percent change
+2025,October,10,Monthly,Consumer Price Indexes,Cheese,NA,Year-over-year percent change
+2025,October,10,Monthly,Consumer Price Indexes,All food,NA,Year-over-year percent change
+2025,October,10,Monthly,Consumer Price Indexes,Fluid milk,NA,Year-over-year percent change
+2025,October,10,Monthly,Dairy product output,American cheese,492.167,Million pounds
+2025,October,10,Monthly,Dairy product output,Butter,186.193,Million pounds
+2025,October,10,Monthly,Dairy product output,Other-than-American cheese,769.146,Million pounds
+2025,October,10,Monthly,Dairy product output,Dry skim milk products,156.821,Million pounds
+2025,October,10,Monthly,Dairy product output,Frozen products,96.348,Million gallons
+2025,October,10,Monthly,Domestic disappearance,American cheese,470.683,Million pounds
+2025,October,10,Monthly,Domestic disappearance,Butter,198.296,Million pounds
+2025,October,10,Monthly,Domestic disappearance,Other-than-American cheese,707.855,Million pounds
+2025,October,10,Monthly,Domestic disappearance,Dry skim milk products,36.879,Million pounds
+2025,October,10,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),19405.366,Million pounds
+2025,October,10,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),16207.002,Million pounds
+2025,October,10,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),13919.984,Million pounds
+2025,October,10,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),9181.266,Million pounds
+2025,October,10,Monthly,Exports,All products (milk equivalent milk-fat basis),1440.961,Million pounds
+2025,October,10,Monthly,Exports,All products (milk equivalent skim-solids basis),4095.104,Million pounds
+2025,October,10,Monthly,Imports,All products (milk equivalent milk-fat basis),498.061,Million pounds
+2025,October,10,Monthly,Imports,All products (milk equivalent skim-solids basis),469.649,Million pounds
+2025,October,10,Monthly,Milk prices,All milk (at average milk-fat test),20,Dollars per hundredweight
+2025,October,10,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,16.91,Dollars per hundredweight
+2025,October,10,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,14.3,Dollars per hundredweight
+2025,October,10,Monthly,Milk production,Production,19469,Million pounds
+2025,October,10,Monthly,Milk production,Milk cows,9566,Thousands
+2025,October,10,Monthly,Milk production,Milk per cow,2035,Pounds
+2025,October,10,Monthly,Oceania export prices,Skim milk powder,2599,Dollars per metric ton
+2025,October,10,Monthly,Oceania export prices,Butter,6744,Dollars per metric ton
+2025,October,10,Monthly,Wholesale dairy product prices,Butter,1.7344,Dollars per pound
+2025,October,10,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.1601,Dollars per pound
+2025,October,10,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.7384,Dollars per pound
+2025,October,10,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",NA,Dollars per pound
+2025,October,10,Monthly,Wholesale dairy product prices,Dry whey,0.593,Dollars per pound
+2025,September,9,Monthly,Consumer Price Indexes,All products,3.013,Year-over-year percent change
+2025,September,9,Monthly,Consumer Price Indexes,Dairy products,0.719,Year-over-year percent change
+2025,September,9,Monthly,Consumer Price Indexes,Butter,-1.784,Year-over-year percent change
+2025,September,9,Monthly,Consumer Price Indexes,Cheese,1.123,Year-over-year percent change
+2025,September,9,Monthly,Consumer Price Indexes,All food,3.108,Year-over-year percent change
+2025,September,9,Monthly,Consumer Price Indexes,Fluid milk,2.102,Year-over-year percent change
+2025,September,9,Monthly,Dairy product output,American cheese,474.067,Million pounds
+2025,September,9,Monthly,Dairy product output,Butter,179.133,Million pounds
+2025,September,9,Monthly,Dairy product output,Other-than-American cheese,741.651,Million pounds
+2025,September,9,Monthly,Dairy product output,Dry skim milk products,162.777,Million pounds
+2025,September,9,Monthly,Dairy product output,Frozen products,95.177,Million gallons
+2025,September,9,Monthly,Domestic disappearance,American cheese,457.981,Million pounds
+2025,September,9,Monthly,Domestic disappearance,Butter,202.531,Million pounds
+2025,September,9,Monthly,Domestic disappearance,Other-than-American cheese,682.751,Million pounds
+2025,September,9,Monthly,Domestic disappearance,Dry skim milk products,63.976,Million pounds
+2025,September,9,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),19062.482,Million pounds
+2025,September,9,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),15746.102,Million pounds
+2025,September,9,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),14883.332,Million pounds
+2025,September,9,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),9628.806,Million pounds
+2025,September,9,Monthly,Exports,All products (milk equivalent milk-fat basis),1359.825,Million pounds
+2025,September,9,Monthly,Exports,All products (milk equivalent skim-solids basis),3955.443,Million pounds
+2025,September,9,Monthly,Imports,All products (milk equivalent milk-fat basis),532.998,Million pounds
+2025,September,9,Monthly,Imports,All products (milk equivalent skim-solids basis),560.145,Million pounds
+2025,September,9,Monthly,Milk prices,All milk (at average milk-fat test),20.4,Dollars per hundredweight
+2025,September,9,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,17.59,Dollars per hundredweight
+2025,September,9,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,16.17,Dollars per hundredweight
+2025,September,9,Monthly,Milk production,Production,18942,Million pounds
+2025,September,9,Monthly,Milk production,Milk cows,9574,Thousands
+2025,September,9,Monthly,Milk production,Milk per cow,1978,Pounds
+2025,September,9,Monthly,Oceania export prices,Skim milk powder,2641,Dollars per metric ton
+2025,September,9,Monthly,Oceania export prices,Butter,6992,Dollars per metric ton
+2025,September,9,Monthly,Wholesale dairy product prices,Butter,2.0377,Dollars per pound
+2025,September,9,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.2265,Dollars per pound
+2025,September,9,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.8066,Dollars per pound
+2025,September,9,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",NA,Dollars per pound
+2025,September,9,Monthly,Wholesale dairy product prices,Dry whey,0.5782,Dollars per pound
+2026,February,2,Monthly,Consumer Price Indexes,All products,2.414,Year-over-year percent change
+2026,February,2,Monthly,Consumer Price Indexes,Dairy products,0.062,Year-over-year percent change
+2026,February,2,Monthly,Consumer Price Indexes,Butter,-7.615,Year-over-year percent change
+2026,February,2,Monthly,Consumer Price Indexes,Cheese,-1.102,Year-over-year percent change
+2026,February,2,Monthly,Consumer Price Indexes,All food,3.06,Year-over-year percent change
+2026,February,2,Monthly,Consumer Price Indexes,Fluid milk,0.512,Year-over-year percent change
+2026,February,2,Monthly,Dairy product output,American cheese,451.028,Million pounds
+2026,February,2,Monthly,Dairy product output,Butter,221.199,Million pounds
+2026,February,2,Monthly,Dairy product output,Other-than-American cheese,709.56,Million pounds
+2026,February,2,Monthly,Dairy product output,Dry skim milk products,188.164,Million pounds
+2026,February,2,Monthly,Dairy product output,Frozen products,91.912,Million gallons
+2026,February,2,Monthly,Domestic disappearance,American cheese,434.187,Million pounds
+2026,February,2,Monthly,Domestic disappearance,Butter,180.879,Million pounds
+2026,February,2,Monthly,Domestic disappearance,Other-than-American cheese,615.369,Million pounds
+2026,February,2,Monthly,Domestic disappearance,Dry skim milk products,67.311,Million pounds
+2026,February,2,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),16437.123,Million pounds
+2026,February,2,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),14717.105,Million pounds
+2026,February,2,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),14041.388,Million pounds
+2026,February,2,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),9444.32,Million pounds
+2026,February,2,Monthly,Exports,All products (milk equivalent milk-fat basis),1654.709,Million pounds
+2026,February,2,Monthly,Exports,All products (milk equivalent skim-solids basis),3906.768,Million pounds
+2026,February,2,Monthly,Imports,All products (milk equivalent milk-fat basis),466.397,Million pounds
+2026,February,2,Monthly,Imports,All products (milk equivalent skim-solids basis),436.517,Million pounds
+2026,February,2,Monthly,Milk prices,All milk (at average milk-fat test),18.3,Dollars per hundredweight
+2026,February,2,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,14.94,Dollars per hundredweight
+2026,February,2,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,16.29,Dollars per hundredweight
+2026,February,2,Monthly,Milk production,Production,18255,Million pounds
+2026,February,2,Monthly,Milk production,Milk cows,9615,Thousands
+2026,February,2,Monthly,Milk production,Milk per cow,1899,Pounds
+2026,February,2,Monthly,Oceania export prices,Butter,5913,Dollars per metric ton
+2026,February,2,Monthly,Oceania export prices,Skim milk powder,2906,Dollars per metric ton
+2026,February,2,Monthly,Wholesale dairy product prices,Butter,1.6966,Dollars per pound
+2026,February,2,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.3726,Dollars per pound
+2026,February,2,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.4338,Dollars per pound
+2026,February,2,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",NA,Dollars per pound
+2026,February,2,Monthly,Wholesale dairy product prices,Dry whey,0.6931,Dollars per pound
+2026,January,1,Monthly,Consumer Price Indexes,All products,2.386,Year-over-year percent change
+2026,January,1,Monthly,Consumer Price Indexes,Dairy products,-0.314,Year-over-year percent change
+2026,January,1,Monthly,Consumer Price Indexes,Butter,-4.95,Year-over-year percent change
+2026,January,1,Monthly,Consumer Price Indexes,Cheese,-1.162,Year-over-year percent change
+2026,January,1,Monthly,Consumer Price Indexes,All food,2.876,Year-over-year percent change
+2026,January,1,Monthly,Consumer Price Indexes,Fluid milk,0.334,Year-over-year percent change
+2026,January,1,Monthly,Dairy product output,American cheese,497.132,Million pounds
+2026,January,1,Monthly,Dairy product output,Butter,240.89,Million pounds
+2026,January,1,Monthly,Dairy product output,Other-than-American cheese,778.558,Million pounds
+2026,January,1,Monthly,Dairy product output,Dry skim milk products,199.276,Million pounds
+2026,January,1,Monthly,Dairy product output,Frozen products,90.34,Million gallons
+2026,January,1,Monthly,Domestic disappearance,American cheese,472.553,Million pounds
+2026,January,1,Monthly,Domestic disappearance,Butter,190.938,Million pounds
+2026,January,1,Monthly,Domestic disappearance,Other-than-American cheese,701.567,Million pounds
+2026,January,1,Monthly,Domestic disappearance,Dry skim milk products,80.041,Million pounds
+2026,January,1,Monthly,Domestic disappearance,All products (milk equivalent milk-fat basis),17893.083,Million pounds
+2026,January,1,Monthly,Domestic disappearance,All products (milk equivalent skim-solids basis),16137.035,Million pounds
+2026,January,1,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),13488.152,Million pounds
+2026,January,1,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),9453.004,Million pounds
+2026,January,1,Monthly,Exports,All products (milk equivalent milk-fat basis),1488.996,Million pounds
+2026,January,1,Monthly,Exports,All products (milk equivalent skim-solids basis),3880.385,Million pounds
+2026,January,1,Monthly,Imports,All products (milk equivalent milk-fat basis),461.84,Million pounds
+2026,January,1,Monthly,Imports,All products (milk equivalent skim-solids basis),494.061,Million pounds
+2026,January,1,Monthly,Milk prices,All milk (at average milk-fat test),17.5,Dollars per hundredweight
+2026,January,1,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,14.59,Dollars per hundredweight
+2026,January,1,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,13.55,Dollars per hundredweight
+2026,January,1,Monthly,Milk production,Production,19850,Million pounds
+2026,January,1,Monthly,Milk production,Milk cows,9600,Thousands
+2026,January,1,Monthly,Milk production,Milk per cow,2068,Pounds
+2026,January,1,Monthly,Oceania export prices,Butter,5270,Dollars per metric ton
+2026,January,1,Monthly,Oceania export prices,Skim milk powder,2585,Dollars per metric ton
+2026,January,1,Monthly,Wholesale dairy product prices,Butter,1.4266,Dollars per pound
+2026,January,1,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.1921,Dollars per pound
+2026,January,1,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.4003,Dollars per pound
+2026,January,1,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",NA,Dollars per pound
+2026,January,1,Monthly,Wholesale dairy product prices,Dry whey,0.6986,Dollars per pound
+2026,March,3,Monthly,Consumer Price Indexes,All food,2.678,Year-over-year percent change
+2026,March,3,Monthly,Consumer Price Indexes,All products,3.256,Year-over-year percent change
+2026,March,3,Monthly,Consumer Price Indexes,Butter,-8.288,Year-over-year percent change
+2026,March,3,Monthly,Consumer Price Indexes,Cheese,-4.4,Year-over-year percent change
+2026,March,3,Monthly,Consumer Price Indexes,Dairy products,-1.562,Year-over-year percent change
+2026,March,3,Monthly,Consumer Price Indexes,Fluid milk,-0.379,Year-over-year percent change
+2026,March,3,Monthly,Dairy product output,American cheese,NA,Million pounds
+2026,March,3,Monthly,Dairy product output,Butter,NA,Million pounds
+2026,March,3,Monthly,Dairy product output,Other-than-American cheese,NA,Million pounds
+2026,March,3,Monthly,Dairy product output,Dry skim milk products,NA,Million pounds
+2026,March,3,Monthly,Dairy product output,Frozen products,NA,Million gallons
+2026,March,3,Monthly,Domestic disappearance,American cheese,NA,Million pounds
+2026,March,3,Monthly,Domestic disappearance,Butter,NA,Million pounds
+2026,March,3,Monthly,Domestic disappearance,Other-than-American cheese,NA,Million pounds
+2026,March,3,Monthly,Domestic disappearance,Dry skim milk products,NA,Million pounds
+2026,March,3,Monthly,Ending stocks,All products (milk equivalent milk-fat basis),NA,Million pounds
+2026,March,3,Monthly,Ending stocks,All products (milk equivalent skim-solids basis),NA,Million pounds
+2026,March,3,Monthly,Exports,All products (milk equivalent milk-fat basis),NA,Million pounds
+2026,March,3,Monthly,Exports,All products (milk equivalent skim-solids basis),NA,Million pounds
+2026,March,3,Monthly,Imports,All products (milk equivalent milk-fat basis),NA,Million pounds
+2026,March,3,Monthly,Imports,All products (milk equivalent skim-solids basis),NA,Million pounds
+2026,March,3,Monthly,Milk prices,All milk (at average milk-fat test),NA,Dollars per hundredweight
+2026,March,3,Monthly,Milk prices,Class III (cheese milk) 3.5% milk fat,16.16,Dollars per hundredweight
+2026,March,3,Monthly,Milk prices,Class IV (butter-powder milk) 3.5% milk fat,18.94,Dollars per hundredweight
+2026,March,3,Monthly,Milk production,Production,NA,Million pounds
+2026,March,3,Monthly,Milk production,Milk cows,NA,Thousands
+2026,March,3,Monthly,Milk production,Milk per cow,NA,Pounds
+2026,March,3,Monthly,Oceania export prices,Skim milk powder,3342,Dollars per metric ton
+2026,March,3,Monthly,Oceania export prices,Butter,6822,Dollars per metric ton
+2026,March,3,Monthly,Wholesale dairy product prices,Butter,1.8969,Dollars per pound
+2026,March,3,Monthly,Wholesale dairy product prices,"Cheddar cheese, 40-pound blocks",1.5607,Dollars per pound
+2026,March,3,Monthly,Wholesale dairy product prices,"Cheddar cheese, 500-pound barrels",NA,Dollars per pound
+2026,March,3,Monthly,Wholesale dairy product prices,Dry whey,0.6724,Dollars per pound
+2026,March,3,Monthly,Wholesale dairy product prices,Nonfat dry milk,1.5741,Dollars per pound
