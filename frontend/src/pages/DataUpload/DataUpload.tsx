@@ -18,8 +18,8 @@ export default function DataUploadPage() {
   };
 
   return (
-    <div style={{ padding: "20px" }}>
-      <h1>Upload Your Data</h1>
+    <Section title="Upload Your Data">
+    <div style={{ padding: "20px",fontFamily: "helvetica neue", overflowY:"auto", height:"100%"}}>
 
       <input
         type="file"
@@ -33,13 +33,24 @@ export default function DataUploadPage() {
         style={{
           marginTop: "10px",
           padding: "8px 16px",
-          cursor: file ? "pointer" : "not-allowed"
+          cursor: file ? "pointer" : "not-allowed",
+          fontFamily: "helvetica neue",
+          fontSize: "14px",
         }}
       >
         Upload
       </button>
 
-      {message && <p style={{ marginTop: "10px" }}>{message}</p>}
+      {message && <p style={{ marginTop: "10px",fontFamily: "helvetica neue",fontSize: "12pt"}}>{message}</p>}
     </div>
-  );
+    </Section>
+  )
+}
+function Section({title, children}: any){
+  return(
+    <div style={{marginTop: "5%",padding: "20px",fontFamily: "helvetica neue",fontSize: "20pt"}}>
+      {title}
+      {children}
+    </div>
+  )
 }

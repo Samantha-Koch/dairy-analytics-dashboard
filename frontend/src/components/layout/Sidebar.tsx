@@ -10,7 +10,8 @@ export default function Sidebar() {
     borderRadius: "6px",
     textDecoration: "none",
     color: "white",
-    fontSize: "16px",
+    fontFamily: "helvetica neue",
+    fontSize: "14px",
     fontWeight: 500,
     display: "flex",
     alignItems: "center",
@@ -19,14 +20,14 @@ export default function Sidebar() {
   };
 
   const activeStyle: React.CSSProperties = {
-    background: "#3b3b55",
+    background: "#2D2D2D",
   };
 
   return (
     <div
       style={{
         width: collapsed ? "70px" : "220px",
-        background: "#1e1e2f",
+        background: "#2D2D2D",
         color: "white",
         padding: "20px 10px",
         display: "flex",
@@ -46,7 +47,7 @@ export default function Sidebar() {
         }}
       >
         {!collapsed && (
-          <h2 style={{ fontSize: "20px", margin: 0 }}>Dairy Analytics</h2>
+          <h2 style={{ fontSize: "20px",fontFamily: "helvetica neue", margin: 0 }}>Dairy Analytics</h2>
         )}
 
         <button
@@ -58,6 +59,7 @@ export default function Sidebar() {
             borderRadius: "4px",
             cursor: "pointer",
             padding: "4px 8px",
+           
           }}
         >
           {collapsed ? "→" : "←"}
@@ -70,6 +72,12 @@ export default function Sidebar() {
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
         }
+        onMouseEnter={(e) =>
+          (e.currentTarget.style.borderBottom = "2px solid #0B73B9")
+        }
+        onMouseLeave={(e) =>
+          (e.currentTarget.style.borderBottom = "2px solid transparent")
+        }
       >
         {!collapsed && "Dashboard"}
       </NavLink>
@@ -78,6 +86,12 @@ export default function Sidebar() {
         to="/production"
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
+        }
+        onMouseEnter={(e) =>
+          (e.currentTarget.style.borderBottom = "2px solid #0B73B9")
+        }
+        onMouseLeave={(e) =>
+          (e.currentTarget.style.borderBottom = "2px solid transparent")
         }
       >
         {!collapsed && "Production"}
@@ -88,6 +102,12 @@ export default function Sidebar() {
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
         }
+        onMouseEnter={(e) =>
+          (e.currentTarget.style.borderBottom = "2px solid #0B73B9")
+        }
+        onMouseLeave={(e) =>
+          (e.currentTarget.style.borderBottom = "2px solid transparent")
+        }
       >
         {!collapsed && "Costs & Revenue"}
       </NavLink>
@@ -97,6 +117,12 @@ export default function Sidebar() {
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
         }
+        onMouseEnter={(e) =>
+          (e.currentTarget.style.borderBottom = "2px solid #0B73B9")
+        }
+        onMouseLeave={(e) =>
+          (e.currentTarget.style.borderBottom = "2px solid transparent")
+        }
       >
         {!collapsed && "Market Trends"}
       </NavLink>
@@ -105,6 +131,12 @@ export default function Sidebar() {
         to="/dataupload"
         style={({ isActive }) =>
           isActive ? { ...linkStyle, ...activeStyle } : linkStyle
+        }
+        onMouseEnter={(e) =>
+          (e.currentTarget.style.borderBottom = "2px solid #0B73B9")
+        }
+        onMouseLeave={(e) =>
+          (e.currentTarget.style.borderBottom = "2px solid transparent")
         }
       >
         {!collapsed && "Data Upload"}

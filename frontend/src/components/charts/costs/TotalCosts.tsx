@@ -2,7 +2,7 @@ import Plot from "react-plotly.js";
 
 export default function TotalCostsChart({ data }) {
     if (!data || !data.dates || !data.values) {
-        return <p>No chart data loaded</p>;
+        return <p style={{fontFamily: "helvetica neue",fontSize: "9pt"}}>No chart data loaded</p>;
       }
     return (
         <Plot

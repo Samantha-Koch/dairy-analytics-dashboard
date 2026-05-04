@@ -45,7 +45,7 @@ export default function Production() {
         sections={sections}
         onSelect={handleSelect}
       />
-      <div style={{padding: "0px 20px 20px 40px"}}>
+      <div style={{padding: "0px 20px 20px 40px", overflowY:"auto", height:"100%"}}>
         <Section title="Production">
           {!summary && <p>Loading...</p>}
       
@@ -88,15 +88,15 @@ export default function Production() {
 }
 function Section({title, children}: any){
   return(
-    <div style={{marginTop: ".5%"}}>
+    <div style={{marginTop: ".5%",fontFamily: "helvetica neue",fontSize: "20pt"}}>
       {children}
     </div>
   )
 }
 function Subsection({id, title, children}: any){
   return(
-    <div id={id} style={{marginTop: "40px"}}>
-      <h2>{title}</h2>
+    <div id={id} style={{marginTop: "40px",fontFamily: "helvetica neue",fontSize: "20pt"}}>
+      {title}
       {children}
     </div>
   )

@@ -47,7 +47,7 @@ export default function Costs() {
         sections={sections}
         onSelect={handleSelect}
       />
-      <div style={{padding: "0px 20px 20px 40px"}}>
+      <div style={{padding: "0px 20px 20px 40px", overflowY:"auto", height:"100%"}}>
         <Section title="Costs & Revenue">
           {!summary && <p>Loading...</p>}
           <SubTitle id="costs" title="Costs"></SubTitle>
@@ -106,31 +106,31 @@ export default function Costs() {
 }
 function Section({title, children}: any){
   return(
-    <div style={{marginTop: ".5%"}}>
+    <div style={{marginTop: ".5%",fontFamily: "helvetica neue",fontSize: "20pt"}}>
       {children}
     </div>
   )
 }
 function Subsection({title, children}: any){
   return(
-    <div style={{marginTop: "40px"}}>
-      <h4>{title}</h4>
+    <div style={{marginTop: "40px",fontFamily: "helvetica neue",fontSize: "12pt"}}>
+      {title}
       {children}
     </div>
   )
 }
 function SubGroup({id, title, children}: any){
   return(
-    <div id={id} style={{marginTop: "40px"}}>
-      <h3>{title}</h3>
+    <div id={id} style={{marginTop: "40px",fontFamily: "helvetica neue",fontSize: "14pt"}}>
+      {title}
       {children}
     </div>
   )
 }
 function SubTitle({id, title, children}: any){
   return(
-    <div id={id} style={{marginTop: "40px"}}>
-      <h2>{title}</h2>
+    <div id={id} style={{marginTop: "40px",fontFamily: "helvetica neue",fontSize: "20pt"}}>
+      {title}
       {children}
     </div>
   )

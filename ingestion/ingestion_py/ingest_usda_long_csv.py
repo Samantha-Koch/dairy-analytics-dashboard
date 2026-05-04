@@ -65,12 +65,12 @@ def main() -> None:
 
     df = df.copy()
     df["year"] = pd.to_numeric(df[year_col], errors="raise").astype(int)
-    df["_period_raw"] = df[period_col] if period_col else "annual"
-    df["_category_raw"] = df[category_col] if category_col else None
-    df["_data_item_raw"] = df[data_item_col].astype(str)
-    df["_value"] = pd.to_numeric(df[value_col], errors="coerce")
-    df["_unit"] = df[unit_col].astype(str) if unit_col else None
-    df = df[df["_value"].notna()]
+    df["period_raw"] = df[period_col] if period_col else "annual"
+    df["category_raw"] = df[category_col] if category_col else None
+    df["data_item_raw"] = df[data_item_col].astype(str)
+    df["value"] = pd.to_numeric(df[value_col], errors="coerce")
+    df["unit"] = df[unit_col].astype(str) if unit_col else None
+    df = df[df["value"].notna()]
 
     now = datetime.now(tz=timezone.utc)
     run_id = uuid.uuid4()
@@ -81,7 +81,7 @@ def main() -> None:
 
     # Build canonical periods
     periods = {}
-    for y, p in df[["year", "_period_raw"]].drop_duplicates().itertuples(index=False):
+    for y, p in df[["year", "period_raw"]].drop_duplicates().itertuples(index=False):
         cp = parse_year_period(int(y), None if pd.isna(p) else str(p))
         periods[cp.time_id] = cp
 
@@ -90,9 +90,9 @@ def main() -> None:
     metric_map_rows = []
 
     # stable set: use the dataset_slug, plus optional category to avoid collisions
-    for _, r in df[["_category_raw", "_data_item_raw"]].drop_duplicates().iterrows():
-        cat = r["_category_raw"]
-        item = r["_data_item_raw"]
+    for _, r in df[["category_raw", "data_item_raw"]].drop_duplicates().iterrows():
+        cat = r["category_raw"]
+        item = r["data_item_raw"]
         source_category = None if pd.isna(cat) else str(cat)
         source_item = str(item)
         cat_part = _slugify_metric_part(source_category) if source_category else None
@@ -244,11 +244,11 @@ def main() -> None:
         fact_rows = []
         for row in df.itertuples(index=False):
             y = int(getattr(row, "year"))
-            period_raw = getattr(row, "_period_raw")
-            cat_raw = getattr(row, "_category_raw")
-            item_raw = getattr(row, "_data_item_raw")
-            value = float(getattr(row, "_value"))
-            unit = getattr(row, "_unit") if "_unit" in df.columns else None
+            period_raw = getattr(row, "period_raw")
+            cat_raw = getattr(row, "category_raw")
+            item_raw = getattr(row, "data_item_raw")
+            value = float(getattr(row, "value"))
+            unit = getattr(row, "unit") if "unit" in df.columns else None
 
             cp = parse_year_period(y, None if pd.isna(period_raw) else str(period_raw))
             source_category = None if pd.isna(cat_raw) else str(cat_raw)

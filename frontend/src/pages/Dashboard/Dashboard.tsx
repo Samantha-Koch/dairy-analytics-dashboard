@@ -56,7 +56,7 @@ export default function Dashboard() {
         onSelect={handleSelect}
       />
       <div style={{padding: "0px 20px 20px 40px", overflowY:"auto", height:"100%"}}>
-          <h1>Dairy Analytics Dashboard</h1>    
+          <PageTitle title="Dairy Analytics Dashboard">    
           {/* Section 1 */}
           <Section id="production-KPI" title="Production KPIs">
             <KpiGrid>
@@ -93,6 +93,7 @@ export default function Dashboard() {
             <KpiCard label="Margin Per Cow" value="add in"/>
             </KpiGrid>
           </Section>
+          </PageTitle>
       </div>
     </>    
   );
@@ -100,8 +101,16 @@ export default function Dashboard() {
 
 function Section({id, title, children}: any){
   return(
-    <div id={id} style={{marginTop: "40px"}}>
-      <h2>{title}</h2>
+    <div id={id} style={{marginTop: "40px",fontFamily: "helvetica neue",fontSize: "14pt"}}>
+      {title}
+      {children}
+    </div>
+  )
+}
+function PageTitle({title, children}: any){
+  return(
+    <div style={{marginTop: "40px",fontFamily: "helvetica neue",fontSize: "20pt"}}>
+      {title}
       {children}
     </div>
   )
@@ -128,10 +137,12 @@ function KpiCard({label, value}:any) {
         borderRadius: "8px",
         background: "#f5f5f5",
         boxShadow: "0 1px 3px rgba(0,0,0,0.1)",
+        fontFamily: "helvetica neue",
+        fontSize: "12pt",
       }}
     >
-      <h4>{label}</h4>
-      <p style={{ fontSize: "1.5rem", marginTop: "10px"}}>{value}</p>
+      {label}
+      <p style={{marginTop: "10px",fontFamily: "helvetica neue",fontSize: "12pt"}}>{value}</p>
     </div>
   )
 }
