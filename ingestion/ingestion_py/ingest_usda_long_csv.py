@@ -8,9 +8,9 @@ from datetime import datetime, timezone
 import pandas as pd
 from sqlalchemy import text
 
-from ingestion.ingestion_py.db import get_engine
-from ingestion.ingestion_py.schema import ensure_schema
-from ingestion.ingestion_py.usda_periods import parse_year_period
+from ingestion_py.db import get_engine
+from ingestion_py.schema import ensure_schema
+from ingestion_py.usda_periods import parse_year_period
 
 
 def _slugify_metric_part(s: str) -> str:
@@ -324,6 +324,8 @@ def main() -> None:
         )
 
     print(f"Ingested {len(df)} rows into fact_observation. run_id={run_id} dataset_id={dataset_id}")
+if __name__ == "__main__":
+    main()
 
 
 

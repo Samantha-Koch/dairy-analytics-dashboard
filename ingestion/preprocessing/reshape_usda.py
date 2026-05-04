@@ -20,10 +20,18 @@ def is_long_format(df: pd.DataFrame) -> bool:
     )
 
 def reshape_wide_to_long(df: pd.DataFrame) -> pd.DataFrame:
-    df.columns = [c.strip().lower().replace(" ", "_") for c in df.columns]
-
+    df.columns = [c.strip().lower().replace(" ", "_").replace("-", "_") for c in df.columns]
+    if "report_year" in df.columns:
+        df["year"] = df["report_year"]
+    if "period" in df.columns:
+            df["period"] = df["period"].astype(str).replace("-", "_").str.upper()
+    elif "report_month" in df.columns:
+            df["period"] = df["report_month"].str[:3].str.upper()
+    else:
+            df["period"] = "annual"
     id_cols = []
-    for c in ["state", "region", "year", "country", "size"]:
+
+    for c in ["state", "region", "year", "country", "size", "period"]:
         if c in df.columns:
             id_cols.append(c)
     value_cols = [c for c in df.columns if c not in id_cols]
@@ -34,7 +42,7 @@ def reshape_wide_to_long(df: pd.DataFrame) -> pd.DataFrame:
         var_name="data_item",
         value_name="value"
     )
-    df_long["period"] = "annual"
+
     df_long["category"] = "cop_state"
     df_long["unit"] = None
     return df_long
