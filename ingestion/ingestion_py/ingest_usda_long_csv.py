@@ -4,6 +4,7 @@ import argparse
 import os
 import uuid
 from datetime import datetime, timezone
+import json
 
 import pandas as pd
 from sqlalchemy import text
@@ -319,7 +320,7 @@ def main() -> None:
             {
                 "run_id": str(run_id),
                 "finished_at": datetime.now(tz=timezone.utc),
-                "stats_json": {"rows_ingested": int(len(fact_rows))},
+                "stats_json": json.dumps({"rows_ingested": int(len(fact_rows))}),
             },
         )
 

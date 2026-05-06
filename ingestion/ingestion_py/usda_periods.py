@@ -78,20 +78,23 @@ def parse_year_period(year: int, period_raw: str | None) -> CanonicalPeriod:
             period_end=end,
         )
 
-    m = re.fullmatch(r"(\d{4})-(\d{2})", period)
+    m = re.fullmatch(r"(\d{4})-([a-zA-Z]{3})", period)
     if m:
         y = int(m.group(1))
-        mo = int(m.group(2))
-        end_day = calendar.monthrange(y, mo)[1]
-        return CanonicalPeriod(
-            time_id=f"{y:04d}-{mo:02d}",
-            period_type="month",
-            year=y,
-            quarter=None,
-            month=mo,
-            period_start=date(y, mo, 1),
-            period_end=date(y, mo, end_day),
-        )
+        mo_str = m.group(2).title()
+        month_map = {name: i for i, name in enumerate(calendar.month_abbr) if i > 0}
+        if mo_str in month_map:
+            mo = month_map[mo_str]
+            end_day = calendar.monthrange(y, mo)[1]
+            return CanonicalPeriod(
+                time_id=f"{y:04d}-{mo:02d}",
+                period_type="month",
+                year=y,
+                quarter=None,
+                month=mo,
+                period_start=date(y, mo, 1),
+                period_end=date(y, mo, end_day),
+            )
 
     raise ValueError(f"Unsupported period '{period_raw}' for year={year}.")
 
