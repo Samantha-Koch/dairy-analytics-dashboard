@@ -1,31 +1,33 @@
 import { useState, useEffect } from "react";
 import KpiValue from "./KpiValue";
 import KpiDropdown from "./KpiDropdown";
-import KpiTrendSparkline from "./KpiTrendSparkline"
+import KpiTrendSparkline from "./KpiTrendSparkline";
 
 export default function KpiCard({ title, data }) {
-  // Default view depends on whether USDA data exists
-  const [view, setView] = useState(() => {
-    if (data?.customer_data_exists) return "customer_avg";
-    if (data?.has_usda_data) return "usda_avg";
-  });
+  // Always start with customer_avg unless USDA-only
+  const [view, setView] = useState("customer_avg");
 
-  // Reset view when KPI changes
+  // Update view when data arrives
   useEffect(() => {
-    if (data) {
-      setView(data.has_usda_data ? "usda_avg" : "customer_avg");
+    if (!data) return;
+
+    if (data.customer_data_exists) {
+      setView("customer_avg");
+    } else if (data.has_usda_data) {
+      setView("usda_avg");
     }
   }, [data]);
 
-  if (!data) {
-    return (
-      <div style={styles.card}>
-        <p style={styles.noData}>No KPI data loaded</p>
-      </div>
-    );
-  }
+  // Safe accessors — these CANNOT crash
+  const safeValue = data?.[view] ?? "--";
+  const safeDates = Array.isArray(data?.dates) ? data.dates : [];
+  const safeTrend = Array.isArray(data?.[`${view}_trend`])
+    ? data[`${view}_trend`]
+    : [];
 
-  const displayedValue = data[view];
+  const hasUsda = data?.has_usda_data ?? false;
+  const hasCustomer = data?.customer_data_exists ?? false;
+  const unit = data?.unit ?? "";
 
   return (
     <div style={styles.card}>
@@ -35,23 +37,14 @@ export default function KpiCard({ title, data }) {
         <KpiDropdown
           view={view}
           setView={setView}
-          hasUsdaData={data.has_usda_data}
-          hasCustomerData={data.customer_data_exists}
+          hasUsdaData={hasUsda}
+          hasCustomerData={hasCustomer}
         />
       </div>
 
-      <KpiValue value={displayedValue} unit={data.unit} />
+      <KpiValue value={safeValue} unit={unit} />
 
-      {/* Sparkline placeholder for later */}
-      {/* <KpiSparkline dates={data.dates} values={data.values} /> */}
-      <KpiTrendSparkline dates={data.dates} values={data[view + "_trend"]} />
-        {view.includes("trend") && (
-            <KpiTrendSparkline
-            dates={data.dates}
-            values={data[view]}
-            />
-        )}
-     
+      <KpiTrendSparkline dates={safeDates} values={safeTrend} />
     </div>
   );
 }
@@ -73,11 +66,7 @@ const styles = {
   },
   title: {
     margin: 0,
-    fontSize: "11pt",
+    fontSize: "14pt",
     fontWeight: 600,
-  },
-  noData: {
-    fontSize: "9pt",
-    color: "#000000",
   },
 };

@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { getDashboardSummary } from "../../services/api/dashboardService";
 import PageTopbar from "../../components/layout/PageTopbar"
+import KpiCard from "../../components/kpi_cards/KpiCard"
 
 export default function Dashboard() {
   const [summary, setSummary] = useState<any>(null);
@@ -60,37 +61,37 @@ export default function Dashboard() {
           {/* Section 1 */}
           <Section id="production-KPI" title="Production KPIs">
             <KpiGrid>
-              <KpiCard label="Milk Yield" value="add in"/>
-              <KpiCard label="Butterfat Percentage" value="add in"/>
-              <KpiCard label="Protein Percentage" value="add in"/>
-              <KpiCard label="Bulk Tank SCC" value="add in"/>
+              <KpiCard title="Milk Yield" data={summary.milk_yield}/>
+              <KpiCard title="Butterfat Percentage" data={summary.butterfat_percent}/>
+              <KpiCard title="Protein Percentage" data={summary.protein_percent}/>
+              <KpiCard title="Bulk Tank SCC" data={summary.bulk_scc}/>
             </KpiGrid>
           </Section>
           {/* Section 2 */}
           <Section id="feed-KPI" title="Feed Metric KPIs">
             <KpiGrid>
-              <KpiCard label="Feed Efficiency" value="add in"/>
-              <KpiCard label="Income Over Feed Cost" value="add in"/>
+              <KpiCard title="Feed Efficiency" data={summary.feed_efficiency}/>
+              <KpiCard title="Income Over Feed Cost" data={summary.income_over_feed}/>
             </KpiGrid>
           </Section>
           {/* Section 3 */}
           <Section id="health-KPI" title="Herd Health KPIs">
             <KpiGrid>
-              <KpiCard label="Subclinical Mastitis Prevalence" value="add in"/>
-              <KpiCard label="Dry Period" value="add in"/>
+              <KpiCard title="Subclinical Mastitis Prevalence" data={summary.mastitis_prev}/>
+              <KpiCard title="Dry Period" data={summary.dry_period}/>
             </KpiGrid>
           </Section> 
           {/* Section 4 */}
           <Section id="inventory-KPI" title="Inventory KPI">
             <KpiGrid>
-              <KpiCard label="Spoilage Rate" value="add in"/>
+              <KpiCard title="Spoilage Rate" data={summary.spoilage_rate}/>
             </KpiGrid>
           </Section>                 
           {/* Section 5 */}
           <Section id="market-KPI" title="Market and Revenue KPIs">
             <KpiGrid>
-            <KpiCard label="Milk Class Prices" value="add in"/>
-            <KpiCard label="Margin Per Cow" value="add in"/>
+            <KpiCard title="Milk Class Prices" data={summary.milk_class}/>
+            <KpiCard title="Margin Per Cow" data={summary.margin_per_cow}/>
             </KpiGrid>
           </Section>
           </PageTitle>
@@ -129,20 +130,4 @@ function KpiGrid({children}: any){
     </div>
   )
 }
-function KpiCard({label, value}:any) {
-  return (
-    <div
-      style={{
-        padding: "20px",
-        borderRadius: "8px",
-        background: "#f5f5f5",
-        boxShadow: "0 1px 3px rgba(0,0,0,0.1)",
-        fontFamily: "helvetica neue",
-        fontSize: "12pt",
-      }}
-    >
-      {label}
-      <p style={{marginTop: "10px",fontFamily: "helvetica neue",fontSize: "12pt"}}>{value}</p>
-    </div>
-  )
-}
+

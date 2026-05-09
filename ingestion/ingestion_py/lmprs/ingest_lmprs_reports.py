@@ -28,6 +28,12 @@ REPORTS = {
             "SomCell",
         ],
     },
+    "milk_components_prices": {
+        "id": 2991,
+        "sections": [
+            "detail",
+        ],
+    },
 }
 
 
@@ -80,6 +86,17 @@ def run_ingestion(processed_path, report_key, section_name):
     safe_section = section_name.replace(" ", "_")
     slug = f"lmprs_{report_key}_{safe_section}"
     dataset_name = f"LMPRS {report_key.replace('_', ' ').title()} – {section_name}"
+
+    engine = get_engine()
+    with engine.connect() as conn:
+        exists = conn.execute(
+            "SELECT 1 FROM datasets WHERE slug = :slug LIMIT 1",
+            {"slug": slug}
+        ).fetchone()
+
+    if exists:
+        print(f"   Skipping ingestion for {slug} (already exists in DB)")
+        return
 
     cmd = [
         "python",

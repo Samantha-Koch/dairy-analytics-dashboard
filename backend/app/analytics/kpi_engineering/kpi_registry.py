@@ -19,19 +19,19 @@ KPI_REGISTRY = {
         "unit": "percent",
         "has_usda_data": True,
         "customer_data_exists": True,
-    }
+    },
     "protein_percentage": {
         "function": protein_percent,
         "unit": "percent",
         "has_usda_data": True,
         "customer_data_exists": True,
-    }
+    },
     "bulk_scc": {
         "function": bulk_scc,
         "unit": "cells per mL",
         "has_udsa_data": True,
         "customer_data_exists": True,
-    }
+    },
     "feed_efficiency": {
         "function": feed_efficiency,
         "unit": "ECM/DMI",
@@ -43,7 +43,7 @@ KPI_REGISTRY = {
         "unit": "$/cow/day",
         "has_usda_data": True,
         "customer_data_exists": True,
-    }
+    },
     "milk_class": {
         "function": milk_class,
         "unit": "dollars_per_cwt",

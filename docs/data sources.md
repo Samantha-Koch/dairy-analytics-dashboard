@@ -23,6 +23,11 @@ Public data, API, refresh frequency: monthly
 https://mymarketnews.ams.usda.gov/viewReport/3355 
 
 
+Announcement of Class and Component Prices:    
+Public data, API, refresh frequency: monthly    
+https://mymarketnews.ams.usda.gov/viewReport/2991 
+
+
 Customer data required:  
 Production logs containing: total milk production (monthly), milk production per cow (monthly), milk composition, and bulk tank SCC.   
 
