@@ -38,3 +38,4 @@ def get_sessionmaker():
 # but it must not force a DB connection or require env vars at import time.
 SessionLocal = sessionmaker(autoflush=False, autocommit=False, future=True)
 
+Engine = get_engine()

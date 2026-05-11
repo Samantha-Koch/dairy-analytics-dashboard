@@ -114,7 +114,7 @@ def reshape_long_format(df: pd.DataFrame) -> pd.DataFrame:
 
 def reshape_wide_to_long(df: pd.DataFrame) -> pd.DataFrame:
     # Normalize column names
-    df.columns = [c.strip().replace(" ", "_").replace("-", "_") for c in df.columns]
+    df.columns = [c.strip().replace(" ", "_").replace("-", "_").lower() for c in df.columns]
 
     # Ensure year exists
     if "report_year" in df.columns:
@@ -129,25 +129,68 @@ def reshape_wide_to_long(df: pd.DataFrame) -> pd.DataFrame:
     else:
         df["period"] = None
 
-    # Identify class price columns
-    class_price_cols = [c for c in df.columns if c.lower().startswith("class")]
-
-    # Identify component columns (Butterfat, Protein, etc.)
-    component_cols = [
+    # ---------------------------------------------
+    # ⭐ NEW: Detect LMPRS component price columns
+    # ---------------------------------------------
+    lmprs_component_cols = [
         c for c in df.columns
-        if c.lower() in [
-            "butterfat", "protein", "nfs", "othersolids",
-            "somaticcellcount", "receipts"
+        if c in [
+            "butterfat_price",
+            "protein_price",
+            "other_solids_price",
+            "nonfat_solids_price",
+            "somatic_cell_adjustment_rate"
         ]
     ]
 
-    # Identify month columns (Producer Components)
+    if lmprs_component_cols:
+        id_cols = [c for c in df.columns if c not in lmprs_component_cols]
+
+        df_long = df.melt(
+            id_vars=id_cols,
+            value_vars=lmprs_component_cols,
+            var_name="data_item",
+            value_name="value"
+        )
+
+        # Normalize data_item names
+        df_long["data_item"] = (
+            df_long["data_item"]
+            .str.lower()
+            .str.replace("_price", "", regex=False)
+            .str.replace("_rate", "", regex=False)
+        )
+
+        # If period missing, fallback to year-month from report_year/report_month
+        if df_long["period"].isna().all():
+            if "report_year" in df_long.columns and "report_month" in df_long.columns:
+                df_long["period"] = df_long.apply(
+                    lambda r: f"{int(r['report_year'])}-{str(r['report_month'])[:3].upper()}",
+                    axis=1
+                )
+            else:
+                df_long["period"] = "annual"
+
+        df_long["category"] = "lmprs"
+        df_long["unit"] = None
+        return df_long
+
+    # ---------------------------------------------
+    # Existing logic for class prices
+    # ---------------------------------------------
+    class_price_cols = [c for c in df.columns if c.startswith("class")]
+
+    component_cols = [
+        c for c in df.columns
+        if c in ["butterfat", "protein", "nfs", "othersolids", "somaticcellcount", "receipts"]
+    ]
+
     month_map = {
         "jan": "JAN", "feb": "FEB", "mar": "MAR", "apr": "APR",
         "may": "MAY", "jun": "JUN", "jul": "JUL", "aug": "AUG",
         "sep": "SEP", "oct": "OCT", "nov": "NOV", "dec": "DEC",
     }
-    month_cols = [c for c in df.columns if c.lower() in month_map]
+    month_cols = [c for c in df.columns if c in month_map]
 
     # CASE 1: Class Prices or explicit component columns
     if class_price_cols or component_cols:
@@ -161,11 +204,10 @@ def reshape_wide_to_long(df: pd.DataFrame) -> pd.DataFrame:
             value_name="value"
         )
 
-        # Period already built above for Class Prices
         if df_long["period"].isna().all():
             df_long["period"] = "annual"
 
-    # CASE 2: Producer Components (SomCell, Butterfat, NFS, etc.)
+    # CASE 2: Producer Components
     elif month_cols:
         id_cols = [c for c in df.columns if c not in month_cols]
 
@@ -176,15 +218,12 @@ def reshape_wide_to_long(df: pd.DataFrame) -> pd.DataFrame:
             value_name="value"
         )
 
-        # Build period from year + melted month
-        df_long["month"] = df_long["month"].str.lower().map(month_map)
+        df_long["month"] = df_long["month"].map(month_map)
         df_long["period"] = df_long.apply(
             lambda r: f"{int(r['year'])}-{r['month']}" if pd.notnull(r["year"]) else None,
             axis=1
         )
 
-        # Label the component (SomCell, Butterfat, etc.)
-        # Use reportSection if available
         if "reportsection" in df.columns:
             component_name = df["reportsection"].iloc[0].lower()
         else:
@@ -193,13 +232,11 @@ def reshape_wide_to_long(df: pd.DataFrame) -> pd.DataFrame:
         df_long["data_item"] = component_name
         df_long = df_long.drop(columns=["month"], errors="ignore")
 
-    # CASE 3: Nothing to melt
     else:
         df_long = df.copy()
         df_long["data_item"] = None
         df_long["value"] = None
 
-    # Add category + unit
     df_long["category"] = "lmprs"
     df_long["unit"] = None
 

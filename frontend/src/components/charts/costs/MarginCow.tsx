@@ -1,4 +1,12 @@
+import { useEffect, useState } from "react";
 import Plot from "react-plotly.js";
+import Plotly from "plotly.js-dist-min";
+
+Plot.defaultProps = {
+  ...Plot.defaultProps,
+  plotly: Plotly,
+};
+
 
 export default function MarginCowChart({ data }) {
     if (!data || !data.dates || !data.values) {

@@ -10,7 +10,7 @@ export default function DataUploadPage() {
 
     try {
       const result = await uploadDataFile(file);
-      setMessage(`Uploaded: ${result.filename}`);
+      setMessage(result.message);
     } catch (err) {
       setMessage("Upload failed");
       console.error(err);
@@ -23,7 +23,7 @@ export default function DataUploadPage() {
 
       <input
         type="file"
-        accept=".csv,.xlsx,.xls,.json"
+        accept=".csv,.xlsx,.xls"
         onChange={(e) => setFile(e.target.files?.[0] || null)}
       />
 

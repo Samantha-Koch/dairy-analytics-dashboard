@@ -1,0 +1,101 @@
+date,metric,value,category
+1/30/2025,milk yield,2208,production
+3/4/2026,milk yield,1673,production
+4/5/2025,milk yield,1880,production
+11/9/2025,milk yield,2241,production
+1/2/2026,milk yield,2340,production
+10/21/2025,milk yield,1633,production
+10/7/2025,milk yield,1353,production
+4/14/2026,milk yield,1723,production
+2/7/2025,milk yield,1676,production
+1/23/2026,butterfat percent,4,production
+11/5/2025,butterfat percent,4,production
+5/4/2025,butterfat percent,4,production
+2/1/2026,butterfat percent,4,production
+3/18/2026,butterfat percent,4,production
+12/7/2025,butterfat percent,5,production
+9/6/2025,butterfat percent,5,production
+1/7/2026,butterfat percent,5,production
+10/16/2025,butterfat percent,4,production
+12/4/2025,butterfat percent,4,production
+9/5/2025,protein percent,3,production
+6/3/2025,protein percent,4,production
+3/3/2026,protein percent,4,production
+1/6/2026,protein percent,4,production
+11/23/2025,protein percent,4,production
+5/6/2025,protein percent,3,production
+2/13/2026,protein percent,3,production
+3/31/2025,protein percent,3,production
+2/1/2026,protein percent,4,production
+1/31/2026,protein percent,4,production
+6/3/2025,bulk tank SCC,126067,production
+6/26/2025,bulk tank SCC,176611,production
+11/7/2025,bulk tank SCC,244220,production
+2/9/2025,bulk tank SCC,112986,production
+7/21/2025,bulk tank SCC,207714,production
+4/5/2025,bulk tank SCC,175880,production
+4/13/2025,bulk tank SCC,189894,production
+3/10/2025,bulk tank SCC,189812,production
+4/10/2025,bulk tank SCC,268253,production
+2/4/2025,bulk tank SCC,208183,production
+12/16/2025,dry period,55,herd health
+6/13/2025,dry period,57,herd health
+12/12/2025,dry period,52,herd health
+8/5/2025,dry period,52,herd health
+11/1/2025,dry period,54,herd health
+6/14/2025,dry period,56,herd health
+9/5/2025,dry period,47,herd health
+2/21/2026,dry period,46,herd health
+3/22/2026,dry period,55,herd health
+3/4/2026,dry period,51,herd health
+10/12/2025,mastitis prevalence,28,herd health
+1/9/2025,mastitis prevalence,28,herd health
+12/7/2025,mastitis prevalence,16,herd health
+6/5/2025,mastitis prevalence,14,herd health
+1/26/2026,mastitis prevalence,15,herd health
+11/4/2025,mastitis prevalence,27,herd health
+7/12/2025,mastitis prevalence,27,herd health
+7/27/2025,mastitis prevalence,25,herd health
+5/12/2025,mastitis prevalence,10,herd health
+7/28/2025,mastitis prevalence,18,herd health
+3/19/2026,spoilage rate,1,inventory
+3/31/2025,spoilage rate,5,inventory
+3/3/2025,spoilage rate,4,inventory
+3/19/2026,spoilage rate,2,inventory
+2/2/2026,spoilage rate,4,inventory
+11/14/2025,spoilage rate,2,inventory
+2/4/2026,spoilage rate,1,inventory
+5/7/2025,spoilage rate,5,inventory
+3/21/2025,spoilage rate,3,inventory
+8/12/2025,spoilage rate,3,inventory
+12/13/2025,total costs,25,costs
+4/22/2026,total costs,16,costs
+1/17/2026,total costs,18,costs
+12/14/2025,total costs,16,costs
+3/9/2026,total costs,20,costs
+12/21/2025,total costs,25,costs
+4/4/2025,total costs,24,costs
+1/26/2026,total costs,21,costs
+9/26/2025,total costs,16,costs
+2/15/2025,total costs,20,costs
+2/8/2026,total feed costs,10,costs
+1/23/2026,total feed costs,8,costs
+2/4/2026,total feed costs,12,costs
+4/11/2026,total feed costs,8,costs
+6/13/2025,total feed costs,9,costs
+3/2/2026,total feed costs,9,costs
+3/1/2026,total feed costs,11,costs
+9/7/2025,total feed costs,8,costs
+12/7/2025,total feed costs,12,costs
+10/12/2025,total feed costs,12,costs
+7/18/2025,net revenue,15006,revenue
+2/10/2026,net revenue,17192,revenue
+10/9/2025,net revenue,12164,revenue
+7/23/2025,net revenue,14681,revenue
+1/13/2025,net revenue,12327,revenue
+9/2/2025,net revenue,14467,revenue
+3/23/2026,net revenue,18260,revenue
+12/29/2025,net revenue,13244,revenue
+1/20/2026,net revenue,13572,revenue
+11/23/2025,net revenue,14222,revenue
+3/20/2026,net revenue,18773,revenue
