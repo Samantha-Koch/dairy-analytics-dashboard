@@ -1,0 +1,161 @@
+date,metric,value,unit,category
+1/1/2025,milk yield,2089,pounds,production
+2/1/2025,milk yield,2387,pounds,production
+3/1/2025,milk yield,2230,pounds,production
+4/1/2025,milk yield,1389,pounds,production
+5/1/2025,milk yield,1771,pounds,production
+6/1/2025,milk yield,2484,pounds,production
+7/1/2025,milk yield,2233,pounds,production
+8/1/2025,milk yield,1265,pounds,production
+9/1/2025,milk yield,2123,pounds,production
+10/1/2025,milk yield,2186,pounds,production
+11/1/2025,milk yield,1741,pounds,production
+12/1/2025,milk yield,1705,pounds,production
+1/1/2026,milk yield,2299,pounds,production
+2/1/2026,milk yield,2066,pounds,production
+3/1/2026,milk yield,1953,pounds,production
+4/1/2026,milk yield,2236,pounds,production
+1/1/2025,butterfat percent,5,percent,production
+2/1/2025,butterfat percent,5,percent,production
+3/1/2025,butterfat percent,4,percent,production
+4/1/2025,butterfat percent,5,percent,production
+5/1/2025,butterfat percent,5,percent,production
+6/1/2025,butterfat percent,4,percent,production
+7/1/2025,butterfat percent,5,percent,production
+8/1/2025,butterfat percent,5,percent,production
+9/1/2025,butterfat percent,4,percent,production
+10/1/2025,butterfat percent,4,percent,production
+11/1/2025,butterfat percent,5,percent,production
+12/1/2025,butterfat percent,5,percent,production
+1/1/2026,butterfat percent,4,percent,production
+2/1/2026,butterfat percent,5,percent,production
+3/1/2026,butterfat percent,5,percent,production
+4/1/2026,butterfat percent,5,percent,production
+1/1/2025,protein percent,3,percent,production
+2/1/2025,protein percent,3,percent,production
+3/1/2025,protein percent,4,percent,production
+4/1/2025,protein percent,3,percent,production
+5/1/2025,protein percent,3,percent,production
+6/1/2025,protein percent,4,percent,production
+7/1/2025,protein percent,3,percent,production
+8/1/2025,protein percent,4,percent,production
+9/1/2025,protein percent,3,percent,production
+10/1/2025,protein percent,3,percent,production
+11/1/2025,protein percent,4,percent,production
+12/1/2025,protein percent,3,percent,production
+1/1/2026,protein percent,3,percent,production
+2/1/2026,protein percent,3,percent,production
+3/1/2026,protein percent,4,percent,production
+4/1/2026,protein percent,3,percent,production
+1/1/2025,bulk tank SCC,264285,cells/mL,production
+2/1/2025,bulk tank SCC,200024,cells/mL,production
+3/1/2025,bulk tank SCC,294870,cells/mL,production
+4/1/2025,bulk tank SCC,265364,cells/mL,production
+5/1/2025,bulk tank SCC,201282,cells/mL,production
+6/1/2025,bulk tank SCC,272306,cells/mL,production
+7/1/2025,bulk tank SCC,187006,cells/mL,production
+8/1/2025,bulk tank SCC,236644,cells/mL,production
+9/1/2025,bulk tank SCC,192711,cells/mL,production
+10/1/2025,bulk tank SCC,158337,cells/mL,production
+11/1/2025,bulk tank SCC,283730,cells/mL,production
+12/1/2025,bulk tank SCC,273325,cells/mL,production
+1/1/2026,bulk tank SCC,299696,cells/mL,production
+2/1/2026,bulk tank SCC,229012,cells/mL,production
+3/1/2026,bulk tank SCC,293670,cells/mL,production
+4/1/2026,bulk tank SCC,160617,cells/mL,production
+1/1/2025,dry period,52,days,herd health
+2/1/2025,dry period,54,days,herd health
+3/1/2025,dry period,60,days,herd health
+4/1/2025,dry period,56,days,herd health
+5/1/2025,dry period,51,days,herd health
+6/1/2025,dry period,58,days,herd health
+7/1/2025,dry period,60,days,herd health
+8/1/2025,dry period,56,days,herd health
+9/1/2025,dry period,54,days,herd health
+10/1/2025,dry period,55,days,herd health
+11/1/2025,dry period,57,days,herd health
+12/1/2025,dry period,53,days,herd health
+1/1/2026,dry period,46,days,herd health
+2/1/2026,dry period,50,days,herd health
+3/1/2026,dry period,59,days,herd health
+4/1/2026,dry period,51,days,herd health
+1/1/2025,mastitis prevalence,21,percent,herd health
+2/1/2025,mastitis prevalence,16,percent,herd health
+3/1/2025,mastitis prevalence,15,percent,herd health
+4/1/2025,mastitis prevalence,16,percent,herd health
+5/1/2025,mastitis prevalence,23,percent,herd health
+6/1/2025,mastitis prevalence,22,percent,herd health
+7/1/2025,mastitis prevalence,22,percent,herd health
+8/1/2025,mastitis prevalence,25,percent,herd health
+9/1/2025,mastitis prevalence,28,percent,herd health
+10/1/2025,mastitis prevalence,15,percent,herd health
+11/1/2025,mastitis prevalence,12,percent,herd health
+12/1/2025,mastitis prevalence,15,percent,herd health
+1/1/2026,mastitis prevalence,29,percent,herd health
+2/1/2026,mastitis prevalence,27,percent,herd health
+3/1/2026,mastitis prevalence,14,percent,herd health
+4/1/2026,mastitis prevalence,10,percent,herd health
+1/1/2025,spoilage rate,1,percent,inventory
+2/1/2025,spoilage rate,3,percent,inventory
+3/1/2025,spoilage rate,1,percent,inventory
+4/1/2025,spoilage rate,1,percent,inventory
+5/1/2025,spoilage rate,2,percent,inventory
+6/1/2025,spoilage rate,2,percent,inventory
+7/1/2025,spoilage rate,3,percent,inventory
+8/1/2025,spoilage rate,1,percent,inventory
+9/1/2025,spoilage rate,4,percent,inventory
+10/1/2025,spoilage rate,2,percent,inventory
+11/1/2025,spoilage rate,1,percent,inventory
+12/1/2025,spoilage rate,5,percent,inventory
+1/1/2026,spoilage rate,2,percent,inventory
+2/1/2026,spoilage rate,4,percent,inventory
+3/1/2026,spoilage rate,3,percent,inventory
+4/1/2026,spoilage rate,4,percent,inventory
+1/1/2025,total costs,18,$/CWT,costs
+2/1/2025,total costs,15,$/CWT,costs
+3/1/2025,total costs,18,$/CWT,costs
+4/1/2025,total costs,20,$/CWT,costs
+5/1/2025,total costs,23,$/CWT,costs
+6/1/2025,total costs,19,$/CWT,costs
+7/1/2025,total costs,21,$/CWT,costs
+8/1/2025,total costs,17,$/CWT,costs
+9/1/2025,total costs,22,$/CWT,costs
+10/1/2025,total costs,21,$/CWT,costs
+11/1/2025,total costs,19,$/CWT,costs
+12/1/2025,total costs,19,$/CWT,costs
+1/1/2026,total costs,21,$/CWT,costs
+2/1/2026,total costs,17,$/CWT,costs
+3/1/2026,total costs,19,$/CWT,costs
+4/1/2026,total costs,16,$/CWT,costs
+1/1/2025,total feed costs,10,$/CWT,costs
+2/1/2025,total feed costs,8,$/CWT,costs
+3/1/2025,total feed costs,12,$/CWT,costs
+4/1/2025,total feed costs,10,$/CWT,costs
+5/1/2025,total feed costs,8,$/CWT,costs
+6/1/2025,total feed costs,9,$/CWT,costs
+7/1/2025,total feed costs,11,$/CWT,costs
+8/1/2025,total feed costs,12,$/CWT,costs
+9/1/2025,total feed costs,10,$/CWT,costs
+10/1/2025,total feed costs,8,$/CWT,costs
+11/1/2025,total feed costs,12,$/CWT,costs
+12/1/2025,total feed costs,12,$/CWT,costs
+1/1/2026,total feed costs,11,$/CWT,costs
+2/1/2026,total feed costs,10,$/CWT,costs
+3/1/2026,total feed costs,8,$/CWT,costs
+4/1/2026,total feed costs,11,$/CWT,costs
+1/1/2025,gross revenue,19,$/CWT,revenue
+2/1/2025,gross revenue,21,$/CWT,revenue
+3/1/2025,gross revenue,21,$/CWT,revenue
+4/1/2025,gross revenue,20,$/CWT,revenue
+5/1/2025,gross revenue,21,$/CWT,revenue
+6/1/2025,gross revenue,19,$/CWT,revenue
+7/1/2025,gross revenue,19,$/CWT,revenue
+8/1/2025,gross revenue,19,$/CWT,revenue
+9/1/2025,gross revenue,19,$/CWT,revenue
+10/1/2025,gross revenue,19,$/CWT,revenue
+11/1/2025,gross revenue,17,$/CWT,revenue
+12/1/2025,gross revenue,20,$/CWT,revenue
+1/1/2026,gross revenue,19,$/CWT,revenue
+2/1/2026,gross revenue,18,$/CWT,revenue
+3/1/2026,gross revenue,17,$/CWT,revenue
+4/1/2026,gross revenue,17,$/CWT,revenue

@@ -23,6 +23,13 @@ def ingest_dataframe(df, filename, customer_id, dry_run=False):
     SessionLocal = sessionmaker(bind=engine)
     session = SessionLocal()
 
+    df.columns = [c.lower().strip() for c in df.columns]
+
+    if "unit" not in df.columns and "units" not in df.columns:
+        df["unit"] = None
+    elif "units" in df.columns and "unit" not in df.columns: 
+        df.rename(columns={"units":"unit"}, inplace=True)
+
     inserted = 0
     dataset_counts = {}
 
@@ -33,6 +40,7 @@ def ingest_dataframe(df, filename, customer_id, dry_run=False):
             category,
             metric,
             value,
+            unit,
             uploaded_at,
             filename,
             customer_id
@@ -43,6 +51,7 @@ def ingest_dataframe(df, filename, customer_id, dry_run=False):
             :category,
             :metric,
             :value,
+            :unit,
             :uploaded_at,
             :filename,
             :customer_id
@@ -61,6 +70,7 @@ def ingest_dataframe(df, filename, customer_id, dry_run=False):
                 "category": None,
                 "metric": row["metric"],
                 "value": float(row["value"]) if pd.notna(row["value"]) else None,
+                "unit" : row.get("unit"),
                 "uploaded_at": datetime.utcnow(),
                 "filename": filename,
                 "customer_id": customer_id  # NEW
