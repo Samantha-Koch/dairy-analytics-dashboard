@@ -6,6 +6,7 @@ import ButterfatChart from "../../components/charts/production/ButterfatChart";
 import ProteinChart from "../../components/charts/production/ProteinChart";
 import PageTopbar from "../../components/layout/PageTopbar"
 
+
 export default function Production() {
   const sections = [
     { id: "milk-yield", label: "Average Milk Yield Per Cow" },

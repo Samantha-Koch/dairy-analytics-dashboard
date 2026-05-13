@@ -12,12 +12,13 @@ def parse_args():
 
     parser.add_argument("--file", required=True, help="Path to processed long-format CSV")
     parser.add_argument("--filename", required=False, help="Original uploaded filename")
+    parser.add_argument("--customer_id", required=True, help="Customer email identifier")  # NEW
     parser.add_argument("--dry-run", action="store_true", help="Validate but do not write to DB")
 
     return parser.parse_args()
 
 
-def ingest_dataframe(df, filename, dry_run=False):
+def ingest_dataframe(df, filename, customer_id, dry_run=False):
     engine = get_engine()
     SessionLocal = sessionmaker(bind=engine)
     session = SessionLocal()
@@ -33,7 +34,8 @@ def ingest_dataframe(df, filename, dry_run=False):
             metric,
             value,
             uploaded_at,
-            filename
+            filename,
+            customer_id
         )
         VALUES (
             :dataset_type,
@@ -42,26 +44,26 @@ def ingest_dataframe(df, filename, dry_run=False):
             :metric,
             :value,
             :uploaded_at,
-            :filename
+            :filename,
+            :customer_id
         );
     """)
 
     try:
         for _, row in df.iterrows():
-            # dataset type comes from the CSV's category column
             row_dataset_type = row.get("category")
 
-            # count rows per dataset type for logging
             dataset_counts[row_dataset_type] = dataset_counts.get(row_dataset_type, 0) + 1
 
             params = {
                 "dataset_type": row_dataset_type,
                 "date": row["date"],
-                "category": None,  # optional category column (not dataset type)
+                "category": None,
                 "metric": row["metric"],
                 "value": float(row["value"]) if pd.notna(row["value"]) else None,
                 "uploaded_at": datetime.utcnow(),
-                "filename": filename
+                "filename": filename,
+                "customer_id": customer_id  # NEW
             }
 
             if not dry_run:
@@ -96,6 +98,7 @@ def main():
     inserted, dataset_counts = ingest_dataframe(
         df=df,
         filename=filename,
+        customer_id=args.customer_id,  # NEW
         dry_run=args.dry_run
     )
 

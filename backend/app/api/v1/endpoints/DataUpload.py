@@ -1,4 +1,4 @@
-from fastapi import APIRouter, UploadFile, File
+from fastapi import APIRouter, UploadFile, File, Form
 import os
 import pandas as pd
 import subprocess
@@ -14,8 +14,12 @@ INGEST_SCRIPT = os.path.abspath("ingestion/ingestion_py/user_sql_ingestion.py")
 
 
 @router.post("/upload")
-async def upload_file(file: UploadFile = File(...)):
+async def upload_file(
+    file: UploadFile = File(...),
+    customer_id: str = Form(...)   # NEW FIELD
+):
     print("HIT /upload ROUTE")  # sanity check
+    print("Customer ID:", customer_id)
 
     # 1. Save raw file
     file_path = os.path.join(UPLOAD_DIR, file.filename)
@@ -35,7 +39,12 @@ async def upload_file(file: UploadFile = File(...)):
     # 3. Run ingestion script with absolute path + correct Python interpreter
     try:
         result = subprocess.run(
-            [sys.executable, INGEST_SCRIPT, "--file", file_path],
+            [
+                sys.executable,
+                INGEST_SCRIPT,
+                "--file", file_path,
+                "--customer_id", customer_id   # PASS TO INGESTION SCRIPT
+            ],
             capture_output=True,
             text=True
         )
@@ -69,5 +78,6 @@ async def upload_file(file: UploadFile = File(...)):
     return {
         "status": "ok",
         "message": "File uploaded and processed successfully",
+        "customer_id": customer_id,
         "script_output": result.stdout
     }
