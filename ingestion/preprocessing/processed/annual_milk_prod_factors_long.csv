@@ -1,0 +1,599 @@
+year,category,data_item,value,units,period,unit
+1980,January 1 inventory,Milk cows and heifers that have calved,10758.2,Thousand head,annual,Thousand head
+1980,January 1 inventory,"Replacement heifers, 500+ pounds",4158.5,Thousand head,annual,Thousand head
+1980,January 1 inventory,Replacements per 100 cows,38.7,Head,annual,Head
+1980,Production indicators,Milk production,128406.0,Million pounds,annual,Million pounds
+1980,Production indicators,Milk per cow,11891.0,Pounds,annual,Pounds
+1980,Production indicators,Average number of milk cows in the United States,10799.0,Thousand,annual,Thousand
+1980,Milk and feed price indicators,Average price paid for milk,13.0,Dollar per hundredweight,annual,Dollar per hundredweight
+1980,Milk and feed price indicators,Milk-feed ratio,2.72,Number,annual,Number
+1980,Milk and feed price indicators,Dairy feed value,4.84,Dollar per hundredweight,annual,Dollar per hundredweight
+1980,Dairy cow indicators,Dairy cow prices,1195.0,Dollars per head,annual,Dollars per head
+1980,Dairy cow indicators,Milk volume required to buy a cow,9192.0,Pounds,annual,Pounds
+1980,Other indicators,Alfalfa hay price received by farmers,72.0,Dollars per ton,annual,Dollars per ton
+1980,Other indicators,Slaughter cow price,45.73,Dollar per hundredweight,annual,Dollar per hundredweight
+1981,January 1 inventory,Milk cows and heifers that have calved,10849.0,Thousand head,annual,Thousand head
+1981,January 1 inventory,"Replacement heifers, 500+ pounds",4341.6,Thousand head,annual,Thousand head
+1981,January 1 inventory,Replacements per 100 cows,40.0,Head,annual,Head
+1981,Production indicators,Milk production,132770.0,Million pounds,annual,Million pounds
+1981,Production indicators,Milk per cow,12183.0,Pounds,annual,Pounds
+1981,Production indicators,Average number of milk cows in the United States,10898.0,Thousand,annual,Thousand
+1981,Milk and feed price indicators,Average price paid for milk,13.8,Dollar per hundredweight,annual,Dollar per hundredweight
+1981,Milk and feed price indicators,Milk-feed ratio,2.76,Number,annual,Number
+1981,Milk and feed price indicators,Dairy feed value,5.04,Dollar per hundredweight,annual,Dollar per hundredweight
+1981,Dairy cow indicators,Dairy cow prices,1202.5,Dollars per head,annual,Dollars per head
+1981,Dairy cow indicators,Milk volume required to buy a cow,8714.0,Pounds,annual,Pounds
+1981,Other indicators,Alfalfa hay price received by farmers,70.9,Dollars per ton,annual,Dollars per ton
+1981,Other indicators,Slaughter cow price,41.93,Dollar per hundredweight,annual,Dollar per hundredweight
+1982,January 1 inventory,Milk cows and heifers that have calved,10985.9,Thousand head,annual,Thousand head
+1982,January 1 inventory,"Replacement heifers, 500+ pounds",4546.7,Thousand head,annual,Thousand head
+1982,January 1 inventory,Replacements per 100 cows,41.4,Head,annual,Head
+1982,Production indicators,Milk production,135505.0,Million pounds,annual,Million pounds
+1982,Production indicators,Milk per cow,12306.0,Pounds,annual,Pounds
+1982,Production indicators,Average number of milk cows in the United States,11011.0,Thousand,annual,Thousand
+1982,Milk and feed price indicators,Average price paid for milk,13.6,Dollar per hundredweight,annual,Dollar per hundredweight
+1982,Milk and feed price indicators,Milk-feed ratio,3.09,Number,annual,Number
+1982,Milk and feed price indicators,Dairy feed value,4.42,Dollar per hundredweight,annual,Dollar per hundredweight
+1982,Dairy cow indicators,Dairy cow prices,1112.5,Dollars per head,annual,Dollars per head
+1982,Dairy cow indicators,Milk volume required to buy a cow,8180.0,Pounds,annual,Pounds
+1982,Other indicators,Alfalfa hay price received by farmers,72.73,Dollars per ton,annual,Dollars per ton
+1982,Other indicators,Slaughter cow price,39.96,Dollar per hundredweight,annual,Dollar per hundredweight
+1983,January 1 inventory,Milk cows and heifers that have calved,11046.8,Thousand head,annual,Thousand head
+1983,January 1 inventory,"Replacement heifers, 500+ pounds",4544.8,Thousand head,annual,Thousand head
+1983,January 1 inventory,Replacements per 100 cows,41.1,Head,annual,Head
+1983,Production indicators,Milk production,139588.0,Million pounds,annual,Million pounds
+1983,Production indicators,Milk per cow,12622.0,Pounds,annual,Pounds
+1983,Production indicators,Average number of milk cows in the United States,11059.0,Thousand,annual,Thousand
+1983,Milk and feed price indicators,Average price paid for milk,13.6,Dollar per hundredweight,annual,Dollar per hundredweight
+1983,Milk and feed price indicators,Milk-feed ratio,2.61,Number,annual,Number
+1983,Milk and feed price indicators,Dairy feed value,5.24,Dollar per hundredweight,annual,Dollar per hundredweight
+1983,Dairy cow indicators,Dairy cow prices,1032.5,Dollars per head,annual,Dollars per head
+1983,Dairy cow indicators,Milk volume required to buy a cow,7592.0,Pounds,annual,Pounds
+1983,Other indicators,Alfalfa hay price received by farmers,78.7,Dollars per ton,annual,Dollars per ton
+1983,Other indicators,Slaughter cow price,39.35,Dollar per hundredweight,annual,Dollar per hundredweight
+1984,January 1 inventory,Milk cows and heifers that have calved,11058.7,Thousand head,annual,Thousand head
+1984,January 1 inventory,"Replacement heifers, 500+ pounds",4532.7,Thousand head,annual,Thousand head
+1984,January 1 inventory,Replacements per 100 cows,41.0,Head,annual,Head
+1984,Production indicators,Milk production,135351.0,Million pounds,annual,Million pounds
+1984,Production indicators,Milk per cow,12541.0,Pounds,annual,Pounds
+1984,Production indicators,Average number of milk cows in the United States,10793.0,Thousand,annual,Thousand
+1984,Milk and feed price indicators,Average price paid for milk,13.5,Dollar per hundredweight,annual,Dollar per hundredweight
+1984,Milk and feed price indicators,Milk-feed ratio,2.54,Number,annual,Number
+1984,Milk and feed price indicators,Dairy feed value,5.34,Dollar per hundredweight,annual,Dollar per hundredweight
+1984,Dairy cow indicators,Dairy cow prices,895.0,Dollars per head,annual,Dollars per head
+1984,Dairy cow indicators,Milk volume required to buy a cow,6630.0,Pounds,annual,Pounds
+1984,Other indicators,Alfalfa hay price received by farmers,79.48,Dollars per ton,annual,Dollars per ton
+1984,Other indicators,Slaughter cow price,39.81,Dollar per hundredweight,annual,Dollar per hundredweight
+1985,January 1 inventory,Milk cows and heifers that have calved,10776.9,Thousand head,annual,Thousand head
+1985,January 1 inventory,"Replacement heifers, 500+ pounds",4770.0,Thousand head,annual,Thousand head
+1985,January 1 inventory,Replacements per 100 cows,44.3,Head,annual,Head
+1985,Production indicators,Milk production,143012.0,Million pounds,annual,Million pounds
+1985,Production indicators,Milk per cow,13024.0,Pounds,annual,Pounds
+1985,Production indicators,Average number of milk cows in the United States,10981.0,Thousand,annual,Thousand
+1985,Milk and feed price indicators,Average price paid for milk,12.7,Dollar per hundredweight,annual,Dollar per hundredweight
+1985,Milk and feed price indicators,Milk-feed ratio,2.84,Number,annual,Number
+1985,Milk and feed price indicators,Dairy feed value,4.5,Dollar per hundredweight,annual,Dollar per hundredweight
+1985,Dairy cow indicators,Dairy cow prices,861.25,Dollars per head,annual,Dollars per head
+1985,Dairy cow indicators,Milk volume required to buy a cow,6781.0,Pounds,annual,Pounds
+1985,Other indicators,Alfalfa hay price received by farmers,73.67,Dollars per ton,annual,Dollars per ton
+1985,Other indicators,Slaughter cow price,38.31,Dollar per hundredweight,annual,Dollar per hundredweight
+1986,January 1 inventory,Milk cows and heifers that have calved,11115.5,Thousand head,annual,Thousand head
+1986,January 1 inventory,"Replacement heifers, 500+ pounds",4708.7,Thousand head,annual,Thousand head
+1986,January 1 inventory,Replacements per 100 cows,42.4,Head,annual,Head
+1986,Production indicators,Milk production,143124.0,Million pounds,annual,Million pounds
+1986,Production indicators,Milk per cow,13285.0,Pounds,annual,Pounds
+1986,Production indicators,Average number of milk cows in the United States,10773.0,Thousand,annual,Thousand
+1986,Milk and feed price indicators,Average price paid for milk,12.5,Dollar per hundredweight,annual,Dollar per hundredweight
+1986,Milk and feed price indicators,Milk-feed ratio,3.39,Number,annual,Number
+1986,Milk and feed price indicators,Dairy feed value,3.77,Dollar per hundredweight,annual,Dollar per hundredweight
+1986,Dairy cow indicators,Dairy cow prices,821.25,Dollars per head,annual,Dollars per head
+1986,Dairy cow indicators,Milk volume required to buy a cow,6570.0,Pounds,annual,Pounds
+1986,Other indicators,Alfalfa hay price received by farmers,64.64,Dollars per ton,annual,Dollars per ton
+1986,Other indicators,Slaughter cow price,37.18,Dollar per hundredweight,annual,Dollar per hundredweight
+1987,January 1 inventory,Milk cows and heifers that have calved,10466.4,Thousand head,annual,Thousand head
+1987,January 1 inventory,"Replacement heifers, 500+ pounds",4304.9,Thousand head,annual,Thousand head
+1987,January 1 inventory,Replacements per 100 cows,41.1,Head,annual,Head
+1987,Production indicators,Milk production,142709.0,Million pounds,annual,Million pounds
+1987,Production indicators,Milk per cow,13819.0,Pounds,annual,Pounds
+1987,Production indicators,Average number of milk cows in the United States,10327.0,Thousand,annual,Thousand
+1987,Milk and feed price indicators,Average price paid for milk,12.5,Dollar per hundredweight,annual,Dollar per hundredweight
+1987,Milk and feed price indicators,Milk-feed ratio,3.64,Number,annual,Number
+1987,Milk and feed price indicators,Dairy feed value,3.45,Dollar per hundredweight,annual,Dollar per hundredweight
+1987,Dairy cow indicators,Dairy cow prices,917.5,Dollars per head,annual,Dollars per head
+1987,Dairy cow indicators,Milk volume required to buy a cow,7340.0,Pounds,annual,Pounds
+1987,Other indicators,Alfalfa hay price received by farmers,65.97,Dollars per ton,annual,Dollars per ton
+1987,Other indicators,Slaughter cow price,44.8,Dollar per hundredweight,annual,Dollar per hundredweight
+1988,January 1 inventory,Milk cows and heifers that have calved,10311.2,Thousand head,annual,Thousand head
+1988,January 1 inventory,"Replacement heifers, 500+ pounds",4122.3,Thousand head,annual,Thousand head
+1988,January 1 inventory,Replacements per 100 cows,40.0,Head,annual,Head
+1988,Production indicators,Milk production,145034.0,Million pounds,annual,Million pounds
+1988,Production indicators,Milk per cow,14185.0,Pounds,annual,Pounds
+1988,Production indicators,Average number of milk cows in the United States,10224.0,Thousand,annual,Thousand
+1988,Milk and feed price indicators,Average price paid for milk,12.2,Dollar per hundredweight,annual,Dollar per hundredweight
+1988,Milk and feed price indicators,Milk-feed ratio,2.63,Number,annual,Number
+1988,Milk and feed price indicators,Dairy feed value,4.72,Dollar per hundredweight,annual,Dollar per hundredweight
+1988,Dairy cow indicators,Dairy cow prices,986.25,Dollars per head,annual,Dollars per head
+1988,Dairy cow indicators,Milk volume required to buy a cow,8084.0,Pounds,annual,Pounds
+1988,Other indicators,Alfalfa hay price received by farmers,82.51,Dollars per ton,annual,Dollars per ton
+1988,Other indicators,Slaughter cow price,47.91,Dollar per hundredweight,annual,Dollar per hundredweight
+1989,January 1 inventory,Milk cows and heifers that have calved,10137.5,Thousand head,annual,Thousand head
+1989,January 1 inventory,"Replacement heifers, 500+ pounds",4116.7,Thousand head,annual,Thousand head
+1989,January 1 inventory,Replacements per 100 cows,40.6,Head,annual,Head
+1989,Production indicators,Milk production,143893.0,Million pounds,annual,Million pounds
+1989,Production indicators,Milk per cow,14323.0,Pounds,annual,Pounds
+1989,Production indicators,Average number of milk cows in the United States,10046.0,Thousand,annual,Thousand
+1989,Milk and feed price indicators,Average price paid for milk,13.6,Dollar per hundredweight,annual,Dollar per hundredweight
+1989,Milk and feed price indicators,Milk-feed ratio,2.7,Number,annual,Number
+1989,Milk and feed price indicators,Dairy feed value,5.07,Dollar per hundredweight,annual,Dollar per hundredweight
+1989,Dairy cow indicators,Dairy cow prices,1032.5,Dollars per head,annual,Dollars per head
+1989,Dairy cow indicators,Milk volume required to buy a cow,7592.0,Pounds,annual,Pounds
+1989,Other indicators,Alfalfa hay price received by farmers,95.98,Dollars per ton,annual,Dollars per ton
+1989,Other indicators,Slaughter cow price,50.11,Dollar per hundredweight,annual,Dollar per hundredweight
+1990,January 1 inventory,Milk cows and heifers that have calved,10014.8,Thousand head,annual,Thousand head
+1990,January 1 inventory,"Replacement heifers, 500+ pounds",4170.6,Thousand head,annual,Thousand head
+1990,January 1 inventory,Replacements per 100 cows,41.6,Head,annual,Head
+1990,Production indicators,Milk production,147721.0,Million pounds,annual,Million pounds
+1990,Production indicators,Milk per cow,14782.0,Pounds,annual,Pounds
+1990,Production indicators,Average number of milk cows in the United States,9993.0,Thousand,annual,Thousand
+1990,Milk and feed price indicators,Average price paid for milk,13.7,Dollar per hundredweight,annual,Dollar per hundredweight
+1990,Milk and feed price indicators,Milk-feed ratio,2.82,Number,annual,Number
+1990,Milk and feed price indicators,Dairy feed value,4.86,Dollar per hundredweight,annual,Dollar per hundredweight
+1990,Dairy cow indicators,Dairy cow prices,1157.5,Dollars per head,annual,Dollars per head
+1990,Dairy cow indicators,Milk volume required to buy a cow,8449.0,Pounds,annual,Pounds
+1990,Other indicators,Alfalfa hay price received by farmers,92.56,Dollars per ton,annual,Dollars per ton
+1990,Other indicators,Slaughter cow price,53.32,Dollar per hundredweight,annual,Dollar per hundredweight
+1991,January 1 inventory,Milk cows and heifers that have calved,9965.6,Thousand head,annual,Thousand head
+1991,January 1 inventory,"Replacement heifers, 500+ pounds",4093.4,Thousand head,annual,Thousand head
+1991,January 1 inventory,Replacements per 100 cows,41.1,Head,annual,Head
+1991,Production indicators,Milk production,147697.0,Million pounds,annual,Million pounds
+1991,Production indicators,Milk per cow,15031.0,Pounds,annual,Pounds
+1991,Production indicators,Average number of milk cows in the United States,9826.0,Thousand,annual,Thousand
+1991,Milk and feed price indicators,Average price paid for milk,12.2,Dollar per hundredweight,annual,Dollar per hundredweight
+1991,Milk and feed price indicators,Milk-feed ratio,2.74,Number,annual,Number
+1991,Milk and feed price indicators,Dairy feed value,4.49,Dollar per hundredweight,annual,Dollar per hundredweight
+1991,Dairy cow indicators,Dairy cow prices,1095.0,Dollars per head,annual,Dollars per head
+1991,Dairy cow indicators,Milk volume required to buy a cow,8975.0,Pounds,annual,Pounds
+1991,Other indicators,Alfalfa hay price received by farmers,78.96,Dollars per ton,annual,Dollars per ton
+1991,Other indicators,Slaughter cow price,51.5,Dollar per hundredweight,annual,Dollar per hundredweight
+1992,January 1 inventory,Milk cows and heifers that have calved,9728.2,Thousand head,annual,Thousand head
+1992,January 1 inventory,"Replacement heifers, 500+ pounds",4131.4,Thousand head,annual,Thousand head
+1992,January 1 inventory,Replacements per 100 cows,42.5,Head,annual,Head
+1992,Production indicators,Milk production,150847.0,Million pounds,annual,Million pounds
+1992,Production indicators,Milk per cow,15570.0,Pounds,annual,Pounds
+1992,Production indicators,Average number of milk cows in the United States,9688.0,Thousand,annual,Thousand
+1992,Milk and feed price indicators,Average price paid for milk,13.1,Dollar per hundredweight,annual,Dollar per hundredweight
+1992,Milk and feed price indicators,Milk-feed ratio,3.01,Number,annual,Number
+1992,Milk and feed price indicators,Dairy feed value,4.37,Dollar per hundredweight,annual,Dollar per hundredweight
+1992,Dairy cow indicators,Dairy cow prices,1130.0,Dollars per head,annual,Dollars per head
+1992,Dairy cow indicators,Milk volume required to buy a cow,8626.0,Pounds,annual,Pounds
+1992,Other indicators,Alfalfa hay price received by farmers,75.51,Dollars per ton,annual,Dollars per ton
+1992,Other indicators,Slaughter cow price,49.69,Dollar per hundredweight,annual,Dollar per hundredweight
+1993,January 1 inventory,Milk cows and heifers that have calved,9658.1,Thousand head,annual,Thousand head
+1993,January 1 inventory,"Replacement heifers, 500+ pounds",4176.2,Thousand head,annual,Thousand head
+1993,January 1 inventory,Replacements per 100 cows,43.2,Head,annual,Head
+1993,Production indicators,Milk production,150636.0,Million pounds,annual,Million pounds
+1993,Production indicators,Milk per cow,15722.0,Pounds,annual,Pounds
+1993,Production indicators,Average number of milk cows in the United States,9581.0,Thousand,annual,Thousand
+1993,Milk and feed price indicators,Average price paid for milk,12.8,Dollar per hundredweight,annual,Dollar per hundredweight
+1993,Milk and feed price indicators,Milk-feed ratio,2.8,Number,annual,Number
+1993,Milk and feed price indicators,Dairy feed value,4.6,Dollar per hundredweight,annual,Dollar per hundredweight
+1993,Dairy cow indicators,Dairy cow prices,1160.0,Dollars per head,annual,Dollars per head
+1993,Dairy cow indicators,Milk volume required to buy a cow,9062.0,Pounds,annual,Pounds
+1993,Other indicators,Alfalfa hay price received by farmers,86.67,Dollars per ton,annual,Dollars per ton
+1993,Other indicators,Slaughter cow price,50.14,Dollar per hundredweight,annual,Dollar per hundredweight
+1994,January 1 inventory,Milk cows and heifers that have calved,9507.0,Thousand head,annual,Thousand head
+1994,January 1 inventory,"Replacement heifers, 500+ pounds",4124.5,Thousand head,annual,Thousand head
+1994,January 1 inventory,Replacements per 100 cows,43.4,Head,annual,Head
+1994,Production indicators,Milk production,153602.0,Million pounds,annual,Million pounds
+1994,Production indicators,Milk per cow,16179.0,Pounds,annual,Pounds
+1994,Production indicators,Average number of milk cows in the United States,9494.0,Thousand,annual,Thousand
+1994,Milk and feed price indicators,Average price paid for milk,13.0,Dollar per hundredweight,annual,Dollar per hundredweight
+1994,Milk and feed price indicators,Milk-feed ratio,2.65,Number,annual,Number
+1994,Milk and feed price indicators,Dairy feed value,4.93,Dollar per hundredweight,annual,Dollar per hundredweight
+1994,Dairy cow indicators,Dairy cow prices,1170.0,Dollars per head,annual,Dollars per head
+1994,Dairy cow indicators,Milk volume required to buy a cow,9000.0,Pounds,annual,Pounds
+1994,Other indicators,Alfalfa hay price received by farmers,93.63,Dollars per ton,annual,Dollars per ton
+1994,Other indicators,Slaughter cow price,45.03,Dollar per hundredweight,annual,Dollar per hundredweight
+1995,January 1 inventory,Milk cows and heifers that have calved,9481.8,Thousand head,annual,Thousand head
+1995,January 1 inventory,"Replacement heifers, 500+ pounds",4121.3,Thousand head,annual,Thousand head
+1995,January 1 inventory,Replacements per 100 cows,43.5,Head,annual,Head
+1995,Production indicators,Milk production,155292.0,Million pounds,annual,Million pounds
+1995,Production indicators,Milk per cow,16405.0,Pounds,annual,Pounds
+1995,Production indicators,Average number of milk cows in the United States,9466.0,Thousand,annual,Thousand
+1995,Milk and feed price indicators,Average price paid for milk,12.7,Dollar per hundredweight,annual,Dollar per hundredweight
+1995,Milk and feed price indicators,Milk-feed ratio,2.59,Number,annual,Number
+1995,Milk and feed price indicators,Dairy feed value,4.91,Dollar per hundredweight,annual,Dollar per hundredweight
+1995,Dairy cow indicators,Dairy cow prices,1127.5,Dollars per head,annual,Dollars per head
+1995,Dairy cow indicators,Milk volume required to buy a cow,8878.0,Pounds,annual,Pounds
+1995,Other indicators,Alfalfa hay price received by farmers,88.09,Dollars per ton,annual,Dollars per ton
+1995,Other indicators,Slaughter cow price,38.12,Dollar per hundredweight,annual,Dollar per hundredweight
+1996,January 1 inventory,Milk cows and heifers that have calved,9419.9,Thousand head,annual,Thousand head
+1996,January 1 inventory,"Replacement heifers, 500+ pounds",4090.3,Thousand head,annual,Thousand head
+1996,January 1 inventory,Replacements per 100 cows,43.4,Head,annual,Head
+1996,Production indicators,Milk production,154006.0,Million pounds,annual,Million pounds
+1996,Production indicators,Milk per cow,16433.0,Pounds,annual,Pounds
+1996,Production indicators,Average number of milk cows in the United States,9372.0,Thousand,annual,Thousand
+1996,Milk and feed price indicators,Average price paid for milk,14.9,Dollar per hundredweight,annual,Dollar per hundredweight
+1996,Milk and feed price indicators,Milk-feed ratio,2.44,Number,annual,Number
+1996,Milk and feed price indicators,Dairy feed value,6.11,Dollar per hundredweight,annual,Dollar per hundredweight
+1996,Dairy cow indicators,Dairy cow prices,1087.5,Dollars per head,annual,Dollars per head
+1996,Dairy cow indicators,Milk volume required to buy a cow,7299.0,Pounds,annual,Pounds
+1996,Other indicators,Alfalfa hay price received by farmers,95.03,Dollars per ton,annual,Dollars per ton
+1996,Other indicators,Slaughter cow price,33.0,Dollar per hundredweight,annual,Dollar per hundredweight
+1997,January 1 inventory,Milk cows and heifers that have calved,9317.9,Thousand head,annual,Thousand head
+1997,January 1 inventory,"Replacement heifers, 500+ pounds",4058.4,Thousand head,annual,Thousand head
+1997,January 1 inventory,Replacements per 100 cows,43.6,Head,annual,Head
+1997,Production indicators,Milk production,156091.0,Million pounds,annual,Million pounds
+1997,Production indicators,Milk per cow,16871.0,Pounds,annual,Pounds
+1997,Production indicators,Average number of milk cows in the United States,9252.0,Thousand,annual,Thousand
+1997,Milk and feed price indicators,Average price paid for milk,13.3,Dollar per hundredweight,annual,Dollar per hundredweight
+1997,Milk and feed price indicators,Milk-feed ratio,2.38,Number,annual,Number
+1997,Milk and feed price indicators,Dairy feed value,5.59,Dollar per hundredweight,annual,Dollar per hundredweight
+1997,Dairy cow indicators,Dairy cow prices,1097.5,Dollars per head,annual,Dollars per head
+1997,Dairy cow indicators,Milk volume required to buy a cow,8252.0,Pounds,annual,Pounds
+1997,Other indicators,Alfalfa hay price received by farmers,110.69,Dollars per ton,annual,Dollars per ton
+1997,Other indicators,Slaughter cow price,36.93,Dollar per hundredweight,annual,Dollar per hundredweight
+1998,January 1 inventory,Milk cows and heifers that have calved,9199.0,Thousand head,annual,Thousand head
+1998,January 1 inventory,"Replacement heifers, 500+ pounds",3985.7,Thousand head,annual,Thousand head
+1998,January 1 inventory,Replacements per 100 cows,43.3,Head,annual,Head
+1998,Production indicators,Milk production,157262.0,Million pounds,annual,Million pounds
+1998,Production indicators,Milk per cow,17185.0,Pounds,annual,Pounds
+1998,Production indicators,Average number of milk cows in the United States,9151.0,Thousand,annual,Thousand
+1998,Milk and feed price indicators,Average price paid for milk,15.5,Dollar per hundredweight,annual,Dollar per hundredweight
+1998,Milk and feed price indicators,Milk-feed ratio,3.34,Number,annual,Number
+1998,Milk and feed price indicators,Dairy feed value,4.64,Dollar per hundredweight,annual,Dollar per hundredweight
+1998,Dairy cow indicators,Dairy cow prices,1120.0,Dollars per head,annual,Dollars per head
+1998,Dairy cow indicators,Milk volume required to buy a cow,7226.0,Pounds,annual,Pounds
+1998,Other indicators,Alfalfa hay price received by farmers,94.28,Dollars per ton,annual,Dollars per ton
+1998,Other indicators,Slaughter cow price,35.54,Dollar per hundredweight,annual,Dollar per hundredweight
+1999,January 1 inventory,Milk cows and heifers that have calved,9128.0,Thousand head,annual,Thousand head
+1999,January 1 inventory,"Replacement heifers, 500+ pounds",4068.8,Thousand head,annual,Thousand head
+1999,January 1 inventory,Replacements per 100 cows,44.6,Head,annual,Head
+1999,Production indicators,Milk production,162589.0,Million pounds,annual,Million pounds
+1999,Production indicators,Milk per cow,17763.0,Pounds,annual,Pounds
+1999,Production indicators,Average number of milk cows in the United States,9153.0,Thousand,annual,Thousand
+1999,Milk and feed price indicators,Average price paid for milk,14.4,Dollar per hundredweight,annual,Dollar per hundredweight
+1999,Milk and feed price indicators,Milk-feed ratio,3.59,Number,annual,Number
+1999,Milk and feed price indicators,Dairy feed value,4.01,Dollar per hundredweight,annual,Dollar per hundredweight
+1999,Dairy cow indicators,Dairy cow prices,1287.5,Dollars per head,annual,Dollars per head
+1999,Dairy cow indicators,Milk volume required to buy a cow,8941.0,Pounds,annual,Pounds
+1999,Other indicators,Alfalfa hay price received by farmers,82.26,Dollars per ton,annual,Dollars per ton
+1999,Other indicators,Slaughter cow price,37.28,Dollar per hundredweight,annual,Dollar per hundredweight
+2000,January 1 inventory,Milk cows and heifers that have calved,9182.8,Thousand head,annual,Thousand head
+2000,January 1 inventory,"Replacement heifers, 500+ pounds",3999.8,Thousand head,annual,Thousand head
+2000,January 1 inventory,Replacements per 100 cows,43.6,Head,annual,Head
+2000,Production indicators,Milk production,167393.0,Million pounds,annual,Million pounds
+2000,Production indicators,Milk per cow,18197.0,Pounds,annual,Pounds
+2000,Production indicators,Average number of milk cows in the United States,9199.0,Thousand,annual,Thousand
+2000,Milk and feed price indicators,Average price paid for milk,12.3,Dollar per hundredweight,annual,Dollar per hundredweight
+2000,Milk and feed price indicators,Milk-feed ratio,3.05,Number,annual,Number
+2000,Milk and feed price indicators,Dairy feed value,4.03,Dollar per hundredweight,annual,Dollar per hundredweight
+2000,Dairy cow indicators,Dairy cow prices,1342.5,Dollars per head,annual,Dollars per head
+2000,Dairy cow indicators,Milk volume required to buy a cow,10915.0,Pounds,annual,Pounds
+2000,Other indicators,Alfalfa hay price received by farmers,83.88,Dollars per ton,annual,Dollars per ton
+2000,Other indicators,Slaughter cow price,40.08,Dollar per hundredweight,annual,Dollar per hundredweight
+2001,January 1 inventory,Milk cows and heifers that have calved,9171.7,Thousand head,annual,Thousand head
+2001,January 1 inventory,"Replacement heifers, 500+ pounds",4057.0,Thousand head,annual,Thousand head
+2001,January 1 inventory,Replacements per 100 cows,44.2,Head,annual,Head
+2001,Production indicators,Milk production,165332.0,Million pounds,annual,Million pounds
+2001,Production indicators,Milk per cow,18162.0,Pounds,annual,Pounds
+2001,Production indicators,Average number of milk cows in the United States,9103.0,Thousand,annual,Thousand
+2001,Milk and feed price indicators,Average price paid for milk,15.0,Dollar per hundredweight,annual,Dollar per hundredweight
+2001,Milk and feed price indicators,Milk-feed ratio,3.39,Number,annual,Number
+2001,Milk and feed price indicators,Dairy feed value,4.42,Dollar per hundredweight,annual,Dollar per hundredweight
+2001,Dairy cow indicators,Dairy cow prices,1502.5,Dollars per head,annual,Dollars per head
+2001,Dairy cow indicators,Milk volume required to buy a cow,10017.0,Pounds,annual,Pounds
+2001,Other indicators,Alfalfa hay price received by farmers,102.41,Dollars per ton,annual,Dollars per ton
+2001,Other indicators,Slaughter cow price,44.78,Dollar per hundredweight,annual,Dollar per hundredweight
+2002,January 1 inventory,Milk cows and heifers that have calved,9105.6,Thousand head,annual,Thousand head
+2002,January 1 inventory,"Replacement heifers, 500+ pounds",4054.8,Thousand head,annual,Thousand head
+2002,January 1 inventory,Replacements per 100 cows,44.5,Head,annual,Head
+2002,Production indicators,Milk production,170063.0,Million pounds,annual,Million pounds
+2002,Production indicators,Milk per cow,18608.0,Pounds,annual,Pounds
+2002,Production indicators,Average number of milk cows in the United States,9139.0,Thousand,annual,Thousand
+2002,Milk and feed price indicators,Average price paid for milk,12.1,Dollar per hundredweight,annual,Dollar per hundredweight
+2002,Milk and feed price indicators,Milk-feed ratio,2.6,Number,annual,Number
+2002,Milk and feed price indicators,Dairy feed value,4.65,Dollar per hundredweight,annual,Dollar per hundredweight
+2002,Dairy cow indicators,Dairy cow prices,1605.0,Dollars per head,annual,Dollars per head
+2002,Dairy cow indicators,Milk volume required to buy a cow,13264.0,Pounds,annual,Pounds
+2002,Other indicators,Alfalfa hay price received by farmers,101.3,Dollars per ton,annual,Dollars per ton
+2002,Other indicators,Slaughter cow price,40.09,Dollar per hundredweight,annual,Dollar per hundredweight
+2003,January 1 inventory,Milk cows and heifers that have calved,9141.7,Thousand head,annual,Thousand head
+2003,January 1 inventory,"Replacement heifers, 500+ pounds",4113.9,Thousand head,annual,Thousand head
+2003,January 1 inventory,Replacements per 100 cows,45.0,Head,annual,Head
+2003,Production indicators,Milk production,170348.0,Million pounds,annual,Million pounds
+2003,Production indicators,Milk per cow,18759.0,Pounds,annual,Pounds
+2003,Production indicators,Average number of milk cows in the United States,9081.0,Thousand,annual,Thousand
+2003,Milk and feed price indicators,Average price paid for milk,12.5,Dollar per hundredweight,annual,Dollar per hundredweight
+2003,Milk and feed price indicators,Milk-feed ratio,2.61,Number,annual,Number
+2003,Milk and feed price indicators,Dairy feed value,4.79,Dollar per hundredweight,annual,Dollar per hundredweight
+2003,Dairy cow indicators,Dairy cow prices,1342.5,Dollars per head,annual,Dollars per head
+2003,Dairy cow indicators,Milk volume required to buy a cow,10740.0,Pounds,annual,Pounds
+2003,Other indicators,Alfalfa hay price received by farmers,94.03,Dollars per ton,annual,Dollars per ton
+2003,Other indicators,Slaughter cow price,42.99,Dollar per hundredweight,annual,Dollar per hundredweight
+2004,January 1 inventory,Milk cows and heifers that have calved,8987.5,Thousand head,annual,Thousand head
+2004,January 1 inventory,"Replacement heifers, 500+ pounds",4018.0,Thousand head,annual,Thousand head
+2004,January 1 inventory,Replacements per 100 cows,44.7,Head,annual,Head
+2004,Production indicators,Milk production,170832.0,Million pounds,annual,Million pounds
+2004,Production indicators,Milk per cow,18960.0,Pounds,annual,Pounds
+2004,Production indicators,Average number of milk cows in the United States,9010.0,Thousand,annual,Thousand
+2004,Milk and feed price indicators,Average price paid for milk,16.1,Dollar per hundredweight,annual,Dollar per hundredweight
+2004,Milk and feed price indicators,Milk-feed ratio,3.1,Number,annual,Number
+2004,Milk and feed price indicators,Dairy feed value,5.19,Dollar per hundredweight,annual,Dollar per hundredweight
+2004,Dairy cow indicators,Dairy cow prices,1582.5,Dollars per head,annual,Dollars per head
+2004,Dairy cow indicators,Milk volume required to buy a cow,9829.0,Pounds,annual,Pounds
+2004,Other indicators,Alfalfa hay price received by farmers,95.13,Dollars per ton,annual,Dollars per ton
+2004,Other indicators,Slaughter cow price,52.66,Dollar per hundredweight,annual,Dollar per hundredweight
+2005,January 1 inventory,Milk cows and heifers that have calved,9003.5,Thousand head,annual,Thousand head
+2005,January 1 inventory,"Replacement heifers, 500+ pounds",4116.6,Thousand head,annual,Thousand head
+2005,January 1 inventory,Replacements per 100 cows,45.7,Head,annual,Head
+2005,Production indicators,Milk production,176931.0,Million pounds,annual,Million pounds
+2005,Production indicators,Milk per cow,19550.0,Pounds,annual,Pounds
+2005,Production indicators,Average number of milk cows in the United States,9050.0,Thousand,annual,Thousand
+2005,Milk and feed price indicators,Average price paid for milk,15.1,Dollar per hundredweight,annual,Dollar per hundredweight
+2005,Milk and feed price indicators,Milk-feed ratio,3.24,Number,annual,Number
+2005,Milk and feed price indicators,Dairy feed value,4.66,Dollar per hundredweight,annual,Dollar per hundredweight
+2005,Dairy cow indicators,Dairy cow prices,1772.5,Dollars per head,annual,Dollars per head
+2005,Dairy cow indicators,Milk volume required to buy a cow,11738.0,Pounds,annual,Pounds
+2005,Other indicators,Alfalfa hay price received by farmers,102.53,Dollars per ton,annual,Dollars per ton
+2005,Other indicators,Slaughter cow price,53.94,Dollar per hundredweight,annual,Dollar per hundredweight
+2006,January 1 inventory,Milk cows and heifers that have calved,9103.9,Thousand head,annual,Thousand head
+2006,January 1 inventory,"Replacement heifers, 500+ pounds",4298.0,Thousand head,annual,Thousand head
+2006,January 1 inventory,Replacements per 100 cows,47.2,Head,annual,Head
+2006,Production indicators,Milk production,181782.0,Million pounds,annual,Million pounds
+2006,Production indicators,Milk per cow,19895.0,Pounds,annual,Pounds
+2006,Production indicators,Average number of milk cows in the United States,9137.0,Thousand,annual,Thousand
+2006,Milk and feed price indicators,Average price paid for milk,12.9,Dollar per hundredweight,annual,Dollar per hundredweight
+2006,Milk and feed price indicators,Milk-feed ratio,2.57,Number,annual,Number
+2006,Milk and feed price indicators,Dairy feed value,5.02,Dollar per hundredweight,annual,Dollar per hundredweight
+2006,Dairy cow indicators,Dairy cow prices,1735.0,Dollars per head,annual,Dollars per head
+2006,Dairy cow indicators,Milk volume required to buy a cow,13450.0,Pounds,annual,Pounds
+2006,Other indicators,Alfalfa hay price received by farmers,107.71,Dollars per ton,annual,Dollars per ton
+2006,Other indicators,Slaughter cow price,49.08,Dollar per hundredweight,annual,Dollar per hundredweight
+2007,January 1 inventory,Milk cows and heifers that have calved,9144.5,Thousand head,annual,Thousand head
+2007,January 1 inventory,"Replacement heifers, 500+ pounds",4324.9,Thousand head,annual,Thousand head
+2007,January 1 inventory,Replacements per 100 cows,47.3,Head,annual,Head
+2007,Production indicators,Milk production,185654.0,Million pounds,annual,Million pounds
+2007,Production indicators,Milk per cow,20204.0,Pounds,annual,Pounds
+2007,Production indicators,Average number of milk cows in the United States,9189.0,Thousand,annual,Thousand
+2007,Milk and feed price indicators,Average price paid for milk,19.1,Dollar per hundredweight,annual,Dollar per hundredweight
+2007,Milk and feed price indicators,Milk-feed ratio,2.8,Number,annual,Number
+2007,Milk and feed price indicators,Dairy feed value,6.82,Dollar per hundredweight,annual,Dollar per hundredweight
+2007,Dairy cow indicators,Dairy cow prices,1840.0,Dollars per head,annual,Dollars per head
+2007,Dairy cow indicators,Milk volume required to buy a cow,9634.0,Pounds,annual,Pounds
+2007,Other indicators,Alfalfa hay price received by farmers,130.58,Dollars per ton,annual,Dollars per ton
+2007,Other indicators,Slaughter cow price,49.51,Dollar per hundredweight,annual,Dollar per hundredweight
+2008,January 1 inventory,Milk cows and heifers that have calved,9257.0,Thousand head,annual,Thousand head
+2008,January 1 inventory,"Replacement heifers, 500+ pounds",4415.0,Thousand head,annual,Thousand head
+2008,January 1 inventory,Replacements per 100 cows,47.7,Head,annual,Head
+2008,Production indicators,Milk production,189978.0,Million pounds,annual,Million pounds
+2008,Production indicators,Milk per cow,20397.0,Pounds,annual,Pounds
+2008,Production indicators,Average number of milk cows in the United States,9314.0,Thousand,annual,Thousand
+2008,Milk and feed price indicators,Average price paid for milk,18.3,Dollar per hundredweight,annual,Dollar per hundredweight
+2008,Milk and feed price indicators,Milk-feed ratio,2.01,Number,annual,Number
+2008,Milk and feed price indicators,Dairy feed value,9.1,Dollar per hundredweight,annual,Dollar per hundredweight
+2008,Dairy cow indicators,Dairy cow prices,1950.0,Dollars per head,annual,Dollars per head
+2008,Dairy cow indicators,Milk volume required to buy a cow,10656.0,Pounds,annual,Pounds
+2008,Other indicators,Alfalfa hay price received by farmers,161.33,Dollars per ton,annual,Dollars per ton
+2008,Other indicators,Slaughter cow price,51.44,Dollar per hundredweight,annual,Dollar per hundredweight
+2009,January 1 inventory,Milk cows and heifers that have calved,9332.8,Thousand head,annual,Thousand head
+2009,January 1 inventory,"Replacement heifers, 500+ pounds",4409.5,Thousand head,annual,Thousand head
+2009,January 1 inventory,Replacements per 100 cows,47.2,Head,annual,Head
+2009,Production indicators,Milk production,189202.0,Million pounds,annual,Million pounds
+2009,Production indicators,Milk per cow,20561.0,Pounds,annual,Pounds
+2009,Production indicators,Average number of milk cows in the United States,9202.0,Thousand,annual,Thousand
+2009,Milk and feed price indicators,Average price paid for milk,12.8,Dollar per hundredweight,annual,Dollar per hundredweight
+2009,Milk and feed price indicators,Milk-feed ratio,1.78,Number,annual,Number
+2009,Milk and feed price indicators,Dairy feed value,7.19,Dollar per hundredweight,annual,Dollar per hundredweight
+2009,Dairy cow indicators,Dairy cow prices,1385.0,Dollars per head,annual,Dollars per head
+2009,Dairy cow indicators,Milk volume required to buy a cow,10820.0,Pounds,annual,Pounds
+2009,Other indicators,Alfalfa hay price received by farmers,122.92,Dollars per ton,annual,Dollars per ton
+2009,Other indicators,Slaughter cow price,44.38,Dollar per hundredweight,annual,Dollar per hundredweight
+2010,January 1 inventory,Milk cows and heifers that have calved,9086.5,Thousand head,annual,Thousand head
+2010,January 1 inventory,"Replacement heifers, 500+ pounds",4551.2,Thousand head,annual,Thousand head
+2010,January 1 inventory,Replacements per 100 cows,50.1,Head,annual,Head
+2010,Production indicators,Milk production,192877.0,Million pounds,annual,Million pounds
+2010,Production indicators,Milk per cow,21142.0,Pounds,annual,Pounds
+2010,Production indicators,Average number of milk cows in the United States,9123.0,Thousand,annual,Thousand
+2010,Milk and feed price indicators,Average price paid for milk,16.3,Dollar per hundredweight,annual,Dollar per hundredweight
+2010,Milk and feed price indicators,Milk-feed ratio,2.26,Number,annual,Number
+2010,Milk and feed price indicators,Dairy feed value,7.21,Dollar per hundredweight,annual,Dollar per hundredweight
+2010,Dairy cow indicators,Dairy cow prices,1330.0,Dollars per head,annual,Dollars per head
+2010,Dairy cow indicators,Milk volume required to buy a cow,8160.0,Pounds,annual,Pounds
+2010,Other indicators,Alfalfa hay price received by farmers,116.42,Dollars per ton,annual,Dollars per ton
+2010,Other indicators,Slaughter cow price,56.1,Dollar per hundredweight,annual,Dollar per hundredweight
+2011,January 1 inventory,Milk cows and heifers that have calved,9155.6,Thousand head,annual,Thousand head
+2011,January 1 inventory,"Replacement heifers, 500+ pounds",4577.2,Thousand head,annual,Thousand head
+2011,January 1 inventory,Replacements per 100 cows,50.0,Head,annual,Head
+2011,Production indicators,Milk production,196255.0,Million pounds,annual,Million pounds
+2011,Production indicators,Milk per cow,21334.0,Pounds,annual,Pounds
+2011,Production indicators,Average number of milk cows in the United States,9199.0,Thousand,annual,Thousand
+2011,Milk and feed price indicators,Average price paid for milk,20.1,Dollar per hundredweight,annual,Dollar per hundredweight
+2011,Milk and feed price indicators,Milk-feed ratio,1.9,Number,annual,Number
+2011,Milk and feed price indicators,Dairy feed value,10.58,Dollar per hundredweight,annual,Dollar per hundredweight
+2011,Dairy cow indicators,Dairy cow prices,1420.0,Dollars per head,annual,Dollars per head
+2011,Dairy cow indicators,Milk volume required to buy a cow,7065.0,Pounds,annual,Pounds
+2011,Other indicators,Alfalfa hay price received by farmers,176.08,Dollars per ton,annual,Dollars per ton
+2011,Other indicators,Slaughter cow price,68.3,Dollar per hundredweight,annual,Dollar per hundredweight
+2012,January 1 inventory,Milk cows and heifers that have calved,9235.5,Thousand head,annual,Thousand head
+2012,January 1 inventory,"Replacement heifers, 500+ pounds",4618.0,Thousand head,annual,Thousand head
+2012,January 1 inventory,Replacements per 100 cows,50.0,Head,annual,Head
+2012,Production indicators,Milk production,200642.0,Million pounds,annual,Million pounds
+2012,Production indicators,Milk per cow,21722.0,Pounds,annual,Pounds
+2012,Production indicators,Average number of milk cows in the United States,9237.0,Thousand,annual,Thousand
+2012,Milk and feed price indicators,Average price paid for milk,18.5,Dollar per hundredweight,annual,Dollar per hundredweight
+2012,Milk and feed price indicators,Milk-feed ratio,1.52,Number,annual,Number
+2012,Milk and feed price indicators,Dairy feed value,12.17,Dollar per hundredweight,annual,Dollar per hundredweight
+2012,Dairy cow indicators,Dairy cow prices,1427.5,Dollars per head,annual,Dollars per head
+2012,Dairy cow indicators,Milk volume required to buy a cow,7716.0,Pounds,annual,Pounds
+2012,Other indicators,Alfalfa hay price received by farmers,206.08,Dollars per ton,annual,Dollars per ton
+2012,Other indicators,Slaughter cow price,77.71,Dollar per hundredweight,annual,Dollar per hundredweight
+2013,January 1 inventory,Milk cows and heifers that have calved,9221.2,Thousand head,annual,Thousand head
+2013,January 1 inventory,"Replacement heifers, 500+ pounds",4545.7,Thousand head,annual,Thousand head
+2013,January 1 inventory,Replacements per 100 cows,49.3,Head,annual,Head
+2013,Production indicators,Milk production,201260.0,Million pounds,annual,Million pounds
+2013,Production indicators,Milk per cow,21819.0,Pounds,annual,Pounds
+2013,Production indicators,Average number of milk cows in the United States,9224.0,Thousand,annual,Thousand
+2013,Milk and feed price indicators,Average price paid for milk,20.1,Dollar per hundredweight,annual,Dollar per hundredweight
+2013,Milk and feed price indicators,Milk-feed ratio,1.75,Number,annual,Number
+2013,Milk and feed price indicators,Dairy feed value,11.49,Dollar per hundredweight,annual,Dollar per hundredweight
+2013,Dairy cow indicators,Dairy cow prices,1390.0,Dollars per head,annual,Dollars per head
+2013,Dairy cow indicators,Milk volume required to buy a cow,6915.0,Pounds,annual,Pounds
+2013,Other indicators,Alfalfa hay price received by farmers,205.83,Dollars per ton,annual,Dollars per ton
+2013,Other indicators,Slaughter cow price,77.56,Dollar per hundredweight,annual,Dollar per hundredweight
+2014,January 1 inventory,Milk cows and heifers that have calved,9208.6,Thousand head,annual,Thousand head
+2014,January 1 inventory,"Replacement heifers, 500+ pounds",4538.7,Thousand head,annual,Thousand head
+2014,January 1 inventory,Replacements per 100 cows,49.3,Head,annual,Head
+2014,Production indicators,Milk production,206048.0,Million pounds,annual,Million pounds
+2014,Production indicators,Milk per cow,22249.0,Pounds,annual,Pounds
+2014,Production indicators,Average number of milk cows in the United States,9261.0,Thousand,annual,Thousand
+2014,Milk and feed price indicators,Average price paid for milk,24.0,Dollar per hundredweight,annual,Dollar per hundredweight
+2014,Milk and feed price indicators,Milk-feed ratio,2.54,Number,annual,Number
+2014,Milk and feed price indicators,Dairy feed value,9.45,Dollar per hundredweight,annual,Dollar per hundredweight
+2014,Dairy cow indicators,Dairy cow prices,1835.0,Dollars per head,annual,Dollars per head
+2014,Dairy cow indicators,Milk volume required to buy a cow,7646.0,Pounds,annual,Pounds
+2014,Other indicators,Alfalfa hay price received by farmers,200.25,Dollars per ton,annual,Dollars per ton
+2014,Other indicators,Slaughter cow price,102.04,Dollar per hundredweight,annual,Dollar per hundredweight
+2015,January 1 inventory,Milk cows and heifers that have calved,9311.9,Thousand head,annual,Thousand head
+2015,January 1 inventory,"Replacement heifers, 500+ pounds",4710.4,Thousand head,annual,Thousand head
+2015,January 1 inventory,Replacements per 100 cows,50.6,Head,annual,Head
+2015,Production indicators,Milk production,208508.0,Million pounds,annual,Million pounds
+2015,Production indicators,Milk per cow,22372.0,Pounds,annual,Pounds
+2015,Production indicators,Average number of milk cows in the United States,9320.0,Thousand,annual,Thousand
+2015,Milk and feed price indicators,Average price paid for milk,17.1,Dollar per hundredweight,annual,Dollar per hundredweight
+2015,Milk and feed price indicators,Milk-feed ratio,2.14,Number,annual,Number
+2015,Milk and feed price indicators,Dairy feed value,7.99,Dollar per hundredweight,annual,Dollar per hundredweight
+2015,Dairy cow indicators,Dairy cow prices,1992.5,Dollars per head,annual,Dollars per head
+2015,Dairy cow indicators,Milk volume required to buy a cow,11652.0,Pounds,annual,Pounds
+2015,Other indicators,Alfalfa hay price received by farmers,165.83,Dollars per ton,annual,Dollars per ton
+2015,Other indicators,Slaughter cow price,99.56,Dollar per hundredweight,annual,Dollar per hundredweight
+2016,January 1 inventory,Milk cows and heifers that have calved,9312.4,Thousand head,annual,Thousand head
+2016,January 1 inventory,"Replacement heifers, 500+ pounds",4814.0,Thousand head,annual,Thousand head
+2016,January 1 inventory,Replacements per 100 cows,51.7,Head,annual,Head
+2016,Production indicators,Milk production,212451.0,Million pounds,annual,Million pounds
+2016,Production indicators,Milk per cow,22761.0,Pounds,annual,Pounds
+2016,Production indicators,Average number of milk cows in the United States,9334.0,Thousand,annual,Thousand
+2016,Milk and feed price indicators,Average price paid for milk,16.3,Dollar per hundredweight,annual,Dollar per hundredweight
+2016,Milk and feed price indicators,Milk-feed ratio,2.26,Number,annual,Number
+2016,Milk and feed price indicators,Dairy feed value,7.21,Dollar per hundredweight,annual,Dollar per hundredweight
+2016,Dairy cow indicators,Dairy cow prices,1770.0,Dollars per head,annual,Dollars per head
+2016,Dairy cow indicators,Milk volume required to buy a cow,10859.0,Pounds,annual,Pounds
+2016,Other indicators,Alfalfa hay price received by farmers,138.33,Dollars per ton,annual,Dollars per ton
+2016,Other indicators,Slaughter cow price,70.07,Dollar per hundredweight,annual,Dollar per hundredweight
+2017,January 1 inventory,Milk cows and heifers that have calved,9368.5,Thousand head,annual,Thousand head
+2017,January 1 inventory,"Replacement heifers, 500+ pounds",4754.0,Thousand head,annual,Thousand head
+2017,January 1 inventory,Replacements per 100 cows,50.7,Head,annual,Head
+2017,Production indicators,Milk production,215527.0,Million pounds,annual,Million pounds
+2017,Production indicators,Milk per cow,22914.0,Pounds,annual,Pounds
+2017,Production indicators,Average number of milk cows in the United States,9406.0,Thousand,annual,Thousand
+2017,Milk and feed price indicators,Average price paid for milk,17.7,Dollar per hundredweight,annual,Dollar per hundredweight
+2017,Milk and feed price indicators,Milk-feed ratio,2.42,Number,annual,Number
+2017,Milk and feed price indicators,Dairy feed value,7.31,Dollar per hundredweight,annual,Dollar per hundredweight
+2017,Dairy cow indicators,Dairy cow prices,1622.5,Dollars per head,annual,Dollars per head
+2017,Dairy cow indicators,Milk volume required to buy a cow,9167.0,Pounds,annual,Pounds
+2017,Other indicators,Alfalfa hay price received by farmers,145.67,Dollars per ton,annual,Dollars per ton
+2017,Other indicators,Slaughter cow price,65.16,Dollar per hundredweight,annual,Dollar per hundredweight
+2018,January 1 inventory,Milk cows and heifers that have calved,9432.1,Thousand head,annual,Thousand head
+2018,January 1 inventory,"Replacement heifers, 500+ pounds",4768.3,Thousand head,annual,Thousand head
+2018,January 1 inventory,Replacements per 100 cows,50.6,Head,annual,Head
+2018,Production indicators,Milk production,217584.0,Million pounds,annual,Million pounds
+2018,Production indicators,Milk per cow,23152.0,Pounds,annual,Pounds
+2018,Production indicators,Average number of milk cows in the United States,9398.0,Thousand,annual,Thousand
+2018,Milk and feed price indicators,Average price paid for milk,16.3,Dollar per hundredweight,annual,Dollar per hundredweight
+2018,Milk and feed price indicators,Milk-feed ratio,2.05,Number,annual,Number
+2018,Milk and feed price indicators,Dairy feed value,7.95,Dollar per hundredweight,annual,Dollar per hundredweight
+2018,Dairy cow indicators,Dairy cow prices,1357.5,Dollars per head,annual,Dollars per head
+2018,Dairy cow indicators,Milk volume required to buy a cow,8328.0,Pounds,annual,Pounds
+2018,Other indicators,Alfalfa hay price received by farmers,174.17,Dollars per ton,annual,Dollars per ton
+2018,Other indicators,Slaughter cow price,57.43,Dollar per hundredweight,annual,Dollar per hundredweight
+2019,January 1 inventory,Milk cows and heifers that have calved,9353.4,Thousand head,annual,Thousand head
+2019,January 1 inventory,"Replacement heifers, 500+ pounds",4673.5,Thousand head,annual,Thousand head
+2019,January 1 inventory,Replacements per 100 cows,50.0,Head,annual,Head
+2019,Production indicators,Milk production,218444.0,Million pounds,annual,Million pounds
+2019,Production indicators,Milk per cow,23401.0,Pounds,annual,Pounds
+2019,Production indicators,Average number of milk cows in the United States,9335.0,Thousand,annual,Thousand
+2019,Milk and feed price indicators,Average price paid for milk,18.7,Dollar per hundredweight,annual,Dollar per hundredweight
+2019,Milk and feed price indicators,Milk-feed ratio,2.25,Number,annual,Number
+2019,Milk and feed price indicators,Dairy feed value,8.31,Dollar per hundredweight,annual,Dollar per hundredweight
+2019,Dairy cow indicators,Dairy cow prices,1205.0,Dollars per head,annual,Dollars per head
+2019,Dairy cow indicators,Milk volume required to buy a cow,6444.0,Pounds,annual,Pounds
+2019,Other indicators,Alfalfa hay price received by farmers,182.92,Dollars per ton,annual,Dollars per ton
+2019,Other indicators,Slaughter cow price,56.43,Dollar per hundredweight,annual,Dollar per hundredweight
+2020,January 1 inventory,Milk cows and heifers that have calved,9343.6,Thousand head,annual,Thousand head
+2020,January 1 inventory,"Replacement heifers, 500+ pounds",4610.0,Thousand head,annual,Thousand head
+2020,January 1 inventory,Replacements per 100 cows,49.3,Head,annual,Head
+2020,Production indicators,Milk production,223282.0,Million pounds,annual,Million pounds
+2020,Production indicators,Milk per cow,23764.0,Pounds,annual,Pounds
+2020,Production indicators,Average number of milk cows in the United States,9396.0,Thousand,annual,Thousand
+2020,Milk and feed price indicators,Average price paid for milk,18.1,Dollar per hundredweight,annual,Dollar per hundredweight
+2020,Milk and feed price indicators,Milk-feed ratio,2.32,Number,annual,Number
+2020,Milk and feed price indicators,Dairy feed value,7.8,Dollar per hundredweight,annual,Dollar per hundredweight
+2020,Dairy cow indicators,Dairy cow prices,1300.0,Dollars per head,annual,Dollars per head
+2020,Dairy cow indicators,Milk volume required to buy a cow,7182.0,Pounds,annual,Pounds
+2020,Other indicators,Alfalfa hay price received by farmers,171.33,Dollars per ton,annual,Dollars per ton
+2020,Other indicators,Slaughter cow price,60.61,Dollar per hundredweight,annual,Dollar per hundredweight
+2021,January 1 inventory,Milk cows and heifers that have calved,9450.4,Thousand head,annual,Thousand head
+2021,January 1 inventory,"Replacement heifers, 500+ pounds",4498.0,Thousand head,annual,Thousand head
+2021,January 1 inventory,Replacements per 100 cows,47.6,Head,annual,Head
+2021,Production indicators,Milk production,226238.0,Million pounds,annual,Million pounds
+2021,Production indicators,Milk per cow,23943.0,Pounds,annual,Pounds
+2021,Production indicators,Average number of milk cows in the United States,9449.0,Thousand,annual,Thousand
+2021,Milk and feed price indicators,Average price paid for milk,18.5,Dollar per hundredweight,annual,Dollar per hundredweight
+2021,Milk and feed price indicators,Milk-feed ratio,1.74,Number,annual,Number
+2021,Milk and feed price indicators,Dairy feed value,10.63,Dollar per hundredweight,annual,Dollar per hundredweight
+2021,Dairy cow indicators,Dairy cow prices,1362.5,Dollars per head,annual,Dollars per head
+2021,Dairy cow indicators,Milk volume required to buy a cow,7365.0,Pounds,annual,Pounds
+2021,Other indicators,Alfalfa hay price received by farmers,199.5,Dollars per ton,annual,Dollars per ton
+2021,Other indicators,Slaughter cow price,64.91,Dollar per hundredweight,annual,Dollar per hundredweight
+2022,January 1 inventory,Milk cows and heifers that have calved,9381.0,Thousand head,annual,Thousand head
+2022,January 1 inventory,"Replacement heifers, 500+ pounds",4222.1,Thousand head,annual,Thousand head
+2022,January 1 inventory,Replacements per 100 cows,45.0,Head,annual,Head
+2022,Production indicators,Milk production,226416.0,Million pounds,annual,Million pounds
+2022,Production indicators,Milk per cow,24087.0,Pounds,annual,Pounds
+2022,Production indicators,Average number of milk cows in the United States,9400.0,Thousand,annual,Thousand
+2022,Milk and feed price indicators,Average price paid for milk,25.3,Dollar per hundredweight,annual,Dollar per hundredweight
+2022,Milk and feed price indicators,Milk-feed ratio,1.89,Number,annual,Number
+2022,Milk and feed price indicators,Dairy feed value,13.39,Dollar per hundredweight,annual,Dollar per hundredweight
+2022,Dairy cow indicators,Dairy cow prices,1597.5,Dollars per head,annual,Dollars per head
+2022,Dairy cow indicators,Milk volume required to buy a cow,6314.0,Pounds,annual,Pounds
+2022,Other indicators,Alfalfa hay price received by farmers,258.42,Dollars per ton,annual,Dollars per ton
+2022,Other indicators,Slaughter cow price,78.44,Dollar per hundredweight,annual,Dollar per hundredweight
+2023,January 1 inventory,Milk cows and heifers that have calved,9397.5,Thousand head,annual,Thousand head
+2023,January 1 inventory,"Replacement heifers, 500+ pounds",4073.6,Thousand head,annual,Thousand head
+2023,January 1 inventory,Replacements per 100 cows,43.3,Head,annual,Head
+2023,Production indicators,Milk production,226311.0,Million pounds,annual,Million pounds
+2023,Production indicators,Milk per cow,24117.0,Pounds,annual,Pounds
+2023,Production indicators,Average number of milk cows in the United States,9384.0,Thousand,annual,Thousand
+2023,Milk and feed price indicators,Average price paid for milk,20.3,Dollar per hundredweight,annual,Dollar per hundredweight
+2023,Milk and feed price indicators,Milk-feed ratio,1.67,Number,annual,Number
+2023,Milk and feed price indicators,Dairy feed value,12.16,Dollar per hundredweight,annual,Dollar per hundredweight
+2023,Dairy cow indicators,Dairy cow prices,1762.5,Dollars per head,annual,Dollars per head
+2023,Dairy cow indicators,Milk volume required to buy a cow,8682.0,Pounds,annual,Pounds
+2023,Other indicators,Alfalfa hay price received by farmers,246.5,Dollars per ton,annual,Dollars per ton
+2023,Other indicators,Slaughter cow price,94.77,Dollar per hundredweight,annual,Dollar per hundredweight
+2024,January 1 inventory,Milk cows and heifers that have calved,9346.8,Thousand head,annual,Thousand head
+2024,January 1 inventory,"Replacement heifers, 500+ pounds",3951.2,Thousand head,annual,Thousand head
+2024,January 1 inventory,Replacements per 100 cows,42.3,Head,annual,Head
+2024,Production indicators,Milk production,225868.0,Million pounds,annual,Million pounds
+2024,Production indicators,Milk per cow,24178.0,Pounds,annual,Pounds
+2024,Production indicators,Average number of milk cows in the United States,9342.0,Thousand,annual,Thousand
+2024,Milk and feed price indicators,Average price paid for milk,22.6,Dollar per hundredweight,annual,Dollar per hundredweight
+2024,Milk and feed price indicators,Milk-feed ratio,2.48,Number,annual,Number
+2024,Milk and feed price indicators,Dairy feed value,9.11,Dollar per hundredweight,annual,Dollar per hundredweight
+2024,Dairy cow indicators,Dairy cow prices,2242.5,Dollars per head,annual,Dollars per head
+2024,Dairy cow indicators,Milk volume required to buy a cow,9923.0,Pounds,annual,Pounds
+2024,Other indicators,Alfalfa hay price received by farmers,185.25,Dollars per ton,annual,Dollars per ton
+2024,Other indicators,Slaughter cow price,118.8,Dollar per hundredweight,annual,Dollar per hundredweight
+2025,January 1 inventory,Milk cows and heifers that have calved,9349.3,Thousand head,annual,Thousand head
+2025,January 1 inventory,"Replacement heifers, 500+ pounds",3914.3,Thousand head,annual,Thousand head
+2025,January 1 inventory,Replacements per 100 cows,41.9,Head,annual,Head
+2025,Production indicators,Milk production,,Million pounds,annual,Million pounds
+2025,Production indicators,Milk per cow,,Pounds,annual,Pounds
+2025,Production indicators,Average number of milk cows in the United States,,Thousand,annual,Thousand
+2025,Milk and feed price indicators,Average price paid for milk,,Dollar per hundredweight,annual,Dollar per hundredweight
+2025,Milk and feed price indicators,Milk-feed ratio,,Number,annual,Number
+2025,Milk and feed price indicators,Dairy feed value,,Dollar per hundredweight,annual,Dollar per hundredweight
+2025,Dairy cow indicators,Dairy cow prices,,Dollars per head,annual,Dollars per head
+2025,Dairy cow indicators,Milk volume required to buy a cow,,Pounds,annual,Pounds
+2025,Other indicators,Alfalfa hay price received by farmers,,Dollars per ton,annual,Dollars per ton
+2025,Other indicators,Slaughter cow price,,Dollar per hundredweight,annual,Dollar per hundredweight
