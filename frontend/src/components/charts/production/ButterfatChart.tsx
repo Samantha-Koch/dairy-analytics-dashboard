@@ -1,31 +1,123 @@
-import { useEffect, useState } from "react";
-import Plot from "react-plotly.js";
-import Plotly from "plotly.js-dist-min";
+import React, { useEffect, useState } from "react";
+import _Plotly from "plotly.js/lib/core";
+import _createPlotlyComponent from "react-plotly.js/factory";
+import { getButterfatData, getAvailableYears } from "../../../services/api/productionService";
+import type { ProductionSource, ProductionFrequency } from "../../../services/api/productionService";
 
-Plot.defaultProps = {
-  ...Plot.defaultProps,
-  plotly: Plotly,
-};
+const createPlotlyComponent = (_createPlotlyComponent as any).default || _createPlotlyComponent;
+const Plot = createPlotlyComponent(_Plotly);
 
-export default function ButterfatChart({ data }) {
-    if (!data || !data.dates || !data.values) {
-            return <p style={{fontFamily: "helvetica neue",fontSize: "9pt"}}>No chart data loaded</p>;
-        }  
+interface Props {
+  customerId?: string;
+}
+
+export default function ButterfatChart({ customerId }: Props) {
+  console.log("ButterfatChart mounted");
+  const [source, setSource] = useState<ProductionSource>("both");
+  const [frequency, setFrequency] = useState<ProductionFrequency>("annual");
+  const [year, setYear] = useState<string>("");
+  const [availableYears, setAvailableYears] = useState<number[]>([]);
+  const [chartData, setChartData] = useState<any[]>([]);
+
+  useEffect(() => {
+    getAvailableYears("butterfat").then((res) => {
+      const years = res.years || [];
+      setAvailableYears(years);
+      if (years.length > 0) {
+        setYear(String(years[years.length - 1]));
+      }
+    });
+  }, []);
+
+  useEffect(() => {
+    console.log("butterfat useEffect triggered", {source, frequency, year, customerId});
+    if (frequency === "monthly" && !year) {
+        console.log("ProteinBlocked because monthly + no year");
+        return;
+    }
+    console.log("Butterfat Fetching now");
+    getButterfatData({
+      source,
+      frequency,
+      year,
+      customerId,
+    }).then((res) => {
+      setChartData(res.data || []);
+    });
+  }, [source, frequency, year, customerId]);
+
+  if (!chartData || chartData.length === 0) {
     return (
-        <Plot
-        data={[
-            {
-            x: data.dates,
-            y: data.values,
-            type: "scatter",
-            mode: "lines+markers",
-            },
-        ]}
+      <p style={{ fontFamily: "helvetica neue", fontSize: "9pt" }}>
+        No chart data loaded
+      </p>
+    );
+  }
+
+  const xValues = chartData.map((row) => row.time);
+  const usdaValues = chartData.map((row) => row.usda_value);
+  const customerValues = chartData.map((row) => row.customer_value);
+
+  const traces: any[] = [];
+  if (source !== "customer") {
+    traces.push({
+      x: xValues,
+      y: usdaValues,
+      type: "scatter",
+      mode: "lines+markers",
+      name: "USDA",
+      line: { color: "#2d2d2d" },
+    });
+  }
+  if (source !== "usda") {
+    traces.push({
+      x: xValues,
+      y: customerValues,
+      type: "scatter",
+      mode: "lines+markers",
+      name: "Customer",
+      line: { color: "#0077cc" },
+    });
+  }
+
+  return (
+    <div>
+      <div style={{ display: "flex", gap: "12px", marginBottom: "12px" }}>
+        <select value={source} onChange={(e) => setSource(e.target.value as ProductionSource)}>
+          <option value="usda">USDA</option>
+          <option value="customer">Customer</option>
+          <option value="both">Both</option>
+        </select>
+
+        <select
+          value={frequency}
+          onChange={(e) => setFrequency(e.target.value as ProductionFrequency)}
+        >
+          <option value="annual">Annual</option>
+          <option value="monthly">Monthly</option>
+        </select>
+
+        {frequency === "monthly" && (
+          <select value={year} onChange={(e) => setYear(e.target.value)}>
+            {availableYears.map((yr) => (
+              <option key={yr} value={yr}>
+                {yr}
+              </option>
+            ))}
+          </select>
+        )}
+      </div>
+
+      <Plot
+        data={traces}
         layout={{
-            title: "Butterfat Percentage",
-            height: 350,
-            margin: { t: 40, l: 40, r: 20, b: 40 },
+          title: "Butterfat Percentage",
+          xaxis: { title: {text: frequency === "annual" ? "Year" : "Month"} },
+          yaxis: { title: {text: "Butterfat (%)"} },
+          autosize: true,
         }}
-        />
-    );    
+        style={{ width: "100%", height: "75%" }}
+      />
+    </div>
+  );
 }

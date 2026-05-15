@@ -1,0 +1,786 @@
+date,metric,value,unit,category
+1/1/2010,butterfat percent,3.52,percent,production
+2/1/2010,butterfat percent,3.53,percent,production
+3/1/2010,butterfat percent,3.54,percent,production
+4/1/2010,butterfat percent,3.55,percent,production
+5/1/2010,butterfat percent,3.56,percent,production
+6/1/2010,butterfat percent,3.57,percent,production
+7/1/2010,butterfat percent,3.58,percent,production
+8/1/2010,butterfat percent,3.59,percent,production
+9/1/2010,butterfat percent,3.6,percent,production
+10/1/2010,butterfat percent,3.61,percent,production
+11/1/2010,butterfat percent,3.62,percent,production
+12/1/2010,butterfat percent,3.63,percent,production
+1/1/2011,butterfat percent,3.64,percent,production
+2/1/2011,butterfat percent,3.65,percent,production
+3/1/2011,butterfat percent,3.66,percent,production
+4/1/2011,butterfat percent,3.67,percent,production
+5/1/2011,butterfat percent,3.68,percent,production
+6/1/2011,butterfat percent,3.69,percent,production
+7/1/2011,butterfat percent,3.7,percent,production
+8/1/2011,butterfat percent,3.71,percent,production
+9/1/2011,butterfat percent,3.72,percent,production
+10/1/2011,butterfat percent,3.73,percent,production
+11/1/2011,butterfat percent,3.74,percent,production
+12/1/2011,butterfat percent,3.75,percent,production
+1/1/2012,butterfat percent,3.76,percent,production
+2/1/2012,butterfat percent,3.77,percent,production
+3/1/2012,butterfat percent,3.78,percent,production
+4/1/2012,butterfat percent,3.79,percent,production
+5/1/2012,butterfat percent,3.8,percent,production
+6/1/2012,butterfat percent,3.81,percent,production
+7/1/2012,butterfat percent,3.82,percent,production
+8/1/2012,butterfat percent,3.83,percent,production
+9/1/2012,butterfat percent,3.84,percent,production
+10/1/2012,butterfat percent,3.85,percent,production
+11/1/2012,butterfat percent,3.86,percent,production
+12/1/2012,butterfat percent,3.87,percent,production
+1/1/2013,butterfat percent,3.88,percent,production
+2/1/2013,butterfat percent,3.89,percent,production
+3/1/2013,butterfat percent,3.9,percent,production
+4/1/2013,butterfat percent,3.91,percent,production
+5/1/2013,butterfat percent,3.92,percent,production
+6/1/2013,butterfat percent,3.93,percent,production
+7/1/2013,butterfat percent,3.94,percent,production
+8/1/2013,butterfat percent,3.95,percent,production
+9/1/2013,butterfat percent,3.96,percent,production
+10/1/2013,butterfat percent,3.97,percent,production
+11/1/2013,butterfat percent,3.98,percent,production
+12/1/2013,butterfat percent,3.99,percent,production
+1/1/2014,butterfat percent,4,percent,production
+2/1/2014,butterfat percent,4.01,percent,production
+3/1/2014,butterfat percent,4.02,percent,production
+4/1/2014,butterfat percent,4.03,percent,production
+5/1/2014,butterfat percent,4.04,percent,production
+6/1/2014,butterfat percent,4.05,percent,production
+7/1/2014,butterfat percent,4.06,percent,production
+8/1/2014,butterfat percent,4.07,percent,production
+9/1/2014,butterfat percent,4.08,percent,production
+10/1/2014,butterfat percent,4.09,percent,production
+11/1/2014,butterfat percent,4.1,percent,production
+12/1/2014,butterfat percent,4.11,percent,production
+1/1/2015,butterfat percent,4.12,percent,production
+2/1/2015,butterfat percent,4.13,percent,production
+3/1/2015,butterfat percent,4.14,percent,production
+4/1/2015,butterfat percent,4.15,percent,production
+5/1/2015,butterfat percent,4.16,percent,production
+6/1/2015,butterfat percent,4.17,percent,production
+7/1/2015,butterfat percent,4.18,percent,production
+8/1/2015,butterfat percent,4.19,percent,production
+9/1/2015,butterfat percent,4.2,percent,production
+10/1/2015,butterfat percent,4.21,percent,production
+11/1/2015,butterfat percent,4.22,percent,production
+12/1/2015,butterfat percent,4.23,percent,production
+1/1/2016,butterfat percent,4.24,percent,production
+2/1/2016,butterfat percent,4.25,percent,production
+3/1/2016,butterfat percent,4.26,percent,production
+4/1/2016,butterfat percent,4.27,percent,production
+5/1/2016,butterfat percent,4.28,percent,production
+6/1/2016,butterfat percent,4.29,percent,production
+7/1/2016,butterfat percent,4.3,percent,production
+8/1/2016,butterfat percent,4.31,percent,production
+9/1/2016,butterfat percent,4.32,percent,production
+10/1/2016,butterfat percent,4.33,percent,production
+11/1/2016,butterfat percent,4.34,percent,production
+12/1/2016,butterfat percent,4.35,percent,production
+1/1/2017,butterfat percent,4.36,percent,production
+2/1/2017,butterfat percent,4.37,percent,production
+3/1/2017,butterfat percent,4.38,percent,production
+4/1/2017,butterfat percent,4.39,percent,production
+5/1/2017,butterfat percent,4.4,percent,production
+6/1/2017,butterfat percent,4.41,percent,production
+7/1/2017,butterfat percent,4.42,percent,production
+8/1/2017,butterfat percent,4.43,percent,production
+9/1/2017,butterfat percent,4.44,percent,production
+10/1/2017,butterfat percent,4.45,percent,production
+11/1/2017,butterfat percent,4.46,percent,production
+12/1/2017,butterfat percent,4.47,percent,production
+1/1/2018,butterfat percent,4.48,percent,production
+2/1/2018,butterfat percent,4.49,percent,production
+3/1/2018,butterfat percent,4.5,percent,production
+4/1/2018,butterfat percent,4.51,percent,production
+5/1/2018,butterfat percent,4.52,percent,production
+6/1/2018,butterfat percent,4.53,percent,production
+7/1/2018,butterfat percent,4.54,percent,production
+8/1/2018,butterfat percent,4.55,percent,production
+9/1/2018,butterfat percent,4.56,percent,production
+10/1/2018,butterfat percent,4.57,percent,production
+11/1/2018,butterfat percent,4.58,percent,production
+12/1/2018,butterfat percent,4.59,percent,production
+1/1/2019,butterfat percent,4.6,percent,production
+2/1/2019,butterfat percent,4.61,percent,production
+3/1/2019,butterfat percent,4.62,percent,production
+4/1/2019,butterfat percent,4.63,percent,production
+5/1/2019,butterfat percent,4.64,percent,production
+6/1/2019,butterfat percent,4.65,percent,production
+7/1/2019,butterfat percent,4.66,percent,production
+8/1/2019,butterfat percent,4.67,percent,production
+9/1/2019,butterfat percent,4.68,percent,production
+10/1/2019,butterfat percent,4.69,percent,production
+11/1/2019,butterfat percent,4.7,percent,production
+12/1/2019,butterfat percent,4.71,percent,production
+1/1/2020,butterfat percent,4.72,percent,production
+2/1/2020,butterfat percent,4.73,percent,production
+3/1/2020,butterfat percent,4.74,percent,production
+4/1/2020,butterfat percent,4.75,percent,production
+5/1/2020,butterfat percent,4.76,percent,production
+6/1/2020,butterfat percent,4.77,percent,production
+7/1/2020,butterfat percent,4.78,percent,production
+8/1/2020,butterfat percent,4.79,percent,production
+9/1/2020,butterfat percent,4.8,percent,production
+10/1/2020,butterfat percent,4.81,percent,production
+11/1/2020,butterfat percent,4.82,percent,production
+12/1/2020,butterfat percent,4.83,percent,production
+1/1/2021,butterfat percent,4.84,percent,production
+2/1/2021,butterfat percent,4.85,percent,production
+3/1/2021,butterfat percent,4.86,percent,production
+4/1/2021,butterfat percent,4.87,percent,production
+5/1/2021,butterfat percent,4.88,percent,production
+6/1/2021,butterfat percent,4.89,percent,production
+7/1/2021,butterfat percent,4.9,percent,production
+8/1/2021,butterfat percent,4.91,percent,production
+9/1/2021,butterfat percent,4.92,percent,production
+10/1/2021,butterfat percent,4.93,percent,production
+11/1/2021,butterfat percent,4.94,percent,production
+12/1/2021,butterfat percent,4.95,percent,production
+1/1/2022,butterfat percent,4.96,percent,production
+2/1/2022,butterfat percent,4.97,percent,production
+3/1/2022,butterfat percent,4.98,percent,production
+4/1/2022,butterfat percent,4.99,percent,production
+5/1/2022,butterfat percent,5,percent,production
+6/1/2022,butterfat percent,5.01,percent,production
+7/1/2022,butterfat percent,5.02,percent,production
+8/1/2022,butterfat percent,5.03,percent,production
+9/1/2022,butterfat percent,5.04,percent,production
+10/1/2022,butterfat percent,5.05,percent,production
+11/1/2022,butterfat percent,5.06,percent,production
+12/1/2022,butterfat percent,5.07,percent,production
+1/1/2023,butterfat percent,5.08,percent,production
+2/1/2023,butterfat percent,5.09,percent,production
+3/1/2023,butterfat percent,5.1,percent,production
+4/1/2023,butterfat percent,5.11,percent,production
+5/1/2023,butterfat percent,5.12,percent,production
+6/1/2023,butterfat percent,5.13,percent,production
+7/1/2023,butterfat percent,5.14,percent,production
+8/1/2023,butterfat percent,5.15,percent,production
+9/1/2023,butterfat percent,5.16,percent,production
+10/1/2023,butterfat percent,5.17,percent,production
+11/1/2023,butterfat percent,5.18,percent,production
+12/1/2023,butterfat percent,5.19,percent,production
+1/1/2024,butterfat percent,5.2,percent,production
+2/1/2024,butterfat percent,5.21,percent,production
+3/1/2024,butterfat percent,5.22,percent,production
+4/1/2024,butterfat percent,5.23,percent,production
+5/1/2024,butterfat percent,5.24,percent,production
+6/1/2024,butterfat percent,5.25,percent,production
+7/1/2024,butterfat percent,5.26,percent,production
+8/1/2024,butterfat percent,5.27,percent,production
+9/1/2024,butterfat percent,5.28,percent,production
+10/1/2024,butterfat percent,5.29,percent,production
+11/1/2024,butterfat percent,5.3,percent,production
+12/1/2024,butterfat percent,5.31,percent,production
+1/1/2025,butterfat percent,5.32,percent,production
+2/1/2025,butterfat percent,5.33,percent,production
+3/1/2025,butterfat percent,5.34,percent,production
+4/1/2025,butterfat percent,5.35,percent,production
+5/1/2025,butterfat percent,5.36,percent,production
+6/1/2025,butterfat percent,5.37,percent,production
+7/1/2025,butterfat percent,5.38,percent,production
+8/1/2025,butterfat percent,5.39,percent,production
+9/1/2025,butterfat percent,5.4,percent,production
+10/1/2025,butterfat percent,5.41,percent,production
+11/1/2025,butterfat percent,5.42,percent,production
+12/1/2025,butterfat percent,5.43,percent,production
+1/1/2026,butterfat percent,5.44,percent,production
+2/1/2026,butterfat percent,5.45,percent,production
+3/1/2026,butterfat percent,5.46,percent,production
+4/1/2026,butterfat percent,5.47,percent,production
+1/1/2010,milk yield,1708,pounds,production
+2/1/2010,milk yield,1715,pounds,production
+3/1/2010,milk yield,1721,pounds,production
+4/1/2010,milk yield,1728,pounds,production
+5/1/2010,milk yield,1734,pounds,production
+6/1/2010,milk yield,1741,pounds,production
+7/1/2010,milk yield,1747,pounds,production
+8/1/2010,milk yield,1754,pounds,production
+9/1/2010,milk yield,1760,pounds,production
+10/1/2010,milk yield,1767,pounds,production
+11/1/2010,milk yield,1773,pounds,production
+12/1/2010,milk yield,1780,pounds,production
+1/1/2011,milk yield,1788,pounds,production
+2/1/2011,milk yield,1794,pounds,production
+3/1/2011,milk yield,1801,pounds,production
+4/1/2011,milk yield,1807,pounds,production
+5/1/2011,milk yield,1814,pounds,production
+6/1/2011,milk yield,1820,pounds,production
+7/1/2011,milk yield,1827,pounds,production
+8/1/2011,milk yield,1833,pounds,production
+9/1/2011,milk yield,1840,pounds,production
+10/1/2011,milk yield,1846,pounds,production
+11/1/2011,milk yield,1853,pounds,production
+12/1/2011,milk yield,1859,pounds,production
+1/1/2012,milk yield,1866,pounds,production
+2/1/2012,milk yield,1872,pounds,production
+3/1/2012,milk yield,1879,pounds,production
+4/1/2012,milk yield,1885,pounds,production
+5/1/2012,milk yield,1892,pounds,production
+6/1/2012,milk yield,1898,pounds,production
+7/1/2012,milk yield,1905,pounds,production
+8/1/2012,milk yield,1911,pounds,production
+9/1/2012,milk yield,1918,pounds,production
+10/1/2012,milk yield,1924,pounds,production
+11/1/2012,milk yield,1931,pounds,production
+12/1/2012,milk yield,1937,pounds,production
+1/1/2013,milk yield,1944,pounds,production
+2/1/2013,milk yield,1950,pounds,production
+3/1/2013,milk yield,1957,pounds,production
+4/1/2013,milk yield,1963,pounds,production
+5/1/2013,milk yield,1970,pounds,production
+6/1/2013,milk yield,1976,pounds,production
+7/1/2013,milk yield,1983,pounds,production
+8/1/2013,milk yield,1989,pounds,production
+9/1/2013,milk yield,1996,pounds,production
+10/1/2013,milk yield,2002,pounds,production
+11/1/2013,milk yield,2009,pounds,production
+12/1/2013,milk yield,2015,pounds,production
+1/1/2014,milk yield,2022,pounds,production
+2/1/2014,milk yield,2028,pounds,production
+3/1/2014,milk yield,2035,pounds,production
+4/1/2014,milk yield,2041,pounds,production
+5/1/2014,milk yield,2048,pounds,production
+6/1/2014,milk yield,2054,pounds,production
+7/1/2014,milk yield,2061,pounds,production
+8/1/2014,milk yield,2067,pounds,production
+9/1/2014,milk yield,2074,pounds,production
+10/1/2014,milk yield,2080,pounds,production
+11/1/2014,milk yield,2087,pounds,production
+12/1/2014,milk yield,2093,pounds,production
+1/1/2015,milk yield,2100,pounds,production
+2/1/2015,milk yield,2106,pounds,production
+3/1/2015,milk yield,2113,pounds,production
+4/1/2015,milk yield,2119,pounds,production
+5/1/2015,milk yield,2126,pounds,production
+6/1/2015,milk yield,2132,pounds,production
+7/1/2015,milk yield,2139,pounds,production
+8/1/2015,milk yield,2145,pounds,production
+9/1/2015,milk yield,2152,pounds,production
+10/1/2015,milk yield,2158,pounds,production
+11/1/2015,milk yield,2165,pounds,production
+12/1/2015,milk yield,2171,pounds,production
+1/1/2016,milk yield,2178,pounds,production
+2/1/2016,milk yield,2184,pounds,production
+3/1/2016,milk yield,2191,pounds,production
+4/1/2016,milk yield,2197,pounds,production
+5/1/2016,milk yield,2204,pounds,production
+6/1/2016,milk yield,2210,pounds,production
+7/1/2016,milk yield,2217,pounds,production
+8/1/2016,milk yield,2223,pounds,production
+9/1/2016,milk yield,2230,pounds,production
+10/1/2016,milk yield,2236,pounds,production
+11/1/2016,milk yield,2243,pounds,production
+12/1/2016,milk yield,2249,pounds,production
+1/1/2017,milk yield,2256,pounds,production
+2/1/2017,milk yield,2262,pounds,production
+3/1/2017,milk yield,2269,pounds,production
+4/1/2017,milk yield,2275,pounds,production
+5/1/2017,milk yield,2282,pounds,production
+6/1/2017,milk yield,2288,pounds,production
+7/1/2017,milk yield,2295,pounds,production
+8/1/2017,milk yield,2301,pounds,production
+9/1/2017,milk yield,2308,pounds,production
+10/1/2017,milk yield,2314,pounds,production
+11/1/2017,milk yield,2321,pounds,production
+12/1/2017,milk yield,2327,pounds,production
+1/1/2018,milk yield,2334,pounds,production
+2/1/2018,milk yield,2340,pounds,production
+3/1/2018,milk yield,2347,pounds,production
+4/1/2018,milk yield,2353,pounds,production
+5/1/2018,milk yield,2360,pounds,production
+6/1/2018,milk yield,2366,pounds,production
+7/1/2018,milk yield,2373,pounds,production
+8/1/2018,milk yield,2379,pounds,production
+9/1/2018,milk yield,2386,pounds,production
+10/1/2018,milk yield,2392,pounds,production
+11/1/2018,milk yield,2399,pounds,production
+12/1/2018,milk yield,2405,pounds,production
+1/1/2019,milk yield,2412,pounds,production
+2/1/2019,milk yield,2418,pounds,production
+3/1/2019,milk yield,2425,pounds,production
+4/1/2019,milk yield,2431,pounds,production
+5/1/2019,milk yield,2438,pounds,production
+6/1/2019,milk yield,2444,pounds,production
+7/1/2019,milk yield,2451,pounds,production
+8/1/2019,milk yield,2457,pounds,production
+9/1/2019,milk yield,2464,pounds,production
+10/1/2019,milk yield,2470,pounds,production
+11/1/2019,milk yield,2477,pounds,production
+12/1/2019,milk yield,2483,pounds,production
+1/1/2020,milk yield,2490,pounds,production
+2/1/2020,milk yield,2496,pounds,production
+3/1/2020,milk yield,2503,pounds,production
+4/1/2020,milk yield,2509,pounds,production
+5/1/2020,milk yield,2516,pounds,production
+6/1/2020,milk yield,2522,pounds,production
+7/1/2020,milk yield,2529,pounds,production
+8/1/2020,milk yield,2535,pounds,production
+9/1/2020,milk yield,2542,pounds,production
+10/1/2020,milk yield,2548,pounds,production
+11/1/2020,milk yield,2555,pounds,production
+12/1/2020,milk yield,2561,pounds,production
+1/1/2021,milk yield,2568,pounds,production
+2/1/2021,milk yield,2574,pounds,production
+3/1/2021,milk yield,2581,pounds,production
+4/1/2021,milk yield,2587,pounds,production
+5/1/2021,milk yield,2594,pounds,production
+6/1/2021,milk yield,2600,pounds,production
+7/1/2021,milk yield,2607,pounds,production
+8/1/2021,milk yield,2613,pounds,production
+9/1/2021,milk yield,2620,pounds,production
+10/1/2021,milk yield,2626,pounds,production
+11/1/2021,milk yield,2633,pounds,production
+12/1/2021,milk yield,2639,pounds,production
+1/1/2022,milk yield,2646,pounds,production
+2/1/2022,milk yield,2652,pounds,production
+3/1/2022,milk yield,2659,pounds,production
+4/1/2022,milk yield,2665,pounds,production
+5/1/2022,milk yield,2672,pounds,production
+6/1/2022,milk yield,2678,pounds,production
+7/1/2022,milk yield,2685,pounds,production
+8/1/2022,milk yield,2691,pounds,production
+9/1/2022,milk yield,2698,pounds,production
+10/1/2022,milk yield,2704,pounds,production
+11/1/2022,milk yield,2711,pounds,production
+12/1/2022,milk yield,2717,pounds,production
+1/1/2023,milk yield,2724,pounds,production
+2/1/2023,milk yield,2730,pounds,production
+3/1/2023,milk yield,2737,pounds,production
+4/1/2023,milk yield,2743,pounds,production
+5/1/2023,milk yield,2750,pounds,production
+6/1/2023,milk yield,2756,pounds,production
+7/1/2023,milk yield,2763,pounds,production
+8/1/2023,milk yield,2769,pounds,production
+9/1/2023,milk yield,2776,pounds,production
+10/1/2023,milk yield,2782,pounds,production
+11/1/2023,milk yield,2789,pounds,production
+12/1/2023,milk yield,2795,pounds,production
+1/1/2024,milk yield,2802,pounds,production
+2/1/2024,milk yield,2808,pounds,production
+3/1/2024,milk yield,2815,pounds,production
+4/1/2024,milk yield,2821,pounds,production
+5/1/2024,milk yield,2828,pounds,production
+6/1/2024,milk yield,2834,pounds,production
+7/1/2024,milk yield,2841,pounds,production
+8/1/2024,milk yield,2847,pounds,production
+9/1/2024,milk yield,2854,pounds,production
+10/1/2024,milk yield,2860,pounds,production
+11/1/2024,milk yield,2867,pounds,production
+12/1/2024,milk yield,2873,pounds,production
+1/1/2025,milk yield,2880,pounds,production
+2/1/2025,milk yield,2886,pounds,production
+3/1/2025,milk yield,2893,pounds,production
+4/1/2025,milk yield,2899,pounds,production
+5/1/2025,milk yield,2906,pounds,production
+6/1/2025,milk yield,2912,pounds,production
+7/1/2025,milk yield,2919,pounds,production
+8/1/2025,milk yield,2925,pounds,production
+9/1/2025,milk yield,2932,pounds,production
+10/1/2025,milk yield,2938,pounds,production
+11/1/2025,milk yield,2945,pounds,production
+12/1/2025,milk yield,2951,pounds,production
+1/1/2026,milk yield,2960,pounds,production
+2/1/2026,milk yield,2968,pounds,production
+3/1/2026,milk yield,2975,pounds,production
+4/1/2026,milk yield,2982,pounds,production
+1/1/2010,protein percent,3.02,percent,production
+2/1/2010,protein percent,3.03,percent,production
+3/1/2010,protein percent,3.04,percent,production
+4/1/2010,protein percent,3.05,percent,production
+5/1/2010,protein percent,3.06,percent,production
+6/1/2010,protein percent,3.07,percent,production
+7/1/2010,protein percent,3.08,percent,production
+8/1/2010,protein percent,3.09,percent,production
+9/1/2010,protein percent,3.1,percent,production
+10/1/2010,protein percent,3.11,percent,production
+11/1/2010,protein percent,3.12,percent,production
+12/1/2010,protein percent,3.13,percent,production
+1/1/2011,protein percent,3.14,percent,production
+2/1/2011,protein percent,3.15,percent,production
+3/1/2011,protein percent,3.16,percent,production
+4/1/2011,protein percent,3.17,percent,production
+5/1/2011,protein percent,3.18,percent,production
+6/1/2011,protein percent,3.19,percent,production
+7/1/2011,protein percent,3.2,percent,production
+8/1/2011,protein percent,3.21,percent,production
+9/1/2011,protein percent,3.22,percent,production
+10/1/2011,protein percent,3.23,percent,production
+11/1/2011,protein percent,3.24,percent,production
+12/1/2011,protein percent,3.25,percent,production
+1/1/2012,protein percent,3.26,percent,production
+2/1/2012,protein percent,3.27,percent,production
+3/1/2012,protein percent,3.28,percent,production
+4/1/2012,protein percent,3.29,percent,production
+5/1/2012,protein percent,3.3,percent,production
+6/1/2012,protein percent,3.31,percent,production
+7/1/2012,protein percent,3.32,percent,production
+8/1/2012,protein percent,3.33,percent,production
+9/1/2012,protein percent,3.34,percent,production
+10/1/2012,protein percent,3.35,percent,production
+11/1/2012,protein percent,3.36,percent,production
+12/1/2012,protein percent,3.37,percent,production
+1/1/2013,protein percent,3.38,percent,production
+2/1/2013,protein percent,3.39,percent,production
+3/1/2013,protein percent,3.4,percent,production
+4/1/2013,protein percent,3.41,percent,production
+5/1/2013,protein percent,3.42,percent,production
+6/1/2013,protein percent,3.43,percent,production
+7/1/2013,protein percent,3.44,percent,production
+8/1/2013,protein percent,3.45,percent,production
+9/1/2013,protein percent,3.46,percent,production
+10/1/2013,protein percent,3.47,percent,production
+11/1/2013,protein percent,3.48,percent,production
+12/1/2013,protein percent,3.49,percent,production
+1/1/2014,protein percent,3.5,percent,production
+2/1/2014,protein percent,3.51,percent,production
+3/1/2014,protein percent,3.52,percent,production
+4/1/2014,protein percent,3.53,percent,production
+5/1/2014,protein percent,3.54,percent,production
+6/1/2014,protein percent,3.55,percent,production
+7/1/2014,protein percent,3.56,percent,production
+8/1/2014,protein percent,3.57,percent,production
+9/1/2014,protein percent,3.58,percent,production
+10/1/2014,protein percent,3.59,percent,production
+11/1/2014,protein percent,3.6,percent,production
+12/1/2014,protein percent,3.61,percent,production
+1/1/2015,protein percent,3.62,percent,production
+2/1/2015,protein percent,3.63,percent,production
+3/1/2015,protein percent,3.64,percent,production
+4/1/2015,protein percent,3.65,percent,production
+5/1/2015,protein percent,3.66,percent,production
+6/1/2015,protein percent,3.67,percent,production
+7/1/2015,protein percent,3.68,percent,production
+8/1/2015,protein percent,3.69,percent,production
+9/1/2015,protein percent,3.7,percent,production
+10/1/2015,protein percent,3.71,percent,production
+11/1/2015,protein percent,3.72,percent,production
+12/1/2015,protein percent,3.73,percent,production
+1/1/2016,protein percent,3.74,percent,production
+2/1/2016,protein percent,3.75,percent,production
+3/1/2016,protein percent,3.76,percent,production
+4/1/2016,protein percent,3.77,percent,production
+5/1/2016,protein percent,3.78,percent,production
+6/1/2016,protein percent,3.79,percent,production
+7/1/2016,protein percent,3.8,percent,production
+8/1/2016,protein percent,3.81,percent,production
+9/1/2016,protein percent,3.82,percent,production
+10/1/2016,protein percent,3.83,percent,production
+11/1/2016,protein percent,3.84,percent,production
+12/1/2016,protein percent,3.85,percent,production
+1/1/2017,protein percent,3.86,percent,production
+2/1/2017,protein percent,3.87,percent,production
+3/1/2017,protein percent,3.88,percent,production
+4/1/2017,protein percent,3.89,percent,production
+5/1/2017,protein percent,3.9,percent,production
+6/1/2017,protein percent,3.91,percent,production
+7/1/2017,protein percent,3.92,percent,production
+8/1/2017,protein percent,3.93,percent,production
+9/1/2017,protein percent,3.94,percent,production
+10/1/2017,protein percent,3.95,percent,production
+11/1/2017,protein percent,3.96,percent,production
+12/1/2017,protein percent,3.97,percent,production
+1/1/2018,protein percent,3.98,percent,production
+2/1/2018,protein percent,3.99,percent,production
+3/1/2018,protein percent,4,percent,production
+4/1/2018,protein percent,4.01,percent,production
+5/1/2018,protein percent,4.02,percent,production
+6/1/2018,protein percent,4.03,percent,production
+7/1/2018,protein percent,4.04,percent,production
+8/1/2018,protein percent,4.05,percent,production
+9/1/2018,protein percent,4.06,percent,production
+10/1/2018,protein percent,4.07,percent,production
+11/1/2018,protein percent,4.08,percent,production
+12/1/2018,protein percent,4.09,percent,production
+1/1/2019,protein percent,4.1,percent,production
+2/1/2019,protein percent,4.11,percent,production
+3/1/2019,protein percent,4.12,percent,production
+4/1/2019,protein percent,4.13,percent,production
+5/1/2019,protein percent,4.14,percent,production
+6/1/2019,protein percent,4.15,percent,production
+7/1/2019,protein percent,4.16,percent,production
+8/1/2019,protein percent,4.17,percent,production
+9/1/2019,protein percent,4.18,percent,production
+10/1/2019,protein percent,4.19,percent,production
+11/1/2019,protein percent,4.2,percent,production
+12/1/2019,protein percent,4.21,percent,production
+1/1/2020,protein percent,4.22,percent,production
+2/1/2020,protein percent,4.23,percent,production
+3/1/2020,protein percent,4.24,percent,production
+4/1/2020,protein percent,4.25,percent,production
+5/1/2020,protein percent,4.26,percent,production
+6/1/2020,protein percent,4.27,percent,production
+7/1/2020,protein percent,4.28,percent,production
+8/1/2020,protein percent,4.29,percent,production
+9/1/2020,protein percent,4.3,percent,production
+10/1/2020,protein percent,4.31,percent,production
+11/1/2020,protein percent,4.32,percent,production
+12/1/2020,protein percent,4.33,percent,production
+1/1/2021,protein percent,4.34,percent,production
+2/1/2021,protein percent,4.35,percent,production
+3/1/2021,protein percent,4.36,percent,production
+4/1/2021,protein percent,4.37,percent,production
+5/1/2021,protein percent,4.38,percent,production
+6/1/2021,protein percent,4.39,percent,production
+7/1/2021,protein percent,4.4,percent,production
+8/1/2021,protein percent,4.41,percent,production
+9/1/2021,protein percent,4.42,percent,production
+10/1/2021,protein percent,4.43,percent,production
+11/1/2021,protein percent,4.44,percent,production
+12/1/2021,protein percent,4.45,percent,production
+1/1/2022,protein percent,4.46,percent,production
+2/1/2022,protein percent,4.47,percent,production
+3/1/2022,protein percent,4.48,percent,production
+4/1/2022,protein percent,4.49,percent,production
+5/1/2022,protein percent,4.5,percent,production
+6/1/2022,protein percent,4.51,percent,production
+7/1/2022,protein percent,4.52,percent,production
+8/1/2022,protein percent,4.53,percent,production
+9/1/2022,protein percent,4.54,percent,production
+10/1/2022,protein percent,4.55,percent,production
+11/1/2022,protein percent,4.56,percent,production
+12/1/2022,protein percent,4.57,percent,production
+1/1/2023,protein percent,4.58,percent,production
+2/1/2023,protein percent,4.59,percent,production
+3/1/2023,protein percent,4.6,percent,production
+4/1/2023,protein percent,4.61,percent,production
+5/1/2023,protein percent,4.62,percent,production
+6/1/2023,protein percent,4.63,percent,production
+7/1/2023,protein percent,4.64,percent,production
+8/1/2023,protein percent,4.65,percent,production
+9/1/2023,protein percent,4.66,percent,production
+10/1/2023,protein percent,4.67,percent,production
+11/1/2023,protein percent,4.68,percent,production
+12/1/2023,protein percent,4.69,percent,production
+1/1/2024,protein percent,4.7,percent,production
+2/1/2024,protein percent,4.71,percent,production
+3/1/2024,protein percent,4.72,percent,production
+4/1/2024,protein percent,4.73,percent,production
+5/1/2024,protein percent,4.74,percent,production
+6/1/2024,protein percent,4.75,percent,production
+7/1/2024,protein percent,4.76,percent,production
+8/1/2024,protein percent,4.77,percent,production
+9/1/2024,protein percent,4.78,percent,production
+10/1/2024,protein percent,4.79,percent,production
+11/1/2024,protein percent,4.8,percent,production
+12/1/2024,protein percent,4.81,percent,production
+1/1/2025,protein percent,4.82,percent,production
+2/1/2025,protein percent,4.83,percent,production
+3/1/2025,protein percent,4.84,percent,production
+4/1/2025,protein percent,4.85,percent,production
+5/1/2025,protein percent,4.86,percent,production
+6/1/2025,protein percent,4.87,percent,production
+7/1/2025,protein percent,4.88,percent,production
+8/1/2025,protein percent,4.89,percent,production
+9/1/2025,protein percent,4.9,percent,production
+10/1/2025,protein percent,4.91,percent,production
+11/1/2025,protein percent,4.92,percent,production
+12/1/2025,protein percent,4.93,percent,production
+1/1/2026,protein percent,4.94,percent,production
+2/1/2026,protein percent,4.95,percent,production
+3/1/2026,protein percent,4.96,percent,production
+4/1/2026,protein percent,4.97,percent,production
+1/1/2010,bulk tank SCC,271884,cells/mL,production
+2/1/2010,bulk tank SCC,270112,cells/mL,production
+3/1/2010,bulk tank SCC,268901,cells/mL,production
+4/1/2010,bulk tank SCC,267442,cells/mL,production
+5/1/2010,bulk tank SCC,265991,cells/mL,production
+6/1/2010,bulk tank SCC,264552,cells/mL,production
+7/1/2010,bulk tank SCC,263331,cells/mL,production
+8/1/2010,bulk tank SCC,261884,cells/mL,production
+9/1/2010,bulk tank SCC,260552,cells/mL,production
+10/1/2010,bulk tank SCC,259221,cells/mL,production
+11/1/2010,bulk tank SCC,257884,cells/mL,production
+12/1/2010,bulk tank SCC,256552,cells/mL,production
+1/1/2011,bulk tank SCC,255221,cells/mL,production
+2/1/2011,bulk tank SCC,253884,cells/mL,production
+3/1/2011,bulk tank SCC,252552,cells/mL,production
+4/1/2011,bulk tank SCC,251221,cells/mL,production
+5/1/2011,bulk tank SCC,249884,cells/mL,production
+6/1/2011,bulk tank SCC,248552,cells/mL,production
+7/1/2011,bulk tank SCC,247221,cells/mL,production
+8/1/2011,bulk tank SCC,245884,cells/mL,production
+9/1/2011,bulk tank SCC,244552,cells/mL,production
+10/1/2011,bulk tank SCC,243221,cells/mL,production
+11/1/2011,bulk tank SCC,241884,cells/mL,production
+12/1/2011,bulk tank SCC,240552,cells/mL,production
+1/1/2012,bulk tank SCC,239221,cells/mL,production
+2/1/2012,bulk tank SCC,237884,cells/mL,production
+3/1/2012,bulk tank SCC,236552,cells/mL,production
+4/1/2012,bulk tank SCC,235221,cells/mL,production
+5/1/2012,bulk tank SCC,233884,cells/mL,production
+6/1/2012,bulk tank SCC,232552,cells/mL,production
+7/1/2012,bulk tank SCC,231221,cells/mL,production
+8/1/2012,bulk tank SCC,229884,cells/mL,production
+9/1/2012,bulk tank SCC,228552,cells/mL,production
+10/1/2012,bulk tank SCC,227221,cells/mL,production
+11/1/2012,bulk tank SCC,225884,cells/mL,production
+12/1/2012,bulk tank SCC,224552,cells/mL,production
+1/1/2013,bulk tank SCC,223221,cells/mL,production
+2/1/2013,bulk tank SCC,221884,cells/mL,production
+3/1/2013,bulk tank SCC,220552,cells/mL,production
+4/1/2013,bulk tank SCC,219221,cells/mL,production
+5/1/2013,bulk tank SCC,217884,cells/mL,production
+6/1/2013,bulk tank SCC,216552,cells/mL,production
+7/1/2013,bulk tank SCC,215221,cells/mL,production
+8/1/2013,bulk tank SCC,213884,cells/mL,production
+9/1/2013,bulk tank SCC,212552,cells/mL,production
+10/1/2013,bulk tank SCC,211221,cells/mL,production
+11/1/2013,bulk tank SCC,209884,cells/mL,production
+12/1/2013,bulk tank SCC,208552,cells/mL,production
+1/1/2014,bulk tank SCC,207221,cells/mL,production
+2/1/2014,bulk tank SCC,205884,cells/mL,production
+3/1/2014,bulk tank SCC,204552,cells/mL,production
+4/1/2014,bulk tank SCC,203221,cells/mL,production
+5/1/2014,bulk tank SCC,201884,cells/mL,production
+6/1/2014,bulk tank SCC,200552,cells/mL,production
+7/1/2014,bulk tank SCC,199221,cells/mL,production
+8/1/2014,bulk tank SCC,197884,cells/mL,production
+9/1/2014,bulk tank SCC,196552,cells/mL,production
+10/1/2014,bulk tank SCC,195221,cells/mL,production
+11/1/2014,bulk tank SCC,193884,cells/mL,production
+12/1/2014,bulk tank SCC,192552,cells/mL,production
+1/1/2015,bulk tank SCC,191221,cells/mL,production
+2/1/2015,bulk tank SCC,189884,cells/mL,production
+3/1/2015,bulk tank SCC,188552,cells/mL,production
+4/1/2015,bulk tank SCC,187221,cells/mL,production
+5/1/2015,bulk tank SCC,185884,cells/mL,production
+6/1/2015,bulk tank SCC,184552,cells/mL,production
+7/1/2015,bulk tank SCC,183221,cells/mL,production
+8/1/2015,bulk tank SCC,181884,cells/mL,production
+9/1/2015,bulk tank SCC,180552,cells/mL,production
+10/1/2015,bulk tank SCC,179221,cells/mL,production
+11/1/2015,bulk tank SCC,177884,cells/mL,production
+12/1/2015,bulk tank SCC,176552,cells/mL,production
+1/1/2016,bulk tank SCC,175221,cells/mL,production
+2/1/2016,bulk tank SCC,173884,cells/mL,production
+3/1/2016,bulk tank SCC,172552,cells/mL,production
+4/1/2016,bulk tank SCC,171221,cells/mL,production
+5/1/2016,bulk tank SCC,169884,cells/mL,production
+6/1/2016,bulk tank SCC,168552,cells/mL,production
+7/1/2016,bulk tank SCC,167221,cells/mL,production
+8/1/2016,bulk tank SCC,165884,cells/mL,production
+9/1/2016,bulk tank SCC,164552,cells/mL,production
+10/1/2016,bulk tank SCC,163221,cells/mL,production
+11/1/2016,bulk tank SCC,161884,cells/mL,production
+12/1/2016,bulk tank SCC,160552,cells/mL,production
+1/1/2017,bulk tank SCC,159221,cells/mL,production
+2/1/2017,bulk tank SCC,157884,cells/mL,production
+3/1/2017,bulk tank SCC,156552,cells/mL,production
+4/1/2017,bulk tank SCC,155221,cells/mL,production
+5/1/2017,bulk tank SCC,153884,cells/mL,production
+6/1/2017,bulk tank SCC,152552,cells/mL,production
+7/1/2017,bulk tank SCC,151221,cells/mL,production
+8/1/2017,bulk tank SCC,149884,cells/mL,production
+9/1/2017,bulk tank SCC,148552,cells/mL,production
+10/1/2017,bulk tank SCC,147221,cells/mL,production
+11/1/2017,bulk tank SCC,145884,cells/mL,production
+12/1/2017,bulk tank SCC,144552,cells/mL,production
+1/1/2018,bulk tank SCC,143221,cells/mL,production
+2/1/2018,bulk tank SCC,141884,cells/mL,production
+3/1/2018,bulk tank SCC,140552,cells/mL,production
+4/1/2018,bulk tank SCC,139221,cells/mL,production
+5/1/2018,bulk tank SCC,137884,cells/mL,production
+6/1/2018,bulk tank SCC,136552,cells/mL,production
+7/1/2018,bulk tank SCC,135221,cells/mL,production
+8/1/2018,bulk tank SCC,133884,cells/mL,production
+9/1/2018,bulk tank SCC,132552,cells/mL,production
+10/1/2018,bulk tank SCC,131221,cells/mL,production
+11/1/2018,bulk tank SCC,129884,cells/mL,production
+12/1/2018,bulk tank SCC,128552,cells/mL,production
+1/1/2019,bulk tank SCC,127221,cells/mL,production
+2/1/2019,bulk tank SCC,125884,cells/mL,production
+3/1/2019,bulk tank SCC,124552,cells/mL,production
+3/1/2019,bulk tank SCC,124552,cells/mL,production
+4/1/2019,bulk tank SCC,123221,cells/mL,production
+5/1/2019,bulk tank SCC,121884,cells/mL,production
+6/1/2019,bulk tank SCC,120552,cells/mL,production
+7/1/2019,bulk tank SCC,119221,cells/mL,production
+8/1/2019,bulk tank SCC,117884,cells/mL,production
+9/1/2019,bulk tank SCC,116552,cells/mL,production
+10/1/2019,bulk tank SCC,115221,cells/mL,production
+11/1/2019,bulk tank SCC,113884,cells/mL,production
+12/1/2019,bulk tank SCC,112552,cells/mL,production
+1/1/2020,bulk tank SCC,111221,cells/mL,production
+2/1/2020,bulk tank SCC,109884,cells/mL,production
+3/1/2020,bulk tank SCC,108552,cells/mL,production
+4/1/2020,bulk tank SCC,107221,cells/mL,production
+5/1/2020,bulk tank SCC,105884,cells/mL,production
+6/1/2020,bulk tank SCC,104552,cells/mL,production
+7/1/2020,bulk tank SCC,103221,cells/mL,production
+8/1/2020,bulk tank SCC,101884,cells/mL,production
+9/1/2020,bulk tank SCC,100552,cells/mL,production
+10/1/2020,bulk tank SCC,99221,cells/mL,production
+11/1/2020,bulk tank SCC,97884,cells/mL,production
+12/1/2020,bulk tank SCC,96552,cells/mL,production
+1/1/2021,bulk tank SCC,95221,cells/mL,production
+2/1/2021,bulk tank SCC,93884,cells/mL,production
+3/1/2021,bulk tank SCC,92552,cells/mL,production
+4/1/2021,bulk tank SCC,91221,cells/mL,production
+5/1/2021,bulk tank SCC,89884,cells/mL,production
+6/1/2021,bulk tank SCC,88552,cells/mL,production
+7/1/2021,bulk tank SCC,87221,cells/mL,production
+8/1/2021,bulk tank SCC,85884,cells/mL,production
+9/1/2021,bulk tank SCC,84552,cells/mL,production
+10/1/2021,bulk tank SCC,83221,cells/mL,production
+11/1/2021,bulk tank SCC,81884,cells/mL,production
+12/1/2021,bulk tank SCC,80552,cells/mL,production
+1/1/2022,bulk tank SCC,79221,cells/mL,production
+2/1/2022,bulk tank SCC,77884,cells/mL,production
+3/1/2022,bulk tank SCC,76552,cells/mL,production
+4/1/2022,bulk tank SCC,75221,cells/mL,production
+5/1/2022,bulk tank SCC,73884,cells/mL,production
+6/1/2022,bulk tank SCC,72552,cells/mL,production
+7/1/2022,bulk tank SCC,71221,cells/mL,production
+8/1/2022,bulk tank SCC,69884,cells/mL,production
+9/1/2022,bulk tank SCC,68552,cells/mL,production
+10/1/2022,bulk tank SCC,67221,cells/mL,production
+11/1/2022,bulk tank SCC,65884,cells/mL,production
+12/1/2022,bulk tank SCC,64552,cells/mL,production
+1/1/2023,bulk tank SCC,63221,cells/mL,production
+2/1/2023,bulk tank SCC,61884,cells/mL,production
+3/1/2023,bulk tank SCC,60552,cells/mL,production
+4/1/2023,bulk tank SCC,59221,cells/mL,production
+5/1/2023,bulk tank SCC,57884,cells/mL,production
+6/1/2023,bulk tank SCC,56552,cells/mL,production
+7/1/2023,bulk tank SCC,55221,cells/mL,production
+8/1/2023,bulk tank SCC,53884,cells/mL,production
+9/1/2023,bulk tank SCC,52552,cells/mL,production
+10/1/2023,bulk tank SCC,51221,cells/mL,production
+11/1/2023,bulk tank SCC,49884,cells/mL,production
+12/1/2023,bulk tank SCC,48552,cells/mL,production
+1/1/2024,bulk tank SCC,47221,cells/mL,production
+2/1/2024,bulk tank SCC,45884,cells/mL,production
+3/1/2024,bulk tank SCC,44552,cells/mL,production
+4/1/2024,bulk tank SCC,43221,cells/mL,production
+5/1/2024,bulk tank SCC,41884,cells/mL,production
+6/1/2024,bulk tank SCC,40552,cells/mL,production
+7/1/2024,bulk tank SCC,39221,cells/mL,production
+8/1/2024,bulk tank SCC,37884,cells/mL,production
+9/1/2024,bulk tank SCC,36552,cells/mL,production
+10/1/2024,bulk tank SCC,35221,cells/mL,production
+11/1/2024,bulk tank SCC,33884,cells/mL,production
+12/1/2024,bulk tank SCC,32552,cells/mL,production
+1/1/2025,bulk tank SCC,31221,cells/mL,production
+2/1/2025,bulk tank SCC,29884,cells/mL,production
+3/1/2025,bulk tank SCC,28552,cells/mL,production
+4/1/2025,bulk tank SCC,27221,cells/mL,production
+5/1/2025,bulk tank SCC,25884,cells/mL,production
+6/1/2025,bulk tank SCC,24552,cells/mL,production
+7/1/2025,bulk tank SCC,23221,cells/mL,production
+8/1/2025,bulk tank SCC,21884,cells/mL,production
+9/1/2025,bulk tank SCC,20552,cells/mL,production
+10/1/2025,bulk tank SCC,19221,cells/mL,production
+11/1/2025,bulk tank SCC,17884,cells/mL,production
+12/1/2025,bulk tank SCC,16552,cells/mL,production
+1/1/2026,bulk tank SCC,15221,cells/mL,production
+2/1/2026,bulk tank SCC,13884,cells/mL,production
+3/1/2026,bulk tank SCC,12552,cells/mL,production
+4/1/2026,bulk tank SCC,11221,cells/mL,production

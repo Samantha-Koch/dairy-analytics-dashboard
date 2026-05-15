@@ -24,6 +24,13 @@ def ingest_dataframe(df, filename, customer_id, dry_run=False):
     session = SessionLocal()
 
     df.columns = [c.lower().strip() for c in df.columns]
+    # Normalize date column
+    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+
+    # Canonical USDA‑compatible period fields
+    df["year"] = df["date"].dt.strftime("%Y")        
+    df["time_id"] = df["date"].dt.strftime("%Y-%m") 
+
 
     if "unit" not in df.columns and "units" not in df.columns:
         df["unit"] = None
@@ -37,6 +44,8 @@ def ingest_dataframe(df, filename, customer_id, dry_run=False):
         INSERT INTO farm_data_long (
             dataset_type,
             date,
+            year,
+            time_id,
             category,
             metric,
             value,
@@ -48,6 +57,8 @@ def ingest_dataframe(df, filename, customer_id, dry_run=False):
         VALUES (
             :dataset_type,
             :date,
+            :year,
+            :time_id,
             :category,
             :metric,
             :value,
@@ -67,6 +78,8 @@ def ingest_dataframe(df, filename, customer_id, dry_run=False):
             params = {
                 "dataset_type": row_dataset_type,
                 "date": row["date"],
+                "year": row["year"],
+                "time_id": row["time_id"],
                 "category": None,
                 "metric": row["metric"],
                 "value": float(row["value"]) if pd.notna(row["value"]) else None,
