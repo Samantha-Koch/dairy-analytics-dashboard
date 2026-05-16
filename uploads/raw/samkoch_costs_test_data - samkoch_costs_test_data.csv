@@ -1,0 +1,681 @@
+date,metric,value,unit,category
+1/1/2015,total milk yield,517.5,cwt,production
+1/1/2015,total feed,230,cwt,costs
+1/1/2015,total feed costs,10.42,$/cwt,costs
+1/1/2015,total costs,22.31,$/cwt,costs
+1/1/2015,gross revenue,20.44,$/cwt,revenue
+2/1/2015,total milk yield,519.3,cwt,production
+2/1/2015,total feed,233,cwt,costs
+2/1/2015,total feed costs,10.15,$/cwt,costs
+2/1/2015,total costs,21.88,$/cwt,costs
+2/1/2015,gross revenue,19.97,$/cwt,revenue
+3/1/2015,total milk yield,519.3,cwt,production
+3/1/2015,total feed,236,cwt,costs
+3/1/2015,total feed costs,9.84,$/cwt,costs
+3/1/2015,total costs,21.54,$/cwt,costs
+3/1/2015,gross revenue,20.66,$/cwt,revenue
+4/1/2015,total milk yield,534,cwt,production
+4/1/2015,total feed,242,cwt,costs
+4/1/2015,total feed costs,9.72,$/cwt,costs
+4/1/2015,total costs,21.44,$/cwt,costs
+4/1/2015,gross revenue,20.88,$/cwt,revenue
+5/1/2015,total milk yield,547.8,cwt,production
+5/1/2015,total feed,248,cwt,costs
+5/1/2015,total feed costs,9.55,$/cwt,costs
+5/1/2015,total costs,21.33,$/cwt,costs
+5/1/2015,gross revenue,21.12,$/cwt,revenue
+6/1/2015,total milk yield,537.3,cwt,production
+6/1/2015,total feed,244,cwt,costs
+6/1/2015,total feed costs,9.41,$/cwt,costs
+6/1/2015,total costs,21.22,$/cwt,costs
+6/1/2015,gross revenue,20.77,$/cwt,revenue
+7/1/2015,total milk yield,531,cwt,production
+7/1/2015,total feed,241,cwt,costs
+7/1/2015,total feed costs,9.28,$/cwt,costs
+7/1/2015,total costs,21.11,$/cwt,costs
+7/1/2015,gross revenue,20.55,$/cwt,revenue
+8/1/2015,total milk yield,556.8,cwt,production
+8/1/2015,total feed,250,cwt,costs
+8/1/2015,total feed costs,9.36,$/cwt,costs
+8/1/2015,total costs,21.22,$/cwt,costs
+8/1/2015,gross revenue,21.33,$/cwt,revenue
+9/1/2015,total milk yield,513.6,cwt,production
+9/1/2015,total feed,230,cwt,costs
+9/1/2015,total feed costs,9.12,$/cwt,costs
+9/1/2015,total costs,21.02,$/cwt,costs
+9/1/2015,gross revenue,20.44,$/cwt,revenue
+10/1/2015,total milk yield,543.9,cwt,production
+10/1/2015,total feed,242,cwt,costs
+10/1/2015,total feed costs,9.25,$/cwt,costs
+10/1/2015,total costs,21.14,$/cwt,costs
+10/1/2015,gross revenue,21,$/cwt,revenue
+11/1/2015,total milk yield,510.3,cwt,production
+11/1/2015,total feed,229,cwt,costs
+11/1/2015,total feed costs,9.04,$/cwt,costs
+11/1/2015,total costs,20.99,$/cwt,costs
+11/1/2015,gross revenue,20.33,$/cwt,revenue
+12/1/2015,total milk yield,552.9,cwt,production
+12/1/2015,total feed,247,cwt,costs
+12/1/2015,total feed costs,9.22,$/cwt,costs
+12/1/2015,total costs,21.18,$/cwt,costs
+12/1/2015,gross revenue,21.22,$/cwt,revenue
+1/1/2016,total milk yield,578.7,cwt,production
+1/1/2016,total feed,255,cwt,costs
+1/1/2016,total feed costs,11.22,$/cwt,costs
+1/1/2016,total costs,23.44,$/cwt,costs
+1/1/2016,gross revenue,20.88,$/cwt,revenue
+2/1/2016,total milk yield,577.8,cwt,production
+2/1/2016,total feed,253,cwt,costs
+2/1/2016,total feed costs,11.05,$/cwt,costs
+2/1/2016,total costs,23.22,$/cwt,costs
+2/1/2016,gross revenue,20.66,$/cwt,revenue
+3/1/2016,total milk yield,553.5,cwt,production
+3/1/2016,total feed,244,cwt,costs
+3/1/2016,total feed costs,10.88,$/cwt,costs
+3/1/2016,total costs,22.99,$/cwt,costs
+3/1/2016,gross revenue,20.44,$/cwt,revenue
+4/1/2016,total milk yield,541.8,cwt,production
+4/1/2016,total feed,239,cwt,costs
+4/1/2016,total feed costs,10.72,$/cwt,costs
+4/1/2016,total costs,22.88,$/cwt,costs
+4/1/2016,gross revenue,20.55,$/cwt,revenue
+5/1/2016,total milk yield,578.7,cwt,production
+5/1/2016,total feed,255,cwt,costs
+5/1/2016,total feed costs,10.94,$/cwt,costs
+5/1/2016,total costs,23.11,$/cwt,costs
+5/1/2016,gross revenue,20.99,$/cwt,revenue
+6/1/2016,total milk yield,547.8,cwt,production
+6/1/2016,total feed,242,cwt,costs
+6/1/2016,total feed costs,10.66,$/cwt,costs
+6/1/2016,total costs,22.77,$/cwt,costs
+6/1/2016,gross revenue,20.44,$/cwt,revenue
+7/1/2016,total milk yield,546,cwt,production
+7/1/2016,total feed,241,cwt,costs
+7/1/2016,total feed costs,10.55,$/cwt,costs
+7/1/2016,total costs,22.66,$/cwt,costs
+7/1/2016,gross revenue,20.33,$/cwt,revenue
+8/1/2016,total milk yield,552.6,cwt,production
+8/1/2016,total feed,244,cwt,costs
+8/1/2016,total feed costs,10.61,$/cwt,costs
+8/1/2016,total costs,22.77,$/cwt,costs
+8/1/2016,gross revenue,20.66,$/cwt,revenue
+9/1/2016,total milk yield,595.2,cwt,production
+9/1/2016,total feed,260,cwt,costs
+9/1/2016,total feed costs,10.88,$/cwt,costs
+9/1/2016,total costs,23.22,$/cwt,costs
+9/1/2016,gross revenue,21.11,$/cwt,revenue
+10/1/2016,total milk yield,562.5,cwt,production
+10/1/2016,total feed,246,cwt,costs
+10/1/2016,total feed costs,10.72,$/cwt,costs
+10/1/2016,total costs,22.99,$/cwt,costs
+10/1/2016,gross revenue,20.77,$/cwt,revenue
+11/1/2016,total milk yield,596.4,cwt,production
+11/1/2016,total feed,261,cwt,costs
+11/1/2016,total feed costs,10.94,$/cwt,costs
+11/1/2016,total costs,23.33,$/cwt,costs
+11/1/2016,gross revenue,21.22,$/cwt,revenue
+12/1/2016,total milk yield,558.9,cwt,production
+12/1/2016,total feed,245,cwt,costs
+12/1/2016,total feed costs,10.66,$/cwt,costs
+12/1/2016,total costs,22.88,$/cwt,costs
+12/1/2016,gross revenue,20.88,$/cwt,revenue
+1/1/2017,total milk yield,579.9,cwt,production
+1/1/2017,total feed,257,cwt,costs
+1/1/2017,total feed costs,11.33,$/cwt,costs
+1/1/2017,total costs,23.55,$/cwt,costs
+1/1/2017,gross revenue,21.22,$/cwt,revenue
+2/1/2017,total milk yield,567.3,cwt,production
+2/1/2017,total feed,252,cwt,costs
+2/1/2017,total feed costs,11.11,$/cwt,costs
+2/1/2017,total costs,23.33,$/cwt,costs
+2/1/2017,gross revenue,21,$/cwt,revenue
+3/1/2017,total milk yield,549,cwt,production
+3/1/2017,total feed,245,cwt,costs
+3/1/2017,total feed costs,10.94,$/cwt,costs
+3/1/2017,total costs,23.11,$/cwt,costs
+3/1/2017,gross revenue,20.77,$/cwt,revenue
+4/1/2017,total milk yield,553.5,cwt,production
+4/1/2017,total feed,247,cwt,costs
+4/1/2017,total feed costs,10.88,$/cwt,costs
+4/1/2017,total costs,23,$/cwt,costs
+4/1/2017,gross revenue,20.88,$/cwt,revenue
+5/1/2017,total milk yield,543.9,cwt,production
+5/1/2017,total feed,243,cwt,costs
+5/1/2017,total feed costs,10.72,$/cwt,costs
+5/1/2017,total costs,22.88,$/cwt,costs
+5/1/2017,gross revenue,20.66,$/cwt,revenue
+6/1/2017,total milk yield,570.3,cwt,production
+6/1/2017,total feed,255,cwt,costs
+6/1/2017,total feed costs,10.94,$/cwt,costs
+6/1/2017,total costs,23.11,$/cwt,costs
+6/1/2017,gross revenue,21,$/cwt,revenue
+7/1/2017,total milk yield,597,cwt,production
+7/1/2017,total feed,267,cwt,costs
+7/1/2017,total feed costs,11.22,$/cwt,costs
+7/1/2017,total costs,23.44,$/cwt,costs
+7/1/2017,gross revenue,21.33,$/cwt,revenue
+8/1/2017,total milk yield,561,cwt,production
+8/1/2017,total feed,251,cwt,costs
+8/1/2017,total feed costs,11.05,$/cwt,costs
+8/1/2017,total costs,23.22,$/cwt,costs
+8/1/2017,gross revenue,20.99,$/cwt,revenue
+9/1/2017,total milk yield,581.1,cwt,production
+9/1/2017,total feed,259,cwt,costs
+9/1/2017,total feed costs,11.16,$/cwt,costs
+9/1/2017,total costs,23.33,$/cwt,costs
+9/1/2017,gross revenue,21.22,$/cwt,revenue
+10/1/2017,total milk yield,568.5,cwt,production
+10/1/2017,total feed,253,cwt,costs
+10/1/2017,total feed costs,11,$/cwt,costs
+10/1/2017,total costs,23.22,$/cwt,costs
+10/1/2017,gross revenue,20.99,$/cwt,revenue
+11/1/2017,total milk yield,589.5,cwt,production
+11/1/2017,total feed,262,cwt,costs
+11/1/2017,total feed costs,11.16,$/cwt,costs
+11/1/2017,total costs,23.44,$/cwt,costs
+11/1/2017,gross revenue,21.33,$/cwt,revenue
+12/1/2017,total milk yield,595.5,cwt,production
+12/1/2017,total feed,265,cwt,costs
+12/1/2017,total feed costs,11.22,$/cwt,costs
+12/1/2017,total costs,23.55,$/cwt,costs
+12/1/2017,gross revenue,21.44,$/cwt,revenue
+1/1/2018,total milk yield,612,cwt,production
+1/1/2018,total feed,274,cwt,costs
+1/1/2018,total feed costs,11.44,$/cwt,costs
+1/1/2018,total costs,23.66,$/cwt,costs
+1/1/2018,gross revenue,19.88,$/cwt,revenue
+2/1/2018,total milk yield,598.5,cwt,production
+2/1/2018,total feed,268,cwt,costs
+2/1/2018,total feed costs,11.33,$/cwt,costs
+2/1/2018,total costs,23.55,$/cwt,costs
+2/1/2018,gross revenue,19.77,$/cwt,revenue
+3/1/2018,total milk yield,579.6,cwt,production
+3/1/2018,total feed,259,cwt,costs
+3/1/2018,total feed costs,11.16,$/cwt,costs
+3/1/2018,total costs,23.33,$/cwt,costs
+3/1/2018,gross revenue,19.66,$/cwt,revenue
+4/1/2018,total milk yield,585,cwt,production
+4/1/2018,total feed,262,cwt,costs
+4/1/2018,total feed costs,11.11,$/cwt,costs
+4/1/2018,total costs,23.22,$/cwt,costs
+4/1/2018,gross revenue,19.77,$/cwt,revenue
+5/1/2018,total milk yield,573.3,cwt,production
+5/1/2018,total feed,257,cwt,costs
+5/1/2018,total feed costs,10.94,$/cwt,costs
+5/1/2018,total costs,23.11,$/cwt,costs
+5/1/2018,gross revenue,19.55,$/cwt,revenue
+6/1/2018,total milk yield,603,cwt,production
+6/1/2018,total feed,270,cwt,costs
+6/1/2018,total feed costs,11.22,$/cwt,costs
+6/1/2018,total costs,23.44,$/cwt,costs
+6/1/2018,gross revenue,19.99,$/cwt,revenue
+7/1/2018,total milk yield,627,cwt,production
+7/1/2018,total feed,281,cwt,costs
+7/1/2018,total feed costs,11.44,$/cwt,costs
+7/1/2018,total costs,23.66,$/cwt,costs
+7/1/2018,gross revenue,20.11,$/cwt,revenue
+8/1/2018,total milk yield,592.8,cwt,production
+8/1/2018,total feed,266,cwt,costs
+8/1/2018,total feed costs,11.22,$/cwt,costs
+8/1/2018,total costs,23.44,$/cwt,costs
+8/1/2018,gross revenue,19.66,$/cwt,revenue
+9/1/2018,total milk yield,615.6,cwt,production
+9/1/2018,total feed,276,cwt,costs
+9/1/2018,total feed costs,11.33,$/cwt,costs
+9/1/2018,total costs,23.55,$/cwt,costs
+9/1/2018,gross revenue,20,$/cwt,revenue
+10/1/2018,total milk yield,601.2,cwt,production
+10/1/2018,total feed,269,cwt,costs
+10/1/2018,total feed costs,11.22,$/cwt,costs
+10/1/2018,total costs,23.44,$/cwt,costs
+10/1/2018,gross revenue,19.88,$/cwt,revenue
+11/1/2018,total milk yield,636,cwt,production
+11/1/2018,total feed,284,cwt,costs
+11/1/2018,total feed costs,11.44,$/cwt,costs
+11/1/2018,total costs,23.66,$/cwt,costs
+11/1/2018,gross revenue,20.22,$/cwt,revenue
+12/1/2018,total milk yield,597,cwt,production
+12/1/2018,total feed,267,cwt,costs
+12/1/2018,total feed costs,11.16,$/cwt,costs
+12/1/2018,total costs,23.33,$/cwt,costs
+12/1/2018,gross revenue,19.77,$/cwt,revenue
+1/1/2019,total milk yield,642.6,cwt,production
+1/1/2019,total feed,287,cwt,costs
+1/1/2019,total feed costs,11.55,$/cwt,costs
+1/1/2019,total costs,23.77,$/cwt,costs
+1/1/2019,gross revenue,21.22,$/cwt,revenue
+2/1/2019,total milk yield,628.2,cwt,production
+2/1/2019,total feed,281,cwt,costs
+2/1/2019,total feed costs,11.44,$/cwt,costs
+2/1/2019,total costs,23.66,$/cwt,costs
+2/1/2019,gross revenue,21,$/cwt,revenue
+3/1/2019,total milk yield,609,cwt,production
+3/1/2019,total feed,273,cwt,costs
+3/1/2019,total feed costs,11.33,$/cwt,costs
+3/1/2019,total costs,23.55,$/cwt,costs
+3/1/2019,gross revenue,20.77,$/cwt,revenue
+4/1/2019,total milk yield,615.6,cwt,production
+4/1/2019,total feed,276,cwt,costs
+4/1/2019,total feed costs,11.28,$/cwt,costs
+4/1/2019,total costs,23.44,$/cwt,costs
+4/1/2019,gross revenue,20.88,$/cwt,revenue
+5/1/2019,total milk yield,603,cwt,production
+5/1/2019,total feed,270,cwt,costs
+5/1/2019,total feed costs,11.16,$/cwt,costs
+5/1/2019,total costs,23.33,$/cwt,costs
+5/1/2019,gross revenue,20.66,$/cwt,revenue
+6/1/2019,total milk yield,634.5,cwt,production
+6/1/2019,total feed,283,cwt,costs
+6/1/2019,total feed costs,11.33,$/cwt,costs
+6/1/2019,total costs,23.55,$/cwt,costs
+6/1/2019,gross revenue,21,$/cwt,revenue
+7/1/2019,total milk yield,660,cwt,production
+7/1/2019,total feed,294,cwt,costs
+7/1/2019,total feed costs,11.55,$/cwt,costs
+7/1/2019,total costs,23.77,$/cwt,costs
+7/1/2019,gross revenue,21.33,$/cwt,revenue
+8/1/2019,total milk yield,623.7,cwt,production
+8/1/2019,total feed,279,cwt,costs
+8/1/2019,total feed costs,11.44,$/cwt,costs
+8/1/2019,total costs,23.66,$/cwt,costs
+8/1/2019,gross revenue,20.88,$/cwt,revenue
+9/1/2019,total milk yield,647.4,cwt,production
+9/1/2019,total feed,289,cwt,costs
+9/1/2019,total feed costs,11.55,$/cwt,costs
+9/1/2019,total costs,23.77,$/cwt,costs
+9/1/2019,gross revenue,21.22,$/cwt,revenue
+10/1/2019,total milk yield,632.1,cwt,production
+10/1/2019,total feed,282,cwt,costs
+10/1/2019,total feed costs,11.44,$/cwt,costs
+10/1/2019,total costs,23.66,$/cwt,costs
+10/1/2019,gross revenue,21,$/cwt,revenue
+11/1/2019,total milk yield,668.4,cwt,production
+11/1/2019,total feed,297,cwt,costs
+11/1/2019,total feed costs,11.61,$/cwt,costs
+11/1/2019,total costs,23.88,$/cwt,costs
+11/1/2019,gross revenue,21.44,$/cwt,revenue
+12/1/2019,total milk yield,627,cwt,production
+12/1/2019,total feed,281,cwt,costs
+12/1/2019,total feed costs,11.44,$/cwt,costs
+12/1/2019,total costs,23.66,$/cwt,costs
+12/1/2019,gross revenue,21.11,$/cwt,revenue
+1/1/2020,total milk yield,684,cwt,production
+1/1/2020,total feed,300,cwt,costs
+1/1/2020,total feed costs,12.22,$/cwt,costs
+1/1/2020,total costs,24.55,$/cwt,costs
+1/1/2020,gross revenue,21.88,$/cwt,revenue
+2/1/2020,total milk yield,669.6,cwt,production
+2/1/2020,total feed,294,cwt,costs
+2/1/2020,total feed costs,12.05,$/cwt,costs
+2/1/2020,total costs,24.33,$/cwt,costs
+2/1/2020,gross revenue,21.66,$/cwt,revenue
+3/1/2020,total milk yield,649.8,cwt,production
+3/1/2020,total feed,286,cwt,costs
+3/1/2020,total feed costs,11.94,$/cwt,costs
+3/1/2020,total costs,24.22,$/cwt,costs
+3/1/2020,gross revenue,21.44,$/cwt,revenue
+4/1/2020,total milk yield,655.2,cwt,production
+4/1/2020,total feed,289,cwt,costs
+4/1/2020,total feed costs,11.88,$/cwt,costs
+4/1/2020,total costs,24.11,$/cwt,costs
+4/1/2020,gross revenue,21.55,$/cwt,revenue
+5/1/2020,total milk yield,642.6,cwt,production
+5/1/2020,total feed,283,cwt,costs
+5/1/2020,total feed costs,11.77,$/cwt,costs
+5/1/2020,total costs,24,$/cwt,costs
+5/1/2020,gross revenue,21.33,$/cwt,revenue
+6/1/2020,total milk yield,675,cwt,production
+6/1/2020,total feed,297,cwt,costs
+6/1/2020,total feed costs,11.94,$/cwt,costs
+6/1/2020,total costs,24.22,$/cwt,costs
+6/1/2020,gross revenue,21.77,$/cwt,revenue
+7/1/2020,total milk yield,702,cwt,production
+7/1/2020,total feed,309,cwt,costs
+7/1/2020,total feed costs,12.11,$/cwt,costs
+7/1/2020,total costs,24.44,$/cwt,costs
+7/1/2020,gross revenue,22.11,$/cwt,revenue
+8/1/2020,total milk yield,663,cwt,production
+8/1/2020,total feed,292,cwt,costs
+8/1/2020,total feed costs,11.99,$/cwt,costs
+8/1/2020,total costs,24.33,$/cwt,costs
+8/1/2020,gross revenue,21.66,$/cwt,revenue
+9/1/2020,total milk yield,688.8,cwt,production
+9/1/2020,total feed,303,cwt,costs
+9/1/2020,total feed costs,12.11,$/cwt,costs
+9/1/2020,total costs,24.55,$/cwt,costs
+9/1/2020,gross revenue,22,$/cwt,revenue
+10/1/2020,total milk yield,672.3,cwt,production
+10/1/2020,total feed,296,cwt,costs
+10/1/2020,total feed costs,12.05,$/cwt,costs
+10/1/2020,total costs,24.44,$/cwt,costs
+10/1/2020,gross revenue,21.88,$/cwt,revenue
+11/1/2020,total milk yield,710.4,cwt,production
+11/1/2020,total feed,312,cwt,costs
+11/1/2020,total feed costs,12.22,$/cwt,costs
+11/1/2020,total costs,24.66,$/cwt,costs
+11/1/2020,gross revenue,22.22,$/cwt,revenue
+12/1/2020,total milk yield,666,cwt,production
+12/1/2020,total feed,293,cwt,costs
+12/1/2020,total feed costs,12.11,$/cwt,costs
+12/1/2020,total costs,24.55,$/cwt,costs
+12/1/2020,gross revenue,21.77,$/cwt,revenue
+1/1/2021,total milk yield,726,cwt,production
+1/1/2021,total feed,315,cwt,costs
+1/1/2021,total feed costs,12.55,$/cwt,costs
+1/1/2021,total costs,24.88,$/cwt,costs
+1/1/2021,gross revenue,20.88,$/cwt,revenue
+2/1/2021,total milk yield,711.9,cwt,production
+2/1/2021,total feed,309,cwt,costs
+2/1/2021,total feed costs,12.44,$/cwt,costs
+2/1/2021,total costs,24.77,$/cwt,costs
+2/1/2021,gross revenue,20.77,$/cwt,revenue
+3/1/2021,total milk yield,690,cwt,production
+3/1/2021,total feed,300,cwt,costs
+3/1/2021,total feed costs,12.33,$/cwt,costs
+3/1/2021,total costs,24.66,$/cwt,costs
+3/1/2021,gross revenue,20.55,$/cwt,revenue
+4/1/2021,total milk yield,696.6,cwt,production
+4/1/2021,total feed,303,cwt,costs
+4/1/2021,total feed costs,12.28,$/cwt,costs
+4/1/2021,total costs,24.55,$/cwt,costs
+4/1/2021,gross revenue,20.66,$/cwt,revenue
+5/1/2021,total milk yield,684,cwt,production
+5/1/2021,total feed,298,cwt,costs
+5/1/2021,total feed costs,12.16,$/cwt,costs
+5/1/2021,total costs,24.44,$/cwt,costs
+5/1/2021,gross revenue,20.55,$/cwt,revenue
+6/1/2021,total milk yield,717,cwt,production
+6/1/2021,total feed,312,cwt,costs
+6/1/2021,total feed costs,12.33,$/cwt,costs
+6/1/2021,total costs,24.66,$/cwt,costs
+6/1/2021,gross revenue,20.99,$/cwt,revenue
+7/1/2021,total milk yield,744,cwt,production
+7/1/2021,total feed,324,cwt,costs
+7/1/2021,total feed costs,12.55,$/cwt,costs
+7/1/2021,total costs,24.88,$/cwt,costs
+7/1/2021,gross revenue,21.22,$/cwt,revenue
+8/1/2021,total milk yield,702,cwt,production
+8/1/2021,total feed,306,cwt,costs
+8/1/2021,total feed costs,12.44,$/cwt,costs
+8/1/2021,total costs,24.77,$/cwt,costs
+8/1/2021,gross revenue,20.77,$/cwt,revenue
+9/1/2021,total milk yield,727.8,cwt,production
+9/1/2021,total feed,316,cwt,costs
+9/1/2021,total feed costs,12.55,$/cwt,costs
+9/1/2021,total costs,24.88,$/cwt,costs
+9/1/2021,gross revenue,21,$/cwt,revenue
+10/1/2021,total milk yield,711.9,cwt,production
+10/1/2021,total feed,309,cwt,costs
+10/1/2021,total feed costs,12.44,$/cwt,costs
+10/1/2021,total costs,24.77,$/cwt,costs
+10/1/2021,gross revenue,20.88,$/cwt,revenue
+11/1/2021,total milk yield,750,cwt,production
+11/1/2021,total feed,327,cwt,costs
+11/1/2021,total feed costs,12.61,$/cwt,costs
+11/1/2021,total costs,25,$/cwt,costs
+11/1/2021,gross revenue,21.33,$/cwt,revenue
+12/1/2021,total milk yield,705.6,cwt,production
+12/1/2021,total feed,307,cwt,costs
+12/1/2021,total feed costs,12.5,$/cwt,costs
+12/1/2021,total costs,24.88,$/cwt,costs
+12/1/2021,gross revenue,20.88,$/cwt,revenue
+1/1/2022,total milk yield,765,cwt,production
+1/1/2022,total feed,334,cwt,costs
+1/1/2022,total feed costs,13.22,$/cwt,costs
+1/1/2022,total costs,25.66,$/cwt,costs
+1/1/2022,gross revenue,26.11,$/cwt,revenue
+2/1/2022,total milk yield,750.6,cwt,production
+2/1/2022,total feed,328,cwt,costs
+2/1/2022,total feed costs,13.11,$/cwt,costs
+2/1/2022,total costs,25.55,$/cwt,costs
+2/1/2022,gross revenue,25.88,$/cwt,revenue
+3/1/2022,total milk yield,729,cwt,production
+3/1/2022,total feed,319,cwt,costs
+3/1/2022,total feed costs,12.99,$/cwt,costs
+3/1/2022,total costs,25.44,$/cwt,costs
+3/1/2022,gross revenue,25.66,$/cwt,revenue
+4/1/2022,total milk yield,735.6,cwt,production
+4/1/2022,total feed,322,cwt,costs
+4/1/2022,total feed costs,12.94,$/cwt,costs
+4/1/2022,total costs,25.33,$/cwt,costs
+4/1/2022,gross revenue,25.77,$/cwt,revenue
+5/1/2022,total milk yield,723,cwt,production
+5/1/2022,total feed,317,cwt,costs
+5/1/2022,total feed costs,12.88,$/cwt,costs
+5/1/2022,total costs,25.22,$/cwt,costs
+5/1/2022,gross revenue,25.55,$/cwt,revenue
+6/1/2022,total milk yield,756,cwt,production
+6/1/2022,total feed,331,cwt,costs
+6/1/2022,total feed costs,13.05,$/cwt,costs
+6/1/2022,total costs,25.44,$/cwt,costs
+6/1/2022,gross revenue,26,$/cwt,revenue
+7/1/2022,total milk yield,783,cwt,production
+7/1/2022,total feed,343,cwt,costs
+7/1/2022,total feed costs,13.22,$/cwt,costs
+7/1/2022,total costs,25.66,$/cwt,costs
+7/1/2022,gross revenue,26.22,$/cwt,revenue
+8/1/2022,total milk yield,738,cwt,production
+8/1/2022,total feed,324,cwt,costs
+8/1/2022,total feed costs,13.11,$/cwt,costs
+8/1/2022,total costs,25.55,$/cwt,costs
+8/1/2022,gross revenue,25.77,$/cwt,revenue
+9/1/2022,total milk yield,763.8,cwt,production
+9/1/2022,total feed,335,cwt,costs
+9/1/2022,total feed costs,13.22,$/cwt,costs
+9/1/2022,total costs,25.66,$/cwt,costs
+9/1/2022,gross revenue,26.11,$/cwt,revenue
+10/1/2022,total milk yield,747.9,cwt,production
+10/1/2022,total feed,328,cwt,costs
+10/1/2022,total feed costs,13.11,$/cwt,costs
+10/1/2022,total costs,25.55,$/cwt,costs
+10/1/2022,gross revenue,25.88,$/cwt,revenue
+11/1/2022,total milk yield,786,cwt,production
+11/1/2022,total feed,345,cwt,costs
+11/1/2022,total feed costs,13.28,$/cwt,costs
+11/1/2022,total costs,25.77,$/cwt,costs
+11/1/2022,gross revenue,26.22,$/cwt,revenue
+12/1/2022,total milk yield,741,cwt,production
+12/1/2022,total feed,326,cwt,costs
+12/1/2022,total feed costs,13.16,$/cwt,costs
+12/1/2022,total costs,25.66,$/cwt,costs
+12/1/2022,gross revenue,25.99,$/cwt,revenue
+1/1/2023,total milk yield,801,cwt,production
+1/1/2023,total feed,351,cwt,costs
+1/1/2023,total feed costs,12.88,$/cwt,costs
+1/1/2023,total costs,25.44,$/cwt,costs
+1/1/2023,gross revenue,21.88,$/cwt,revenue
+2/1/2023,total milk yield,786.6,cwt,production
+2/1/2023,total feed,345,cwt,costs
+2/1/2023,total feed costs,12.77,$/cwt,costs
+2/1/2023,total costs,25.33,$/cwt,costs
+2/1/2023,gross revenue,21.66,$/cwt,revenue
+3/1/2023,total milk yield,765,cwt,production
+3/1/2023,total feed,336,cwt,costs
+3/1/2023,total feed costs,12.66,$/cwt,costs
+3/1/2023,total costs,25.22,$/cwt,costs
+3/1/2023,gross revenue,21.55,$/cwt,revenue
+4/1/2023,total milk yield,771.6,cwt,production
+4/1/2023,total feed,339,cwt,costs
+4/1/2023,total feed costs,12.61,$/cwt,costs
+4/1/2023,total costs,25.11,$/cwt,costs
+4/1/2023,gross revenue,21.66,$/cwt,revenue
+5/1/2023,total milk yield,759,cwt,production
+5/1/2023,total feed,334,cwt,costs
+5/1/2023,total feed costs,12.55,$/cwt,costs
+5/1/2023,total costs,25,$/cwt,costs
+5/1/2023,gross revenue,21.55,$/cwt,revenue
+6/1/2023,total milk yield,792,cwt,production
+6/1/2023,total feed,348,cwt,costs
+6/1/2023,total feed costs,12.72,$/cwt,costs
+6/1/2023,total costs,25.22,$/cwt,costs
+6/1/2023,gross revenue,21.88,$/cwt,revenue
+7/1/2023,total milk yield,819,cwt,production
+7/1/2023,total feed,360,cwt,costs
+7/1/2023,total feed costs,12.88,$/cwt,costs
+7/1/2023,total costs,25.44,$/cwt,costs
+7/1/2023,gross revenue,22.11,$/cwt,revenue
+8/1/2023,total milk yield,774,cwt,production
+8/1/2023,total feed,341,cwt,costs
+8/1/2023,total feed costs,12.77,$/cwt,costs
+8/1/2023,total costs,25.33,$/cwt,costs
+8/1/2023,gross revenue,21.77,$/cwt,revenue
+9/1/2023,total milk yield,799.8,cwt,production
+9/1/2023,total feed,352,cwt,costs
+9/1/2023,total feed costs,12.88,$/cwt,costs
+9/1/2023,total costs,25.44,$/cwt,costs
+9/1/2023,gross revenue,22,$/cwt,revenue
+10/1/2023,total milk yield,783.9,cwt,production
+10/1/2023,total feed,345,cwt,costs
+10/1/2023,total feed costs,12.77,$/cwt,costs
+10/1/2023,total costs,25.33,$/cwt,costs
+10/1/2023,gross revenue,21.88,$/cwt,revenue
+11/1/2023,total milk yield,822,cwt,production
+11/1/2023,total feed,362,cwt,costs
+11/1/2023,total feed costs,12.94,$/cwt,costs
+11/1/2023,total costs,25.55,$/cwt,costs
+11/1/2023,gross revenue,22.22,$/cwt,revenue
+12/1/2023,total milk yield,777,cwt,production
+12/1/2023,total feed,343,cwt,costs
+12/1/2023,total feed costs,12.83,$/cwt,costs
+12/1/2023,total costs,25.44,$/cwt,costs
+12/1/2023,gross revenue,21.99,$/cwt,revenue
+1/1/2024,total milk yield,837,cwt,production
+1/1/2024,total feed,358,cwt,costs
+1/1/2024,total feed costs,12.99,$/cwt,costs
+1/1/2024,total costs,25.33,$/cwt,costs
+1/1/2024,gross revenue,24.55,$/cwt,revenue
+2/1/2024,total milk yield,822.6,cwt,production
+2/1/2024,total feed,352,cwt,costs
+2/1/2024,total feed costs,12.88,$/cwt,costs
+2/1/2024,total costs,25.22,$/cwt,costs
+2/1/2024,gross revenue,24.33,$/cwt,revenue
+3/1/2024,total milk yield,801,cwt,production
+3/1/2024,total feed,343,cwt,costs
+3/1/2024,total feed costs,12.77,$/cwt,costs
+3/1/2024,total costs,25.11,$/cwt,costs
+3/1/2024,gross revenue,24.22,$/cwt,revenue
+4/1/2024,total milk yield,807.6,cwt,production
+4/1/2024,total feed,346,cwt,costs
+4/1/2024,total feed costs,12.72,$/cwt,costs
+4/1/2024,total costs,25,$/cwt,costs
+4/1/2024,gross revenue,24.33,$/cwt,revenue
+5/1/2024,total milk yield,795,cwt,production
+5/1/2024,total feed,341,cwt,costs
+5/1/2024,total feed costs,12.66,$/cwt,costs
+5/1/2024,total costs,24.88,$/cwt,costs
+5/1/2024,gross revenue,24.11,$/cwt,revenue
+6/1/2024,total milk yield,828,cwt,production
+6/1/2024,total feed,355,cwt,costs
+6/1/2024,total feed costs,12.83,$/cwt,costs
+6/1/2024,total costs,25.11,$/cwt,costs
+6/1/2024,gross revenue,24.55,$/cwt,revenue
+7/1/2024,total milk yield,855,cwt,production
+7/1/2024,total feed,367,cwt,costs
+7/1/2024,total feed costs,12.99,$/cwt,costs
+7/1/2024,total costs,25.33,$/cwt,costs
+7/1/2024,gross revenue,24.77,$/cwt,revenue
+8/1/2024,total milk yield,810,cwt,production
+8/1/2024,total feed,347,cwt,costs
+8/1/2024,total feed costs,12.88,$/cwt,costs
+8/1/2024,total costs,25.22,$/cwt,costs
+8/1/2024,gross revenue,24.33,$/cwt,revenue
+9/1/2024,total milk yield,835.8,cwt,production
+9/1/2024,total feed,358,cwt,costs
+9/1/2024,total feed costs,12.99,$/cwt,costs
+9/1/2024,total costs,25.33,$/cwt,costs
+9/1/2024,gross revenue,24.66,$/cwt,revenue
+10/1/2024,total milk yield,819.9,cwt,production
+10/1/2024,total feed,351,cwt,costs
+10/1/2024,total feed costs,12.88,$/cwt,costs
+10/1/2024,total costs,25.22,$/cwt,costs
+10/1/2024,gross revenue,24.44,$/cwt,revenue
+11/1/2024,total milk yield,858,cwt,production
+11/1/2024,total feed,368,cwt,costs
+11/1/2024,total feed costs,13.05,$/cwt,costs
+11/1/2024,total costs,25.44,$/cwt,costs
+11/1/2024,gross revenue,24.88,$/cwt,revenue
+12/1/2024,total milk yield,813,cwt,production
+12/1/2024,total feed,349,cwt,costs
+12/1/2024,total feed costs,12.94,$/cwt,costs
+12/1/2024,total costs,25.33,$/cwt,costs
+12/1/2024,gross revenue,24.55,$/cwt,revenue
+1/1/2025,total milk yield,873,cwt,production
+1/1/2025,total feed,375,cwt,costs
+1/1/2025,total feed costs,13.11,$/cwt,costs
+1/1/2025,total costs,25.55,$/cwt,costs
+1/1/2025,gross revenue,23.99,$/cwt,revenue
+2/1/2025,total milk yield,858.6,cwt,production
+2/1/2025,total feed,369,cwt,costs
+2/1/2025,total feed costs,13.05,$/cwt,costs
+2/1/2025,total costs,25.44,$/cwt,costs
+2/1/2025,gross revenue,23.88,$/cwt,revenue
+3/1/2025,total milk yield,837,cwt,production
+3/1/2025,total feed,360,cwt,costs
+3/1/2025,total feed costs,12.99,$/cwt,costs
+3/1/2025,total costs,25.33,$/cwt,costs
+3/1/2025,gross revenue,23.77,$/cwt,revenue
+4/1/2025,total milk yield,843.6,cwt,production
+4/1/2025,total feed,363,cwt,costs
+4/1/2025,total feed costs,12.94,$/cwt,costs
+4/1/2025,total costs,25.22,$/cwt,costs
+4/1/2025,gross revenue,23.88,$/cwt,revenue
+5/1/2025,total milk yield,831,cwt,production
+5/1/2025,total feed,358,cwt,costs
+5/1/2025,total feed costs,12.88,$/cwt,costs
+5/1/2025,total costs,25.11,$/cwt,costs
+5/1/2025,gross revenue,23.77,$/cwt,revenue
+6/1/2025,total milk yield,864,cwt,production
+6/1/2025,total feed,372,cwt,costs
+6/1/2025,total feed costs,13.05,$/cwt,costs
+6/1/2025,total costs,25.33,$/cwt,costs
+6/1/2025,gross revenue,24.11,$/cwt,revenue
+7/1/2025,total milk yield,891,cwt,production
+7/1/2025,total feed,384,cwt,costs
+7/1/2025,total feed costs,13.22,$/cwt,costs
+7/1/2025,total costs,25.55,$/cwt,costs
+7/1/2025,gross revenue,24.33,$/cwt,revenue
+8/1/2025,total milk yield,846,cwt,production
+8/1/2025,total feed,365,cwt,costs
+8/1/2025,total feed costs,13.11,$/cwt,costs
+8/1/2025,total costs,25.44,$/cwt,costs
+8/1/2025,gross revenue,23.99,$/cwt,revenue
+9/1/2025,total milk yield,871.8,cwt,production
+9/1/2025,total feed,376,cwt,costs
+9/1/2025,total feed costs,13.22,$/cwt,costs
+9/1/2025,total costs,25.55,$/cwt,costs
+9/1/2025,gross revenue,24.22,$/cwt,revenue
+10/1/2025,total milk yield,855.9,cwt,production
+10/1/2025,total feed,369,cwt,costs
+10/1/2025,total feed costs,13.11,$/cwt,costs
+10/1/2025,total costs,25.44,$/cwt,costs
+10/1/2025,gross revenue,24.11,$/cwt,revenue
+11/1/2025,total milk yield,894,cwt,production
+11/1/2025,total feed,386,cwt,costs
+11/1/2025,total feed costs,13.28,$/cwt,costs
+11/1/2025,total costs,25.66,$/cwt,costs
+11/1/2025,gross revenue,24.33,$/cwt,revenue
+12/1/2025,total milk yield,849,cwt,production
+12/1/2025,total feed,367,cwt,costs
+12/1/2025,total feed costs,13.16,$/cwt,costs
+12/1/2025,total costs,25.55,$/cwt,costs
+12/1/2025,gross revenue,24,$/cwt,revenue
+1/1/2026,total milk yield,909,cwt,production
+1/1/2026,total feed,393,cwt,costs
+1/1/2026,total feed costs,13.33,$/cwt,costs
+1/1/2026,total costs,25.77,$/cwt,costs
+1/1/2026,gross revenue,24.55,$/cwt,revenue
+2/1/2026,total milk yield,894.6,cwt,production
+2/1/2026,total feed,387,cwt,costs
+2/1/2026,total feed costs,13.28,$/cwt,costs
+2/1/2026,total costs,25.66,$/cwt,costs
+2/1/2026,gross revenue,24.44,$/cwt,revenue
+3/1/2026,total milk yield,873,cwt,production
+3/1/2026,total feed,378,cwt,costs
+3/1/2026,total feed costs,13.22,$/cwt,costs
+3/1/2026,total costs,25.55,$/cwt,costs
+3/1/2026,gross revenue,24.33,$/cwt,revenue
+4/1/2026,total milk yield,879.6,cwt,production
+4/1/2026,total feed,381,cwt,costs
+4/1/2026,total feed costs,13.16,$/cwt,costs
+4/1/2026,total costs,25.44,$/cwt,costs
+4/1/2026,gross revenue,24.44,$/cwt,revenue

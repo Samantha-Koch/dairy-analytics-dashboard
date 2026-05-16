@@ -29,7 +29,7 @@ KPI_REGISTRY = {
     "bulk_scc": {
         "function": bulk_scc,
         "unit": "cells per mL",
-        "has_udsa_data": True,
+        "has_usda_data": True,
         "customer_data_exists": True,
     },
     "feed_efficiency": {
