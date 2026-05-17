@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException
-from analysis.kpi_engineering.kpi_service import compute_kpi
+from analytics.kpi_engineering.kpi_service import compute_kpi
 
 router = APIRouter()
 

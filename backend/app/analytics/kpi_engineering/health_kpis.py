@@ -1,9 +1,8 @@
-from analysis.utils.sql import (
+from backend.app.analytics.kpi_sql import (
     get_customer_timeseries,
-    get_usda_average,
 )
 def mastitis_prev(customer_id: str):
-    dates, cust_values = get_customer_timeseries(customer_id, "mastitis_prev")
+    dates, cust_values = get_customer_timeseries(customer_id, "mastitis prevalence")
     customer_avg = cust_values[-1] if cust_values else None
     return {
         "customer_avg": customer_avg,
@@ -11,7 +10,7 @@ def mastitis_prev(customer_id: str):
         "dates": dates,
     }
 def dry_period(customer_id: str):
-    dates, cust_values = get_customer_timeseries(customer_id, "dry_period")
+    dates, cust_values = get_customer_timeseries(customer_id, "dry period")
     customer_avg = cust_values[-1] if cust_values else None
     return {
         "customer_avg": customer_avg,

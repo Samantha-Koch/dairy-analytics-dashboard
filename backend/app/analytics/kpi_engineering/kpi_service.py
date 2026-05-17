@@ -1,5 +1,5 @@
 from kpi_registry import KPI_REGISTRY
-from analysis.utils.sql import (
+from backend.app.analytics.kpi_sql import (
     get_customer_timeseries,
     get_customer_timeseries_monthly,
     get_usda_average,

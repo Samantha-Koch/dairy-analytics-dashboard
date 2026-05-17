@@ -35,7 +35,7 @@ KPI_REGISTRY = {
     "feed_efficiency": {
         "function": feed_efficiency,
         "unit": "ECM/DMI",
-        "has_usda_data": True,
+        "has_usda_data": False,
         "customer_data_exists": True,
     },
     "income_over_feed": {
