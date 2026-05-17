@@ -1,11 +1,11 @@
-from backend.app.analytics.kpi_sql import (
-    get_customer_timeseries,
-)
+from backend.app.analytics.kpi_sql import get_customer_timeseries
+
 def spoilage_rate(customer_id: str):
-    dates, cust_values = get_customer_timeseries(customer_id, "spoilage rate")
-    customer_avg = cust_values[-1] if cust_values else None
+    dates, values = get_customer_timeseries(customer_id, "spoilage rate")
+
     return {
-        "customer_avg": customer_avg,
-        "customer_trend": cust_values,
+        "customer_avg": values[-1] if values else None,
+        "customer_trend": values,
         "dates": dates,
+        "usda_avg": None,
     }

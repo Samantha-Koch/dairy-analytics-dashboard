@@ -7,73 +7,89 @@ from .inventory_kpis import spoilage_rate
 from .market_kpis import milk_class, margin_per_cow
 
 KPI_REGISTRY = {
-    
+
+    # -------------------------
+    # PRODUCTION KPIs
+    # -------------------------
     "milk_yield": {
         "function": milk_yield,
-        "unit": "pounds",
+        "unit": "CWT",
         "has_usda_data": False,
-        "customer_data_exists": True,
+        "customer_metric": "milk yield",
     },
     "butterfat_percentage": {
         "function": butterfat_percent,
-        "unit": "percent",
+        "unit": "%",
         "has_usda_data": True,
-        "customer_data_exists": True,
+        "customer_metric": "butterfat percent",
     },
     "protein_percentage": {
         "function": protein_percent,
-        "unit": "percent",
+        "unit": "%",
         "has_usda_data": True,
-        "customer_data_exists": True,
+        "customer_metric": "protein percent",
     },
     "bulk_scc": {
         "function": bulk_scc,
-        "unit": "cells per mL",
+        "unit": "cells/mL",
         "has_usda_data": True,
-        "customer_data_exists": True,
+        "customer_metric": "bulk tank SCC",
     },
+
+    # -------------------------
+    # FEED & REVENUE KPIs
+    # (multi‑metric → no customer_metric)
+    # -------------------------
     "feed_efficiency": {
         "function": feed_efficiency,
         "unit": "ECM/DMI",
         "has_usda_data": False,
-        "customer_data_exists": True,
     },
     "income_over_feed": {
         "function": income_over_feed,
         "unit": "$/cow/day",
         "has_usda_data": True,
-        "customer_data_exists": True,
     },
+
+    # -------------------------
+    # MARKET KPIs
+    # -------------------------
     "milk_class": {
         "function": milk_class,
-        "unit": "dollars_per_cwt",
+        "unit": "$/CWT",
         "has_usda_data": True,
-        "customer_data_exists": False,
+        # USDA‑only KPI → no customer_metric
     },
     "margin_per_cow": {
         "function": margin_per_cow,
-        "unit": "dollars_per_cow",
+        "unit": "$/CWT",
         "has_usda_data": True,
-        "customer_data_exists": True,
+        # multi‑metric → no customer_metric
     },
 
-    # KPIs WITHOUT USDA DATA
+    # -------------------------
+    # HEALTH KPIs
+    # -------------------------
     "subclinical_mastitis_prevalence": {
         "function": mastitis_prev,
-        "unit": "percent",
+        "unit": "%",
         "has_usda_data": False,
-        "customer_data_exists": True,
+        "customer_metric": "mastitis prevalence",
     },
     "dry_period": {
         "function": dry_period,
         "unit": "days",
         "has_usda_data": False,
-        "customer_data_exists": True,
+        "customer_metric": "dry period",
     },
+
+    # -------------------------
+    # INVENTORY KPIs
+    # -------------------------
     "spoilage_rate": {
         "function": spoilage_rate,
-        "unit": "pounds per month",
+        "unit": "%",
         "has_usda_data": False,
-        "customer_data_exists": True,
+        "customer_metric": "spoilage rate",
     },
 }

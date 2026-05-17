@@ -1,7 +1,7 @@
 # backend/app/analytics/kpi_sql.py
 
 import pandas as pd
-from app.analytics.sql import fetch_dataframe
+from backend.app.analytics.sql import fetch_dataframe
 
 
 

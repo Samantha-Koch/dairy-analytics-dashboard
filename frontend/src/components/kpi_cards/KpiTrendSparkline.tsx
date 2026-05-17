@@ -1,28 +1,28 @@
 import { useEffect, useState } from "react";
-import Plot from "react-plotly.js";
-import Plotly from "plotly.js-dist-min";
-
-Plot.defaultProps = {
-  ...Plot.defaultProps,
-  plotly: Plotly,
-};
+import _Plotly from "plotly.js/lib/core";
+import _createPlotlyComponent from "react-plotly.js/factory";
+const createPlotlyComponent =
+  (_createPlotlyComponent as any).default || _createPlotlyComponent;
+const Plot = createPlotlyComponent(_Plotly);
 
 
 export default function KpiTrendSparkline({ dates, values }) {
   if (!dates || !values || values.length === 0) {
     return <div style={styles.placeholder}>—</div>;
   }
+  const slicedDates = dates.slice(-12);
+  const slicedValues = values.slice(-12);
 
   return (
     <Plot
       data={[
         {
-          x: dates,
-          y: values,
+          x: slicedDates,
+          y: slicedValues,
           type: "scatter",
           mode: "lines",
           line: {
-            color: "#3b82f6",
+            color: "#0B73B9",
             width: 2,
           },
           hoverinfo: "skip",
