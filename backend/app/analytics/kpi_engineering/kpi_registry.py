@@ -47,7 +47,7 @@ KPI_REGISTRY = {
     },
     "income_over_feed": {
         "function": income_over_feed,
-        "unit": "$/cow/day",
+        "unit": "$/cow/month",
         "has_usda_data": True,
     },
 
